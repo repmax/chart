@@ -1,4 +1,4 @@
-count(p.year)	name	tid	year
+count	name	tid	year
 1	2nd line resistance	t1_s5	2001
 1	2nd line resistance	t1_s5	2002
 2	2nd line resistance	t1_s5	2005
