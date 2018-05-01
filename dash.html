@@ -8,7 +8,7 @@ body {
   font-family: sans-serif;
   }
 
-.mylink {
+.mylink a {
     margin:2px;
     padding: 4px 12px;
     background-color: #666;
@@ -26,12 +26,10 @@ body {
 
 function popitup(url) {
   var name = 'w_'+ String(Math.random() * 100);
-newwindow=window.open(url,name,"height=550,width=850,titlebar=0, toolbar=0,menubar=0,location=0,resizable=1,scrollbars=0,status=0");
+newwindow=window.open(url,name,"height=600,width=900,titlebar=0, toolbar=0,menubar=0,location=0,resizable=1,scrollbars=0,status=0");
 if (window.focus) {newwindow.focus()}
 return false;
 }
-
-
 </script>
 </head>
 <body>
