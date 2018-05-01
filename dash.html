@@ -6,8 +6,7 @@
 
 function popitup(url) {
   var name = 'w_'+ String(Math.random() * 100);
-newwindow=window.open(url,name,'height=550,width=850,toolbar=no,menubar=no,location=no,resizable=yes,scrollbars=no,status=no');
-newwindow.title = "Topic chart";
+newwindow=window.open(url,name,"height=550,width=850,titlebar=0, toolbar=0,menubar=0,location=0,resizable=1,scrollbars=0,status=0");
 if (window.focus) {newwindow.focus()}
 return false;
 }
