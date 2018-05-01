@@ -5,7 +5,8 @@
 <script language="javascript" type="text/javascript">
 
 function popitup(url) {
-newwindow=window.open(url,'name','height=500,width=750,resizable,scrollbars,status');
+  var name = 'w_'+ Date.getMilliseconds();
+newwindow=window.open(url,name,'height=500,width=750,resizable,scrollbars,status');
 if (window.focus) {newwindow.focus()}
 return false;
 }
