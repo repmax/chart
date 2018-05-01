@@ -16,6 +16,8 @@ const spec = {
         ],
 
   "signals": [
+    { "name": "cutOff", "value": 0,
+      "bind": {"input": "range", "min": 0, "max": 100, "step": 1} },
     {
       "name": "currentTid", "value": "t1",
       "bind": {"input": "radio", "options":  [
@@ -58,7 +60,7 @@ const spec = {
       "name": "refPapersYear",
       "source": "papersYear",
       "transform": [
-        {"type": "filter", "expr": "norm == 'focus' ? datum.tid == currentTid : isString(datum.tid)"}
+        {"type": "filter", "expr": "norm == 'focus' ? datum.tid == currentTid :  substring(datum.tid, 0, length(datum.tid)-1) == substring(currentTid, 0, length(currentTid)-1)"}
       ]
     },
     {
@@ -77,14 +79,14 @@ const spec = {
       "name": "refTopCitations",
       "source": "topCitations",
       "transform": [
-        {"type": "filter", "expr": "norm == 'focus' ? datum.tid == currentTid : isString(datum.tid)"}
+        {"type": "filter", "expr": "norm == 'focus' ? datum.tid == currentTid : substring(datum.tid, 0, length(datum.tid)-1) == substring(currentTid, 0, length(currentTid)-1)"}
       ]
     },
     {
       "name": "tidTopCitations",
       "source": "topCitations",
       "transform": [
-        {"type": "filter", "expr": "datum.tid == currentTid"}
+        {"type": "filter", "expr": "(datum.tid == currentTid) && (datum.cited > cutOff)"}
       ]
     }
   ],
@@ -126,7 +128,8 @@ const spec = {
       "domainColor": "#00cc99",
       "domainWidth": 3,
       "tickWidth": 2,
-      "titleFontSize": 15
+      "titleFontSize": 15,
+      "titleFontWeight": 500
     },
       "axisX": {
       "domain": true,
