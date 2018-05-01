@@ -2,17 +2,22 @@
 <html>
 
 <head>
+<script language="javascript" type="text/javascript">
 
+function popitup(url) {
+newwindow=window.open(url,'name','height=200,width=150');
+if (window.focus) {newwindow.focus()}
+return false;
+}
+
+
+</script>
 </head>
 <body>
 
 <p><a
  href="chart.html"
- target="blank"
- onclick="window.open("chart.html",
-   "_blank", 'height=200,width=150,resizable,scrollbars,status'); return false;" 
- title="Topic chart"
->Chart topic</a></p>
+ onclick=" return popitup('chart.html'); return false;" title="Topic chart">Chart topic</a></p>
 
 </body>
 </html>
