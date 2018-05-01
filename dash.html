@@ -6,7 +6,7 @@
 
 function popitup(url) {
   var name = 'w_'+ String(Math.random() * 100);
-newwindow=window.open(url,name,'height=500,width=750,resizable,scrollbars,status');
+newwindow=window.open(url,name,'height=500,width=750,menubar=no,location=no,resizable=yes,scrollbars=no,status=no');
 if (window.focus) {newwindow.focus()}
 return false;
 }
@@ -16,7 +16,7 @@ return false;
 </head>
 <body>
 
-<p><a href="chart.html" onclick="return popitup('chart.html')" title="Topic chart">Chart topic</a></p>
+<p><a href="chart.html" onclick="return popitup('chart.html?file=chart.js')" title="Topic chart">Chart topic</a></p>
 
 </body>
 </html>
