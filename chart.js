@@ -24,11 +24,15 @@ const spec = {
     {
       "name": "currentTid", "value": "t1",
       "bind": {"name": "Topic", "input": "radio", "options":  [
+          "mdrtb",
+          "t0",
           "t1",
           "t2",
           "t3",
           "t5",
+          "t6",
           "t1_s0",
+          "t1_s2",
           "t1_s5",
           "t1_s6",
           "t5_s2",
