@@ -60,7 +60,11 @@ const spec = {
     {
       "name": "papersYear",
       "format": {"type": "tsv", "parse": {"count":"number", "year": "date"}},
-      "url": "https://raw.githubusercontent.com/repmax/launchpad/master/steam.tsv"
+      "url": "https://raw.githubusercontent.com/repmax/launchpad/master/steam.tsv",
+      "transform": [
+        { "type": "collect", "sort": {"field": ["tid", "year"]}
+        }
+      ]
     },
     {
       "name": "refPapersYear",
