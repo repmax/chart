@@ -15,11 +15,6 @@ const spec = {
           "step-before"
         ],
 
-  "title": {
-    "text": "Multi-resistant Tuberculosis Topics",
-     "anchor": "start"
-      },
-
   "signals": [
     {
       "name": "currentTid", "value": "t1",
