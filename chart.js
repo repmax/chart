@@ -1,4 +1,5 @@
-const spec = {
+const spec =
+{
   "$schema": "https://vega.github.io/schema/vega/v3.json",
   "width": 710,
   "height": 400,
@@ -24,15 +25,11 @@ const spec = {
     {
       "name": "currentTid", "value": "t1",
       "bind": {"name": "Topic", "input": "radio", "options":  [
-          "mdrtb",
-          "t0",
           "t1",
           "t2",
           "t3",
           "t5",
-          "t6",
           "t1_s0",
-          "t1_s2",
           "t1_s5",
           "t1_s6",
           "t5_s2",
@@ -46,7 +43,7 @@ const spec = {
     },
     {
       "name": "cutOff", "value": 0,
-      "bind": {"name": "Min. citations","input": "range", "min": 0, "max": 150, "step": 1}
+      "bind": {"name": "Min. citations","input": "range", "min": 0, "max": 200, "step": 1}
     },
     {
       "name": "interpolate", "value": "basis",
@@ -97,7 +94,7 @@ const spec = {
       "name": "tidTopCitations",
       "source": "topCitations",
       "transform": [
-        {"type": "filter", "expr": "(datum.tid == currentTid) && (datum.cited > cutOff)"}
+        {"type": "filter", "expr": "(datum.tid == currentTid) && (datum.cited >= cutOff)"}
       ]
     }
   ],
