@@ -1,4 +1,4 @@
-{
+const spec = {
   "$schema": "https://vega.github.io/schema/vega/v3.json",
   "width": 710,
   "height": 400,
@@ -231,4 +231,8 @@
       }
     }
   ]
+}
+
+draw = function () { 
+  vegaEmbed('#vis', spec, {renderer: "svg"});
 }
