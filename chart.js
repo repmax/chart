@@ -1,4 +1,4 @@
-const spec = {
+{
   "$schema": "https://vega.github.io/schema/vega/v3.json",
   "width": 710,
   "height": 400,
@@ -15,12 +15,15 @@ const spec = {
           "step-before"
         ],
 
+  "title": {
+    "text": "Multi-resistant Tuberculosis Topics",
+     "anchor": "start"
+      },
+
   "signals": [
-    { "name": "cutOff", "value": 0,
-      "bind": {"input": "range", "min": 0, "max": 100, "step": 1} },
     {
       "name": "currentTid", "value": "t1",
-      "bind": {"input": "radio", "options":  [
+      "bind": {"name": "Topic", "input": "radio", "options":  [
           "t1",
           "t2",
           "t3",
@@ -35,11 +38,15 @@ const spec = {
     },
     {
       "name": "norm", "value": "normalized",
-      "bind": {"input": "radio", "options": ["normalized", "focus"]}
+      "bind": {"name": "Scale","input": "radio", "options": ["peers", "self"]}
+    },
+    {
+      "name": "cutOff", "value": 0,
+      "bind": {"name": "Min. citations","input": "range", "min": 0, "max": 150, "step": 1}
     },
     {
       "name": "interpolate", "value": "basis",
-      "bind": {"input": "radio", "options": [
+      "bind": {"name":"Style", "input": "radio", "options": [
           "basis",
           "linear",
           "monotone",
@@ -60,7 +67,7 @@ const spec = {
       "name": "refPapersYear",
       "source": "papersYear",
       "transform": [
-        {"type": "filter", "expr": "norm == 'focus' ? datum.tid == currentTid :  substring(datum.tid, 0, length(datum.tid)-1) == substring(currentTid, 0, length(currentTid)-1)"}
+        {"type": "filter", "expr": "norm == 'self' ? datum.tid == currentTid :  substring(datum.tid, 0, length(datum.tid)-1) == substring(currentTid, 0, length(currentTid)-1)"}
       ]
     },
     {
@@ -79,7 +86,7 @@ const spec = {
       "name": "refTopCitations",
       "source": "topCitations",
       "transform": [
-        {"type": "filter", "expr": "norm == 'focus' ? datum.tid == currentTid : substring(datum.tid, 0, length(datum.tid)-1) == substring(currentTid, 0, length(currentTid)-1)"}
+        {"type": "filter", "expr": "norm == 'self' ? datum.tid == currentTid : substring(datum.tid, 0, length(datum.tid)-1) == substring(currentTid, 0, length(currentTid)-1)"}
       ]
     },
     {
@@ -147,13 +154,13 @@ const spec = {
     {"orient": "left",
      "scale": "y",
       "offset": 10,
-      "title": "publications",
+      "title": "Publications per year",
       "titlePadding": 10
     },
     {
       "orient": "right",
       "scale": "z",
-      "title": "citations",
+      "title": "Number of citations",
       "offset": 10,
       "titlePadding": 10
     }
@@ -224,8 +231,4 @@ const spec = {
       }
     }
   ]
-}
-
-draw = function () { 
-  vegaEmbed('#vis', spec, {renderer: "svg"});
 }
