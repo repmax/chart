@@ -1,5 +1,4 @@
-const spec =
-{
+const spec = {
   "$schema": "https://vega.github.io/schema/vega/v3.json",
   "width": 710,
   "height": 400,
@@ -25,11 +24,15 @@ const spec =
     {
       "name": "currentTid", "value": "t1",
       "bind": {"name": "Topic", "input": "radio", "options":  [
+          "mdrtb",
+          "t0",
           "t1",
           "t2",
           "t3",
           "t5",
+          "t6",
           "t1_s0",
+          "t1_s2",
           "t1_s5",
           "t1_s6",
           "t5_s2",
@@ -38,7 +41,7 @@ const spec =
         ]}
     },
     {
-      "name": "norm", "value": "normalized",
+      "name": "norm", "value": "peers",
       "bind": {"name": "Scale","input": "radio", "options": ["peers", "self"]}
     },
     {
