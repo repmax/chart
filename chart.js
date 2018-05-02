@@ -61,7 +61,7 @@ const spec = {
     {
       "name": "papersYear",
       "format": {"type": "tsv", "parse": {"count":"number", "year": "date"}},
-      "url": "https://raw.githubusercontent.com/repmax/data/master/steam.tsv"
+      "url": "https://raw.githubusercontent.com/repmax/launchpad/master/steam.tsv"
     },
     {
       "name": "refPapersYear",
@@ -80,7 +80,7 @@ const spec = {
     {
       "name": "topCitations",
       "format": {"type": "tsv", "parse": {"pubmed": "number", "year": "date", "cited":"number"}},
-      "url": "https://raw.githubusercontent.com/repmax/data/master/topcitation_topic.tsv"
+      "url": "https://raw.githubusercontent.com/repmax/launchpad/master/topcitation_topic.tsv"
     },
     {
       "name": "refTopCitations",
