@@ -1,8 +1,17 @@
 cid	cited	name	pid	pubmed	tid	title	year	last_name
+MOKROUSOV I 2012 PLOS ONE	25	Molecular typing	10.1371_journal.pone.0041318	22844457.0	t0	Mycobacterium tuberculosis Population in Northwestern Russia	2012	MOKROUSOV
+TAFAJ S 2009 J CLIN MICROBIOL	13	Molecular typing	10.1128_JCM.02284_08	19279172.0	t0	First Insight into Genetic Diversity of the Mycobacterium tu	2009	TAFAJ
+HAEILI M 2013 MICROBIOLOGYOPEN	9	Molecular typing	10.1002_mbo3.139	24311556.0	t0	Spoligotyping and drug resistance patterns of Mycobacterium 	2013	HAEILI
+MOKROUSOV I 2015 BMC MICROBIOL	8	Molecular typing	10.1186_s12866_015_0613_3	26679959.0	t0	Trends in molecular epidemiology of drug-resistant tuberculo	2015	MOKROUSOV
+BOUKLATA N 2015 PLOS ONE	7	Molecular typing	10.1371_journal.pone.0135695	26285026.0	t0	Molecular Typing of Mycobacterium Tuberculosis Complex by 24	2015	BOUKLATA
 SUZANA S 2017 TROP MED INT HEALTH	0	Molecular typing	10.1111_tmi.12875	28374900.0	t0	Spoligotyping of Mycobacterium tuberculosis isolates at a te	2017	SUZANA
+LILIENKAMPF A 2009 J MED CHEM	147	Drug-related research	10.1021_jm900003c	19271749.0	t1	Structure-Activity Relationships for a Series of Quinoline-B	2009	LILIENKAMPF
 ZAUNBRECHER MA 2009 P NATL ACAD SCI USA	140	Drug-related research	10.1073_pnas.0907925106	19906990.0	t1	Overexpression of the chromosomally encoded aminoglycoside a	2009	ZAUNBRECHER
+KUMAR RR 2009 EUR J MED CHEM	118	Drug-related research	10.1016_j.ejmech.2009.05.010	19524332.0	t1	A facile synthesis and antimycobacterial evaluation of novel	2009	KUMAR
 RASTOGI N 1996 CURR MICROBIOL	100	Drug-related research	10.1007_s002849900095	8672093.0	t1	In vitro activities of fourteen antimicrobial agents against	1996	RASTOGI
 JIMENEZARELLANES A 2003 PHYTOTHER RES	94	Drug-related research	10.1002_ptr.1377	13680821.0	t1	Activity against multidrug-resistant Mycobacterium tuberculo	2003	JIMENEZARELLANES
+LOUW GE 2011 AM J RESP CRIT CARE	92	Drug-related research	10.1164_rccm.201011_1924OC	21512166.0	t1	Rifampicin Reduces Susceptibility to Ofloxacin in Rifampicin	2011	LOUW
+KUMAR RR 2007 BIOORG MED CHEM LETT	91	Drug-related research	10.1016_j.bmcl.2007.09.095	17933535.0	t1	An atom efficient solvent-free green synthesis and antimycob	2007	KUMAR
 JUGHELI L 2009 ANTIMICROB AGENTS CH	91	Drug-related research	10.1128_AAC.00851_09	19752274.0	t1	High Level of Cross-Resistance between Kanamycin Amikacin an	2009	JUGHELI
 MACHADO D 2012 PLOS ONE	90	Drug-related research	10.1371_journal.pone.0034538	22493700.0	t1	Contribution of Efflux to the Emergence of Isoniazid and Mul	2012	MACHADO
 DE SOUZA MVN 2009 BIOORGAN MED CHEM	81	Drug-related research	10.1016_j.bmc.2009.01.013	19188070.0	t1	Synthesis and in vitro antitubercular activity of a series o	2009	DE
@@ -11,81 +20,129 @@ MORASKI GC 2011 ACS MED CHEM LETT	75	Drug-related research	10.1021_ml200036r	216
 SRIRAM D 2006 BIOORG MED CHEM LETT	66	Drug-related research	10.1016_j.bmcl.2006.02.065	16554151.0	t1	Gatifloxacin derivatives: Synthesis antimycobacterial activi	2006	SRIRAM
 MALIK S 2012 PLOS ONE	64	Drug-related research	10.1371_journal.pone.0039754	22761889.0	t1	New Insights into Fluoroquinolone Resistance in Mycobacteriu	2012	MALIK
 SRIRAM D 2006 J MED CHEM	56	Drug-related research	10.1021_jm060339h	16759086.0	t1	Discovery of new antitubercular oxazolyl thiosemicarbazones	2006	SRIRAM
+CAMACHOCORONA MD 2008 PHYTOTHER RES	52	Drug-related research	10.1002_ptr.2269		t1	Activity against drug resistant-tuberculosis strains of plan	2008	CAMACHOCORONA
 MORASKI GC 2012 BIOORGAN MED CHEM	51	Drug-related research	10.1016_j.bmc.2012.02.025	22391032.0	t1	Generation and exploration of new classes of antitubercular 	2012	MORASKI
+ENCINAS L 2014 J MED CHEM	45	Drug-related research	10.1021_jm401326j	24450589.0	t1	Encoded Library Technology as a Source of Hits for the Disco	2014	ENCINAS
+TEWARI N 2004 BIOORG MED CHEM LETT	44	Drug-related research	10.1016_j.bmcl.2003.11.020	14698152.0	t1	Synthesis of galactopyranosyl amino alcohols as a new class 	2004	TEWARI
+BALAMURUGAN K 2009 TETRAHEDRON LETT	43	Drug-related research	10.1016_j.tetlet.2009.08.085		t1	A facile domino protocol for the regioselective synthesis an	2009	BALAMURUGAN
 BIAVA M 2009 EUR J MED CHEM	43	Drug-related research	10.1016_j.ejmech.2009.06.005	19595488.0	t1	15-Diaryl-2-ethyl pyrrole derivatives as antimycobacterial a	2009	BIAVA
 SOOD R 2005 INT J ANTIMICROB AG	40	Drug-related research	10.1016_j.ijantimicag.2005.01.021	15885988.0	t1	Activity of RBx 7644 and RBx 8700 new investigational oxazol	2005	SOOD
+STOFFELS K 2012 ANTIMICROB AGENTS CH	39	Drug-related research	10.1128_AAC.05385_11	22825123.0	t1	Systematic Analysis of Pyrazinamide-Resistant Spontaneous Mu	2012	STOFFELS
 DIAS MVB 2007 J STRUCT BIOL	37	Drug-related research	10.1016_j.jsb.2007.04.009	17588773.0	t1	Crystallographic studies on the binding of isonicotinyl-NAD 	2007	DIAS
 REEVES AZ 2013 ANTIMICROB AGENTS CH	37	Drug-related research	10.1128_AAC.02191_12	23380727.0	t1	Aminoglycoside Cross-Resistance in Mycobacterium tuberculosi	2013	REEVES
+BALAMURUGAN K 2010 EUR J MED CHEM	37	Drug-related research	10.1016_j.ejmech.2009.11.011	19944499.0	t1	A microwave-assisted facile regioselective Friedlander synth	2010	BALAMURUGAN
 DINAKARAN M 2008 BIOORG MED CHEM LETT	36	Drug-related research	10.1016_j.bmcl.2007.11.110	18068979.0	t1	Novel ofloxacin derivatives: Synthesis antimycobacterial and	2008	DINAKARAN
 SRIRAM D 2007 J MED CHEM	36	Drug-related research	10.1021_jm700999n	17960928.0	t1	Antimycobacterial activities of novel 1-Cyclopropyl/tert-but	2007	SRIRAM
+SRIRAM D 2007 J ANTIMICROB CHEMOTH	35	Drug-related research	10.1093_jac_dkm085	17449482.0	t1	Antimycobacterial activity of novel 1-5-cyclobutyl-13-oxazol	2007	SRIRAM
 RAI D 2007 J MED CHEM	35	Drug-related research	10.1021_jm070391t	17696514.0	t1	Inhibition of Mycobacterium tuberculosis Mycobacterium bovis	2007	RAI
-SENTHILKUMAR P 2009 EUR J MED CHEM	33	Drug-related research	10.1016_j.ejmech.2008.02.031	18502542.0	t1	Synthesis and antimycobacterial activities of novel 6-nitroq	2009	SENTHILKUMAR
+DYE C 2002 J INFECT DIS	213	Operational research	10.1086_339818	11930334.0	t2	Worldwide incidence of multidrug-resistant tuberculosis	2002	DYE
 ABUBAKAR I 2013 LANCET INFECT DIS	143	Operational research	10.1016_S1473_3099_13_70030_6	23531391.0	t2	Tuberculosis 2013:5 Drug-resistant tuberculosis: time for vi	2013	ABUBAKAR
+MIGLIORI GB 2012 EUR RESPIR J	131	Operational research	10.1183_09031936.00203811	22467723.0	t2	European Union Standards for Tuberculosis Care	2012	MIGLIORI
+GUPTA R 2002 TROP MED INT HEALTH	84	Operational research	10.1046_j.1365_3156.2002.00960.x	12390604.0	t2	Increasing transparency in partnerships for health - introdu	2002	GUPTA
+ZAGER EM 2008 BMC INFECT DIS	82	Operational research	10.1186_1471_2334_8_10	18221534.0	t2	Multidrug-resistant tuberculosis	2008	ZAGER
+DIEL R 2014 EUR RESPIR J	75	Operational research	10.1183_09031936.00079413	23949960.0	t2	Costs of tuberculosis disease in the European Union: a syste	2014	DIEL
+DOWDY DW 2008 P NATL ACAD SCI USA	68	Operational research	10.1073_pnas.0800965105	18695217.0	t2	Impact of enhanced tuberculosis diagnosis in South Africa: A	2008	DOWDY
+NARDELL E 2010 INT J TUBERC LUNG D	46	Operational research	pub-1440	20843413.0	t2	Turning off the spigot: reducing drug-resistant tuberculosis	2010	NARDELL
+DHEDA K 2010 INFECT DIS CLIN N AM	42	Operational research	10.1016_j.idc.2010.05.001	20674800.0	t2	Extensively Drug-resistant Tuberculosis: Epidemiology and Ma	2010	DHEDA
 HAYWARD AC 2003 INT J TUBERC LUNG D	39	Operational research	pub-1944	12921151.0	t2	Epidemiology and control of tuberculosis in Western European	2003	HAYWARD
+BECERRA MC 2000 INT J TUBERC LUNG D	37	Operational research	pub-2023	10815730.0	t2	Redefining MDR-TB transmission hot spots	2000	BECERRA
+SCHAAF HS 2009 CLIN CHEST MED	34	Operational research	10.1016_j.ccm.2009.08.019	19925960.0	t2	Multidrug- and Extensively Drug-resistant Tuberculosis in Af	2009	SCHAAF
 MIGLIORI GB 2010 TROP MED INT HEALTH	34	Operational research	10.1111_j.1365_3156.2010.02581.x	20545927.0	t2	Review of multidrug-resistant and extensively drug-resistant	2010	MIGLIORI
+VILLARINO ME 1992 PUBLIC HEALTH REP	28	Operational research	pub-2100	1454973.0	t2	THE MULTIDRUG-RESISTANT TUBERCULOSIS CHALLENGE TO PUBLIC-HEA	1992	VILLARINO
 KANJEE Z 2011 J HOSP INFECT	28	Operational research	10.1016_j.jhin.2011.06.017	21978608.0	t2	Tuberculosis infection control in rural South Africa: survey	2011	KANJEE
+FURIN J 2007 CURR OPIN PULM MED	25	Operational research	10.1097_MCP.0b013e3280f3c0b2	17414129.0	t2	The clinical management of drug-resistant tuberculosis	2007	FURIN
 FLOYD K 2008 B WORLD HEALTH ORGAN	24	Operational research	10.2471_BLT.07.049767	18670669.0	t2	Financial resources required for tuberculosis control to ach	2008	FLOYD
+SALJE H 2014 PLOS MED	24	Operational research	10.1371_journal.pmed.1001674	25025235.0	t2	The Importance of Implementation Strategy in Scaling Up Xper	2014	SALJE
+GUPTA R 2004 LANCET	19	Operational research	10.1016_S0140_6736_03_15394_9	14751708.0	t2	Scaling-up treatment for HIV/AIDS: lessons learned from mult	2004	GUPTA
 FARMER PE 2013 NEW ENGL J MED	19	Operational research	10.1056_NEJMsa1310472	24350951.0	t2	Chronic Infectious Disease and the Future of Health Care Del	2013	FARMER
+RITACCO V 2012 EMERG INFECT DIS	19	Operational research	10.3201_eid1811.120126	23092584.0	t2	HIV Infection and Geographically Bound Transmission of Drug-	2012	RITACCO
 MEHRA M 2013 INT J TUBERC LUNG D	16	Operational research	10.5588_ijtld.12.0959	23827732.0	t2	Assessment of tuberculosis burden in China using a dynamic d	2013	MEHRA
 VON DELFT A 2015 INT J INFECT DIS	16	Operational research	10.1016_j.ijid.2014.12.003	25809771.0	t2	Why healthcare workers are sick of TB	2015	VON
+CAIN KP 2010 INT J TUBERC LUNG D	15	Operational research	pub-1506	20132616.0	t2	Global policies and practices for managing persons exposed t	2010	CAIN
 CONINX R 2007 B WORLD HEALTH ORGAN	14	Operational research	10.2471_BLT.06.037630	17768523.0	t2	Tuberculosis in complex emergencies	2007	CONINX
 GROBUSCH MP 2010 CURR OPIN PULM MED	13	Operational research	10.1097_MCP.0b013e3283378680	20154624.0	t2	Drug-resistant and extensively drug-resistant tuberculosis i	2010	GROBUSCH
+ZELNICK JR 2013 J PUBLIC HEALTH POL	13	Operational research	10.1057_jphp.2013.20	23719292.0	t2	Health-care workers perspectives on workplace safety infecti	2013	ZELNICK
+NADOL P 2008 INT J TUBERC LUNG D	12	Operational research	pub-1714		t2	Electronic tuberculosis surveillance systems: a tool for man	2008	NADOL
+DHEDA K 2017 LANCET RESP MED	12	Operational research	10.1016_S2213_2600_17_30079_6		t2	The epidemiology pathogenesis transmission diagnosis and man	2017	DHEDA
 KORENROMP EL 2012 PLOS ONE	11	Operational research	10.1371_journal.pone.0038816	22719954.0	t2	Implementing the Global Plan to Stop TB 2011-2015-Optimizing	2012	KORENROMP
-ATRE SR 2005 J PUBLIC HEALTH POL	9	Operational research	10.1057_palgrave.jphp_3200014	15906879.0	t2	Multidrug-resistant tuberculosis MDR-TB in India: An attempt	2005	ATRE
-CRADDOCK S 2012 HEALTH PLACE	9	Operational research	10.1016_j.healthplace.2011.05.004	22469533.0	t2	Drug partnerships and global practices	2012	CRADDOCK
-SAMARANAYAKE LP 2002 INT DENT J	8	Operational research	10.1002_j.1875_595X.2002.tb00880.x		t2	Re-emergence of tuberculosis and its variants: implications 	2002	SAMARANAYAKE
-CHAUDHURY RR 2003 NATL MED J INDIA	6	Operational research	pub-1933	14765625.0	t2	Beyond DOTS: Avenues ahead in the management of tuberculosis	2003	CHAUDHURY
-HEIDEBRECHT CL 2011 INT J TUBERC LUNG D	6	Operational research	10.5588_ijtld.10.0296	21682964.0	t2	Tuberculosis surveillance in Cape Town South Africa: an eval	2011	HEIDEBRECHT
-JAKAB Z 2015 TUBERCULOSIS	6	Operational research	10.1016_j.tube.2015.02.027	25829287.0	t2	Consolidated Action Plan to Prevent and Combat Multidrug- an	2015	JAKAB
-EDGINTON ME 2010 INT J TUBERC LUNG D	4	Operational research	pub-1455	20819252.0	t2	Surveillance for MDR-TB: is there an obligation to ensure tr	2010	EDGINTON
-VON DELFT A 2016 CLIN INFECT DIS	4	Operational research	10.1093_cid_ciw037	27118858.0	t2	Exposed but Not Protected: More Is Needed to Prevent Drug-Re	2016	VON
-LONG Q 2016 INFECT DIS POVERTY	3	Operational research	10.1186_s40249_016_0103_3	26822738.0	t2	Drug-resistant tuberculosis control in China: progress and c	2016	LONG
+PALOMINO JC 2002 ANTIMICROB AGENTS CH	458	Diagnostics	10.1128_AAC.46.8.2720_2722.2002	12121966.0	t3	Resazurin microtiter assay plate: Simple and inexpensive met	2002	PALOMINO
 BARNARD M 2008 AM J RESP CRIT CARE	262	Diagnostics	10.1164_rccm.200709_1436OC	18202343.0	t3	Rapid molecular screening for multidrug-resistant tuberculos	2008	BARNARD
+BWANGA F 2009 BMC INFECT DIS	119	Diagnostics	10.1186_1471_2334_9_67	19457256.0	t3	Direct susceptibility testing for multi drug resistant tuber	2009	BWANGA
+MOORE DAJ 2004 J CLIN MICROBIOL	107	Diagnostics	10.1128_JCM.42.10.4432_4437.2004	15472289.0	t3	Microscopic observation drug susceptibility assay a rapid re	2004	MOORE
+ALBERT H 2010 BMC INFECT DIS	57	Diagnostics	10.1186_1471_2334_10_41	20187922.0	t3	Rapid screening of MDR-TB using molecular Line Probe Assay i	2010	ALBERT
 SHIFERAW G 2007 J CLIN MICROBIOL	53	Diagnostics	10.1128_JCM.01949_06	17251409.0	t3	Evaluation of microscopic observation drug susceptibility as	2007	SHIFERAW
 SOLIS LA 2005 INT J TUBERC LUNG D	46	Diagnostics	pub-1861	16013771.0	t3	Validation of a rapid method for detection of M-tuberculosis	2005	SOLIS
+VIVEIROS M 2005 J CLIN MICROBIOL	44	Diagnostics	10.1128_JCM.43.9.4880_4884.2005	16145166.0	t3	Direct application of the INNO-LiPA Rif.TB line-probe assay 	2005	VIVEIROS
+MARTIN A 2005 J CLIN MICROBIOL	41	Diagnostics	10.1128_JCM.43.4.1612_1616.2005	15814974.0	t3	Rapid detection of ofloxacin resistance in Mycobacterium tub	2005	MARTIN
+ANEKVORAPONG R 2010 BMC INFECT DIS	40	Diagnostics	10.1186_1471_2334_10_123	20487550.0	t3	Validation of the GenoType R MTBDRplus assay for detection o	2010	ANEKVORAPONG
+BALABANOVA Y 2009 PLOS ONE	37	Diagnostics	10.1371_journal.pone.0007129	19774085.0	t3	An Integrated Approach to Rapid Diagnosis of Tuberculosis an	2009	BALABANOVA
 EJIGU GS 2008 INT J TUBERC LUNG D	35	Diagnostics	pub-1713	18284841.0	t3	Microscopic-observation drug susceptibility assay provides r	2008	EJIGU
+TUKVADZE N 2012 PLOS ONE	32	Diagnostics	10.1371_journal.pone.0031563	22347495.0	t3	Use of a Molecular Diagnostic Test in AFB Smear Positive Tub	2012	TUKVADZE
 ROBLEDO J 2008 INT J TUBERC LUNG D	22	Diagnostics	pub-1645	19017461.0	t3	Rapid detection of rifampicin and isoniazid resistance in My	2008	ROBLEDO
+LYU J 2013 INT J TUBERC LUNG D	22	Diagnostics	10.5588_ijtld.12.0197	23232012.0	t3	GenoType R MTBDRplus assay detection of drug-resistant tuber	2013	LYU
 YADAV RN 2013 PLOS ONE	21	Diagnostics	10.1371_journal.pone.0072036	24039735.0	t3	Comparative Evaluation of GenoType MTBDRplus Line Probe Assa	2013	YADAV
 BWANGA F 2010 INT J TUBERC LUNG D	19	Diagnostics	pub-1471	20550774.0	t3	Evaluation of seven tests for the rapid detection of multidr	2010	BWANGA
+QUEZADA CM 2007 J CLIN MICROBIOL	18	Diagnostics	10.1128_JCM.00590_07	17626172.0	t3	Implementation validation performed in Rwanda to determine w	2007	QUEZADA
 BWANGA F 2011 PLOS ONE	16	Diagnostics	10.1371_journal.pone.0019565	21573015.0	t3	Direct Nitrate Reductase Assay versus Microscopic Observatio	2011	BWANGA
 RIGOUTS L 2011 INT J TUBERC LUNG D	15	Diagnostics	10.5588_ijtld.10.0515	21682972.0	t3	Evaluation of the Genotype R MTBDRplus assay as a tool for d	2011	RIGOUTS
+CHAUCA JA 2007 INT J TUBERC LUNG D	14	Diagnostics	pub-1767	17609061.0	t3	Evaluation of the accuracy of the microplate Alamar Blue ass	2007	CHAUCA
 KURBATOVA EV 2013 EUR J CLIN MICROBIOL	13	Diagnostics	10.1007_s10096_012_1798_0	23263819.0	t3	Performance of CepheidA R Xpert MTB/RIFA R and TB-BiochipA R	2013	KURBATOVA
+TUKVADZE N 2014 INT J TUBERC LUNG D	12	Diagnostics	10.5588_ijtld.13.0468	24429319.0	t3	Performance of the MTBDRsl assay in Georgia	2014	TUKVADZE
 NATHAVITHARANA RR 2016 J CLIN MICROBIOL	12	Diagnostics	10.1128_JCM.00251_16	27076658.0	t3	Multicenter Noninferiority Evaluation of Hain GenoType MTBDR	2016	NATHAVITHARANA
+GELETA DA 2015 BMC MICROBIOL	10	Diagnostics	10.1186_s12866_015_0566_6	26483194.0	t3	Xpert MTB/RIF assay for diagnosis of pulmonary tuberculosis 	2015	GELETA
 HUANG ZK 2015 J ANTIMICROB CHEMOTH	10	Diagnostics	10.1093_jac_dku384	25266071.0	t3	Evaluation of the microscopic observation drug susceptibilit	2015	HUANG
+CORONEL J 2010 INT J TUBERC LUNG D	8	Diagnostics	pub-1432	20937190.0	t3	MODS accreditation process for regional reference laboratori	2010	CORONEL
 MENDOZA A 2011 INT J TUBERC LUNG D	8	Diagnostics	pub-1401	21219684.0	t3	Reliability of the MODS assay decentralisation process in th	2011	MENDOZA
+KHALIL KF 2015 JCPSP-J COLL PHYSICI	8	Diagnostics	pub-0671	25703755.0	t3	Diagnostic Yield of Bronchoalveolar Lavage Gene Xpert in Sme	2015	KHALIL
 RASSLAN O 2012 INT J TUBERC LUNG D	7	Diagnostics	10.5588_ijtld.11.0547	22584201.0	t3	Microscopic observation drug susceptibility assay in the dia	2012	RASSLAN
-UMUBYEYI AN 2006 INT J TUBERC LUNG D	7	Diagnostics	pub-1816	16848345.0	t3	Evaluation of the resazurin microtiter assay for rapid detec	2006	UMUBYEYI
-CABIBBE AM 2015 J CLIN MICROBIOL	7	Diagnostics	10.1128_JCM.01824_15	26246486.0	t3	Lab-on-Chip-Based Platform for Fast Molecular Diagnosis of M	2015	CABIBBE
-LAZARUS RP 2012 INDIAN J MED MICROBI	6	Diagnostics	10.4103_0255_0857.93039	22361763.0	t3	Evaluation of the microscopic observational drug susceptibil	2012	LAZARUS
-CHEN C 2014 INT J TUBERC LUNG D	6	Diagnostics	10.5588_ijtld.13.0857	25189549.0	t3	Evaluation of the GenoType R MTBDRplus line probe assay on s	2014	CHEN
-PIMKINA E 2015 RESP MED	2	Diagnostics	10.1016_j.rmed.2015.07.006	26403251.0	t3	The Xpert R MTB/RIF assay in routine diagnosis of pulmonary 	2015	PIMKINA
-ULLAH I 2017 J MED MICROBIOL	2	Diagnostics	10.1099_jmm.0.000449	28425873.0	t3	Rapid detection of Mycobacterium tuberculosis and rifampicin	2017	ULLAH
 MITNICK C 2003 NEW ENGL J MED	352	Treatment optimization	10.1056_NEJMoa022928	12519922.0	t5	Community-based therapy for multidrug-resistant tuberculosis	2003	MITNICK
 AHUJA SD 2012 PLOS MED	253	Treatment optimization	10.1371_journal.pmed.1001300	22952439.0	t5	Multidrug Resistant Pulmonary Tuberculosis Treatment Regimen	2012	AHUJA
 MITNICK CD 2008 NEW ENGL J MED	241	Treatment optimization	10.1056_NEJMoa0800106	18687637.0	t5	Comprehensive treatment of extensively drug-resistant tuberc	2008	MITNICK
 LEIMANE V 2005 LANCET	204	Treatment optimization	pub-1889	15664227.0	t5	Clinical outcome of individualised treatment of multidrug-re	2005	LEIMANE
 TAHAOGLU K 2001 NEW ENGL J MED	202	Treatment optimization	10.1056_NEJM200107193450303	11463011.0	t5	The treatment of multidrug-resistant tuberculosis in Turkey	2001	TAHAOGLU
 FALZON D 2013 EUR RESPIR J	197	Treatment optimization	10.1183_09031936.00134712	23100499.0	t5	Resistance to fluoroquinolones and second-Line injectable dr	2013	FALZON
+GANDHI NR 2010 AM J RESP CRIT CARE	185	Treatment optimization	10.1164_rccm.200907_0989OC	19833824.0	t5	HIV Coinfection in Multidrug- and Extensively Drug-Resistant	2010	GANDHI
 SOTGIU G 2012 EUR RESPIR J	175	Treatment optimization	10.1183_09031936.00022912	22496332.0	t5	Efficacy safety and tolerability of linezolid containing reg	2012	SOTGIU
+KIM HR 2007 CLIN INFECT DIS	158	Treatment optimization	10.1086_522537	17968823.0	t5	Impact of extensive drug resistance on treatment outcomes in	2007	KIM
 PARK MM 1996 AM J RESP CRIT CARE	140	Treatment optimization	10.1164_ajrccm.153.1.8542137	8542137.0	t5	Outcome of MDR-TB patients 1983-1993 - Prolonged survival wi	1996	PARK
 SANTHA T 2002 INT J TUBERC LUNG D	137	Treatment optimization	pub-1972	12234133.0	t5	Risk factors associated with default failure and death among	2002	SANTHA
+TURETT GS 1995 CLIN INFECT DIS	133	Treatment optimization	10.1093_clinids_21.5.1238	8589149.0	t5	IMPROVED OUTCOMES FOR PATIENTS WITH MULTIDRUG-RESISTANT TUBE	1995	TURETT
 ESPINAL MA 2001 INT J TUBERC LUNG D	127	Treatment optimization	pub-1992	11605880.0	t5	Determinants of drug-resistant tuberculosis: analysis of 11 	2001	ESPINAL
 PARK IN 2006 J ANTIMICROB CHEMOTH	122	Treatment optimization	10.1093_jac_dkl298	16857689.0	t5	Efficacy and tolerability of daily-half dose linezolid in pa	2006	PARK
 KIM DH 2008 AM J RESP CRIT CARE	115	Treatment optimization	10.1164_rccm.200801_132OC	18703792.0	t5	Treatment Outcomes and Long-term Survival in Patients with E	2008	KIM
+SCHECTER GF 2010 CLIN INFECT DIS	113	Treatment optimization	10.1086_648675	19947856.0	t5	Linezolid in the Treatment of Multidrug-Resistant Tuberculos	2010	SCHECTER
 PARK SK 1998 INT J TUBERC LUNG D	105	Treatment optimization	pub-2050	9848607.0	t5	Outcome of chemotherapy in 107 patients with pulmonary tuber	1998	PARK
 KWON YS 2008 CLIN INFECT DIS	99	Treatment optimization	10.1086_590005	18611154.0	t5	Treatment outcomes for HIV-uninfected patients with multidru	2008	KWON
+RUDDY M 2005 THORAX	98	Treatment optimization	10.1136_thx.2004.026922	15681501.0	t5	Rates of drug resistance and risk factor analysis in civilia	2005	RUDDY
+YEW WW 2003 CHEST	98	Treatment optimization	10.1378_chest.124.4.1476	14555582.0	t5	Comparative roles of levofloxacin and ofloxacin in the treat	2003	YEW
 NATHANSON E 2004 INT J TUBERC LUNG D	96	Treatment optimization	pub-1896	15581210.0	t5	Adverse events in the treatment of multidrug-resistant tuber	2004	NATHANSON
+SALOMON N 1995 CLIN INFECT DIS	94	Treatment optimization	10.1093_clinids_21.5.1245	8589150.0	t5	PREDICTORS AND OUTCOME OF MULTIDRUG-RESISTANT TUBERCULOSIS	1995	SALOMON
 BASHAR M 2001 CHEST	88	Treatment optimization	10.1378_chest.120.5.1514	11713128.0	t5	Increased incidence of multidrug-resistant tuberculosis in d	2001	BASHAR
 CHIANG CY 2006 EUR RESPIR J	87	Treatment optimization	10.1183_09031936.06.00125705	16837502.0	t5	Outcome of pulmonary multidrug-resistant tuberculosis: a 6-y	2006	CHIANG
 TORUN T 2005 INT J TUBERC LUNG D	83	Treatment optimization	pub-1842	16468160.0	t5	Side effects associated with the treatment of multidrug-resi	2005	TORUN
 FURIN JJ 2001 INT J TUBERC LUNG D	83	Treatment optimization	pub-1997	11467371.0	t5	Occurrence of serious adverse effects in patients receiving 	2001	FURIN
 EKER B 2008 EMERG INFECT DIS	82	Treatment optimization	10.3201_eid1411.080729	18976552.0	t5	Multidrug- and Extensively Drug-Resistant Tuberculosis Germa	2008	EKER
+GEERLIGS WA 2000 INT J TUBERC LUNG D	77	Treatment optimization	pub-2017	10949328.0	t5	Multidrug-resistant tuberculosis: long-term treatment outcom	2000	GEERLIGS
+SEUNG KJ 2009 PLOS ONE	77	Treatment optimization	10.1371_journal.pone.0007186	19779624.0	t5	Early Outcomes of MDR-TB Treatment in a High HIV-Prevalence 	2009	SEUNG
+PIUBELLO A 2014 INT J TUBERC LUNG D	71	Treatment optimization	10.5588_ijtld.13.0075	25216832.0	t5	High cure rate with standardised short-course multidrug-resi	2014	PIUBELLO
+SHARMA S 2004 IMMUNOL CELL BIOL	31	Immunology	10.1111_j.1440_1711.2004.01245.x	15283847.0	t6	Mycobacterium tuberculosis induces high production of nitric	2004	SHARMA
 LEE JS 2003 CLIN EXP IMMUNOL	24	Immunology	10.1046_j.1365_2249.2003.02172.x	12780691.0	t6	The production of tumour necrosis factor-alpha is decreased 	2003	LEE
 SHAHEMABADI AS 2007 CLIN EXP IMMUNOL	13	Immunology	10.1111_j.1365_2249.2007.03406.x	17490401.0	t6	Evaluation of T cell immune responses in multi-drug-resistan	2007	SHAHEMABADI
+DE ARAUJO JA 2008 TUBERCULOSIS	13	Immunology	10.1016_j.tube.2008.06.002	18676203.0	t6	Cellular responses to MPT-51 GlcB and ESAT-6 among MDR-TB an	2008	DE
+PINHEIRO RO 2013 CLIN EXP IMMUNOL	9	Immunology	10.1111_cei.12007	23286948.0	t6	Different immunosuppressive mechanisms in multi-drug-resista	2013	PINHEIRO
+LI N 2015 INT J TUBERC LUNG D	5	Immunology	10.5588_ijtld.15.0148	26459539.0	t6	Enrichment of regulatory T-cells in blood of patients with m	2015	LI
+SHAHEMABADI AS 2010 IRAN J IMMUNOL	2	Immunology	pub-1509		t6	IL-10 and IL-12 Production in Response to Mycobacterium Tube	2010	SHAHEMABADI
+OKADA M 2013 HUM VACC IMMUNOTHER	2	Immunology	10.4161_hv.23229	23249543.0	t6	The study of novel DNA vaccines against tuberculosis Inducti	2013	OKADA
+GEFFNER L 2014 PLOS ONE	2	Immunology	10.1371_journal.pone.0097837	24836916.0	t6	Mycobacterium tuberculosis Multidrug Resistant Strain M Indu	2014	GEFFNER
+FAN RH 2016 TUBERCULOSIS	1	Immunology	10.1016_j.tube.2016.02.001	27156613.0	t6	Impaired NK cells activity and increased numbers of CD4CD25r	2016	FAN
+CHAN RCY 2007 J ANTIMICROB CHEMOTH	75	Resistance genes	10.1093_jac_dkm054	17360809.0	t1_s0	Genetic and phenotypic characterization of drug-resistant My	2007	CHAN
+RAMASWAMY SV 2004 J MED MICROBIOL	69	Resistance genes	10.1099_jmm.0.05343_0	14729930.0	t1_s0	Genotypic analysis of multidrug-resistant Mycobacterium tube	2004	RAMASWAMY
 MULLER B 2011 INT J TUBERC LUNG D	38	Resistance genes	pub-1388	21333101.0	t1_s0	inhA promoter mutations: a gateway to extensively drug-resis	2011	MULLER
+MACHADO D 2013 J ANTIMICROB CHEMOTH	33	Resistance genes	10.1093_jac_dkt090	23539241.0	t1_s0	High-level resistance to isoniazid and ethionamide in multid	2013	MACHADO
 POUDEL A 2012 ANTIMICROB AGENTS CH	27	Resistance genes	10.1128_AAC.06418_11	22450970.0	t1_s0	Molecular Characterization of Multidrug-Resistant Mycobacter	2012	POUDEL
 SCHILKE K 1999 INT J TUBERC LUNG D	26	Resistance genes	pub-2040	10423225.0	t1_s0	Universal pattern of RpoB gene mutations among multidrug-res	1999	SCHILKE
 SHENG J 2008 J APPL MICROBIOL	21	Resistance genes	10.1111_j.1365_2672.2008.03815.x	18422555.0	t1_s0	Characterization of rpoB mutations associated with rifampin 	2008	SHENG
+SOWAJASSATAKUL A 2014 BMC MICROBIOL	20	Resistance genes	10.1186_1471_2180_14_165	24953243.0	t1_s0	Molecular characterization of amikacin kanamycin and capreom	2014	SOWAJASSATAKUL
 BALLIF M 2012 BMC MICROBIOL	18	Resistance genes	10.1186_1471_2180_12_191	22943573.0	t1_s0	Drug resistance-conferring mutations in Mycobacterium tuberc	2012	BALLIF
 TORRES JN 2015 EMERG MICROBES INFEC	18	Resistance genes	10.1038_emi.2015.42	26251830.0	t1_s0	Novel katG mutations causing isoniazid resistance in clinica	2015	TORRES
 BOONAIAM S 2010 CLIN MICROBIOL INFEC	17	Resistance genes	10.1111_j.1469_0691.2009.02838.x	19486070.0	t1_s0	Genotypic analysis of genes associated with isoniazid and et	2010	BOONAIAM
@@ -93,52 +150,75 @@ KOZHAMKULOV U 2011 JPN J INFECT DIS	17	Resistance genes	pub-1359	21617314.0	t1_s
 PERDIGAO J 2013 J ANTIMICROB CHEMOTH	16	Resistance genes	10.1093_jac_dks371	23054995.0	t1_s0	From multidrug-resistant to extensively drug-resistant tuber	2013	PERDIGAO
 CHEN J 2012 BRAZ J INFECT DIS	15	Resistance genes	pub-1220	22552454.0	t1_s0	Characterization of gyrA and gyrB mutations and fluoroquinol	2012	CHEN
 KIEPIELA P 1998 MICROB DRUG RESIST	14	Resistance genes	10.1089_mdr.1998.4.263	9988044.0	t1_s0	Comparison of PCR-heteroduplex characterization by automated	1998	KIEPIELA
+IMPERIALE BR 2013 INT J TUBERC LUNG D	13	Resistance genes	10.5588_ijtld.12.0949	23827034.0	t1_s0	Molecular and phenotypic characterisation of Mycobacterium t	2013	IMPERIALE
 HU Y 2010 INT J TUBERC LUNG D	12	Resistance genes	pub-1519	20074413.0	t1_s0	Genetic characterisation of drug-resistant Mycobacterium tub	2010	HU
 CHEN QY 2014 TUBERCULOSIS	12	Resistance genes	10.1016_j.tube.2013.03.004	24325872.0	t1_s0	Molecular characteristics of MDR Mycobacterium tuberculosis 	2014	CHEN
 ZHAO LL 2014 ANTIMICROB AGENTS CH	11	Resistance genes	10.1128_AAC.01792_13	24419342.0	t1_s0	Molecular Characterization of Multidrug-Resistant Mycobacter	2014	ZHAO
 AGDAMAG DMD 2003 INT J TUBERC LUNG D	9	Resistance genes	pub-1931	14598972.0	t1_s0	Characterization of clinical isolates of Mycobacterium tuber	2003	AGDAMAG
+SUGAWARA I 2009 INDIAN J EXP BIOL	9	Resistance genes	pub-1593	19634718.0	t1_s0	Cross-resistance of Mycobacterium tuberculosis isolates amon	2009	SUGAWARA
 THIRUMURUGAN R 2015 J INFECT PUBLIC HEAL	7	Resistance genes	10.1016_j.jiph.2015.05.003	26117709.0	t1_s0	Molecular analysis of rpoB gene mutations in rifampicin resi	2015	THIRUMURUGAN
 MANSON AL 2017 NAT GENET	6	Resistance genes	10.1038_ng.3767	28092681.0	t1_s0	Genomic analysis of globally diverse Mycobacterium tuberculo	2017	MANSON
 RUEDA J 2015 ANTIMICROB AGENTS CH	6	Resistance genes	10.1128_AAC.01028_15	26369965.0	t1_s0	Genotypic Analysis of Genes Associated with Independent Resi	2015	RUEDA
+NIMRI L 2011 FEMS IMMUNOL MED MIC	4	Resistance genes	10.1111_j.1574_695X.2011.00814.x	21569121.0	t1_s0	Detection of mutations associated with multidrug-resistant M	2011	NIMRI
+ALVES SLD 2011 MEM I OSWALDO CRUZ	3	Resistance genes	pub-1318	22012218.0	t1_s0	Clinical data and molecular analysis of Mycobacterium tuberc	2011	ALVES
+ZHANG Z 2014 EUR J CLIN MICROBIOL	3	Resistance genes	10.1007_s10096_014_2144_5	24906439.0	t1_s0	Molecular and phenotypic characterization of multidrug-resis	2014	ZHANG
+AYE KS 2016 J INFECT CHEMOTHER	2	Resistance genes	10.1016_j.jiac.2015.12.009	26806152.0	t1_s0	Genotypic characterization of multi-drug-resistant Mycobacte	2016	AYE
 HAEILI M 2014 INDIAN J MED MICROBI	2	Resistance genes	10.4103_0255_0857.142245	25297024.0	t1_s0	Rapid screening of rpoB and katG mutations in Mycobacterium 	2014	HAEILI
-JUAREZEUSEBIO DM 2017 INFECT GENET EVOL	0	Resistance genes	10.1016_j.meegid.2016.09.012	27637930.0	t1_s0	Molecular characterization of multidrug-resistant Mycobacter	2017	JUAREZEUSEBIO
+KAUR S 2016 TUBERCULOSIS	2	Resistance genes	10.1016_j.tube.2015.10.012	26786660.0	t1_s0	Novel mutations conferring resistance to kanamycin in Mycoba	2016	KAUR
 JIMENEZARELLANES A 2003 PHYTOTHER RES	94	Plant extracts	10.1002_ptr.1377	13680821.0	t1_s2	Activity against multidrug-resistant Mycobacterium tuberculo	2003	JIMENEZARELLANES
 BUENO J 2011 NAT PROD COMMUN	15	Plant extracts	pub-1291	22224302.0	t1_s2	Composition of Three Essential Oils and their Mammalian Cell	2011	BUENO
+KOMAPE NPM 2017 BMC COMPLEM ALTERN M	0	Plant extracts	10.1186_s12906_016_1521_2	28235402.0	t1_s2	Anti-mycobacteria potential and synergistic effects of combi	2017	KOMAPE
 MACHADO D 2012 PLOS ONE	90	2nd line regimens	10.1371_journal.pone.0034538	22493700.0	t1_s5	Contribution of Efflux to the Emergence of Isoniazid and Mul	2012	MACHADO
 KHAN MY 2001 INT J ANTIMICROB AG	37	2nd line regimens	10.1016_S0924_8579_01_00298_9	11337231.0	t1_s5	Increasing resistance of M-tuberculosis to anti-TB drugs in 	2001	KHAN
+VIVEIROS M 2005 IN VIVO	28	2nd line regimens	pub-1860	15999542.0	t1_s5	The in vitro activity of phenothiazines against Mycobacteriu	2005	VIVEIROS
+MARTINS M 2009 INT J ANTIMICROB AG	23	2nd line regimens	10.1016_j.ijantimicag.2008.10.028	19155160.0	t1_s5	SILA 421 an inhibitor of efflux pumps of cancer cells enhanc	2009	MARTINS
 ZVADA SP 2014 ANTIMICROB AGENTS CH	15	2nd line regimens	10.1128_AAC.01478_13	24189253.0	t1_s5	Moxifloxacin Population Pharmacokinetics and Model-Based Com	2014	ZVADA
 JAIN A 2012 TUBERCULOSIS	9	2nd line regimens	10.1016_j.tube.2012.05.010	22789499.0	t1_s5	Pre-XDR  XDR in MDR and Ofloxacin and Kanamycin resistance i	2012	JAIN
 SUNG N 2013 PHOTODIAGN PHOTODYN	9	2nd line regimens	10.1016_j.pdpdt.2013.09.001	24284129.0	t1_s5	Inactivation of multidrug resistant MDR-and extensively drug	2013	SUNG
 RIKIMARU T 2002 INT J TUBERC LUNG D	8	2nd line regimens	pub-1971	12234131.0	t1_s5	Efficacy of common antiseptics against multidrug-resistant M	2002	RIKIMARU
+SHARMA D 2016 FRONT MICROBIOL	8	2nd line regimens	10.3389_fmicb.2016.01816	27895634.0	t1_s5	Cytosolic Proteome Profiling of Aminoglycosides Resistant My	2016	SHARMA
 DONG M 2011 SAUDI MED J	7	2nd line regimens	pub-1287	22057598.0	t1_s5	In vitro efficacy of acetohydroxyacid synthase inhibitors ag	2011	DONG
 ZHANG XB 2013 J ANTIMICROB CHEMOTH	7	2nd line regimens	10.1093_jac_dkt082	23539239.0	t1_s5	Co-occurrence of amikacin-resistant and -susceptible Mycobac	2013	ZHANG
 ALSULTAN A 2015 ANTIMICROB AGENTS CH	6	2nd line regimens	10.1128_AAC.00341_15	25870068.0	t1_s5	Limited Sampling Strategy and Target Attainment Analysis for	2015	ALSULTAN
+SUN ZG 2014 MICROB DRUG RESIST	6	2nd line regimens	10.1089_mdr.2013.0171	24940805.0	t1_s5	Ofloxacin Resistance in Mycobacterium tuberculosis Is Associ	2014	SUN
 SRIVASTAVA S 2016 ANTIMICROB AGENTS CH	6	2nd line regimens	10.1128_AAC.00961_16	27458215.0	t1_s5	Amikacin Optimal Exposure Targets in the Hollow-Fiber System	2016	SRIVASTAVA
 YU X 2016 ANTIMICROB AGENTS CH	2	2nd line regimens	10.1128_AAC.00393_16	27324769.0	t1_s5	Wild-Type and Non-Wild-Type Mycobacterium tuberculosis MIC D	2016	YU
 DE KNEGT GJ 2017 INT J ANTIMICROB AG	1	2nd line regimens	10.1016_j.ijantimicag.2016.11.027	28162983.0	t1_s5	Activity of moxifloxacin and linezolid against Mycobacterium	2017	DE
+MACHADO D 2017 FRONT MICROBIOL	1	2nd line regimens	10.3389_fmicb.2017.00711	28496433.0	t1_s5	Interplay between Mutations and Efflux in Drug Resistant Cli	2017	MACHADO
+VAN RIJN SP 2017 ANTIMICROB AGENTS CH	0	2nd line regimens	10.1128_AAC.02039_16		t1_s5	Sterilizing Effect of Ertapenem-Clavulanate in a Hollow-Fibe	2017	VAN
 VANT BOVENEINDVRUBLEUSKAYA N 2017 ANTIMICROB AGENTS CH	0	2nd line regimens	10.1128_AAC.00343_17		t1_s5	Pharmacokinetics of Levofloxacin in Multidrug-and Extensivel	2017	VANT
 HANS S 2017 J GLOB ANTIMICROB RE	0	2nd line regimens	10.1016_j.jgar.2017.06.007	28735047.0	t1_s5	Sesamol exhibits potent antimycobacterial activity: Underlyi	2017	HANS
 CHANG MJ 2017 INT J ANTIMICROB AG	0	2nd line regimens	10.1016_j.ijantimicag.2017.01.024	28408267.0	t1_s5	Population pharmacokinetics of moxifloxacin cycloserine p-am	2017	CHANG
+KUMAR RR 2009 EUR J MED CHEM	118	New compounds	10.1016_j.ejmech.2009.05.010	19524332.0	t1_s6	A facile synthesis and antimycobacterial evaluation of novel	2009	KUMAR
 MORASKI GC 2011 ACS MED CHEM LETT	75	New compounds	10.1021_ml200036r	21691438.0	t1_s6	Advent of Imidazo12-apyridine-3-carboxamides with Potent Mul	2011	MORASKI
 ESWARAN S 2010 EUR J MED CHEM	72	New compounds	10.1016_j.ejmech.2010.04.022	20537437.0	t1_s6	New quinoline derivatives: Synthesis and investigation of an	2010	ESWARAN
 SRIRAM D 2006 BIOORG MED CHEM LETT	66	New compounds	10.1016_j.bmcl.2006.02.065	16554151.0	t1_s6	Gatifloxacin derivatives: Synthesis antimycobacterial activi	2006	SRIRAM
+KARTHIKEYAN SV 2010 BIOORG MED CHEM LETT	62	New compounds	10.1016_j.bmcl.2009.10.107	19900810.0	t1_s6	A highly atom economic chemo- regio- and stereoselective syn	2010	KARTHIKEYAN
 SRIRAM D 2006 J MED CHEM	56	New compounds	10.1021_jm060339h	16759086.0	t1_s6	Discovery of new antitubercular oxazolyl thiosemicarbazones	2006	SRIRAM
 KARTHIKEYAN SV 2009 BIOORG MED CHEM LETT	54	New compounds	10.1016_j.bmcl.2009.04.029	19403307.0	t1_s6	A microwave-assisted facile regioselective Fischer indole sy	2009	KARTHIKEYAN
 MORASKI GC 2012 BIOORGAN MED CHEM	51	New compounds	10.1016_j.bmc.2012.02.025	22391032.0	t1_s6	Generation and exploration of new classes of antitubercular 	2012	MORASKI
 TEWARI N 2004 BIOORG MED CHEM LETT	44	New compounds	10.1016_j.bmcl.2003.11.020	14698152.0	t1_s6	Synthesis of galactopyranosyl amino alcohols as a new class 	2004	TEWARI
+BALAMURUGAN K 2009 TETRAHEDRON LETT	43	New compounds	10.1016_j.tetlet.2009.08.085		t1_s6	A facile domino protocol for the regioselective synthesis an	2009	BALAMURUGAN
 BALAMURUGAN K 2010 EUR J MED CHEM	37	New compounds	10.1016_j.ejmech.2009.11.011	19944499.0	t1_s6	A microwave-assisted facile regioselective Friedlander synth	2010	BALAMURUGAN
 SRIRAM D 2007 J MED CHEM	36	New compounds	10.1021_jm700999n	17960928.0	t1_s6	Antimycobacterial activities of novel 1-Cyclopropyl/tert-but	2007	SRIRAM
 DINAKARAN M 2008 BIOORG MED CHEM LETT	36	New compounds	10.1016_j.bmcl.2007.11.110	18068979.0	t1_s6	Novel ofloxacin derivatives: Synthesis antimycobacterial and	2008	DINAKARAN
+SRIRAM D 2007 J ANTIMICROB CHEMOTH	35	New compounds	10.1093_jac_dkm085	17449482.0	t1_s6	Antimycobacterial activity of novel 1-5-cyclobutyl-13-oxazol	2007	SRIRAM
+RAI D 2007 J MED CHEM	35	New compounds	10.1021_jm070391t	17696514.0	t1_s6	Inhibition of Mycobacterium tuberculosis Mycobacterium bovis	2007	RAI
 SENTHILKUMAR P 2009 EUR J MED CHEM	33	New compounds	10.1016_j.ejmech.2008.02.031	18502542.0	t1_s6	Synthesis and antimycobacterial activities of novel 6-nitroq	2009	SENTHILKUMAR
 SHELKE SN 2012 BIOORG MED CHEM LETT	31	New compounds	10.1016_j.bmcl.2012.06.072	22832312.0	t1_s6	Green synthesis and anti-infective activities of fluorinated	2012	SHELKE
 MORBIDONI HR 2006 CHEM BIOL	28	New compounds	10.1016_j.chembiol.2006.01.005	16638535.0	t1_s6	Dual inhibition of mycobacterial fatty acid biosynthesis and	2006	MORBIDONI
+LU XY 2011 EUR J MED CHEM	26	New compounds	10.1016_j.ejmech.2011.05.018	21641695.0	t1_s6	Design synthesis and anti-tubercular evaluation of new 2-acy	2011	LU
 DAS SK 2007 BIOORG MED CHEM LETT	26	New compounds	10.1016_j.bmcl.2007.07.089	17764933.0	t1_s6	Design synthesis and antitubercular activity of diarylmethyi	2007	DAS
+KRATKY M 2010 EUR J MED CHEM	25	New compounds	10.1016_j.ejmech.2010.09.040	20937542.0	t1_s6	New amino acid esters of salicylanilides active against MDR-	2010	KRATKY
 DINAKARAN M 2008 BIOORGAN MED CHEM	25	New compounds	10.1016_j.bmc.2007.11.016	18304818.0	t1_s6	Antimycobacterial activities of novel 2-sub-3-fluoro/nitro-5	2008	DINAKARAN
+KUMAR RS 2010 TETRAHEDRON-ASYMMETR	23	New compounds	10.1016_j.tetasy.2010.03.054		t1_s6	13-Dipolar cycloaddition of nitrile oxides to R-1-1-phenylet	2010	KUMAR
 RANJITH PK 2013 BIOORG MED CHEM LETT	22	New compounds	10.1016_j.bmcl.2013.06.072	23942420.0	t1_s6	Design and synthesis of positional isomers of 5 and 6-bromo-	2013	RANJITH
+VAVRIKOVA E 2011 EUR J MED CHEM	20	New compounds	10.1016_j.ejmech.2011.07.052	21855181.0	t1_s6	New fluorine-containing hydrazones active against MDR-tuberc	2011	VAVRIKOVA
 SENTHILKUMAR P 2009 BIOMED PHARMACOTHER	20	New compounds	10.1016_j.biopha.2007.10.004	18031974.0	t1_s6	Antimycobacterial activities of novel fluoroquinolones	2009	SENTHILKUMAR
+MANJASHETTY TH 2011 BIOORG MED CHEM LETT	19	New compounds	10.1016_j.bmcl.2011.01.122	21320779.0	t1_s6	Microwave assisted one-pot synthesis of highly potent novel 	2011	MANJASHETTY
 SRIRAM D 2010 EUR J MED CHEM	18	New compounds	10.1016_j.ejmech.2009.09.033	19942326.0	t1_s6	Discovery of novel antitubercular 210-dihydro-4aH-chromeno32	2010	SRIRAM
+AHSAN MJ 2011 EUR J MED CHEM	16	New compounds	10.1016_j.ejmech.2011.09.035	21978838.0	t1_s6	Synthesis and antimycobacterial evaluation of 3a4-dihydro-3H	2011	AHSAN
 SENTHILKUMAR P 2008 BIOORGAN MED CHEM	15	New compounds	10.1016_j.bmc.2007.11.050	18078756.0	t1_s6	Synthesis and antimycobacterial evaluation of newer 1-cyclop	2008	SENTHILKUMAR
-TANG J 2015 ACS MED CHEM LETT	13	New compounds	10.1021_acsmedchemlett.5600176	26191372.0	t1_s6	Design Synthesis and Biological Evaluation of Pyrazolo15-apy	2015	TANG
 MITNICK CD 2008 NEW ENGL J MED	241	Treatment regimens	10.1056_NEJMoa0800106	18687637.0	t5_s2	Comprehensive treatment of extensively drug-resistant tuberc	2008	MITNICK
 TAHAOGLU K 2001 NEW ENGL J MED	202	Treatment regimens	10.1056_NEJM200107193450303	11463011.0	t5_s2	The treatment of multidrug-resistant tuberculosis in Turkey	2001	TAHAOGLU
 SOTGIU G 2012 EUR RESPIR J	175	Treatment regimens	10.1183_09031936.00022912	22496332.0	t5_s2	Efficacy safety and tolerability of linezolid containing reg	2012	SOTGIU
@@ -155,10 +235,20 @@ ANGER HA 2010 J ANTIMICROB CHEMOTH	64	Treatment regimens	10.1093_jac_dkq017	2015
 PARK SK 2004 INT J TUBERC LUNG D	56	Treatment regimens	pub-1918	15139476.0	t5_s2	Self-administered standardized regimens for multidrug-resist	2004	PARK
 KOH WJ 2012 J ANTIMICROB CHEMOTH	53	Treatment regimens	10.1093_jac_dks078	22403262.0	t5_s2	Daily 300 mg dose of linezolid for multidrug-resistant and e	2012	KOH
 NARITA M 2001 CHEST	52	Treatment regimens	10.1378_chest.120.2.343	11502627.0	t5_s2	Treatment experience of multidrug-resistant tuberculosis in 	2001	NARITA
+PATEL VB 2004 CLIN INFECT DIS	51	Treatment regimens	10.1086_381973	14999630.0	t5_s2	Multidrug-resistant tuberculous meningitis in KwaZulu-Natal 	2004	PATEL
 TANG SJ 2015 EUR RESPIR J	48	Treatment regimens	10.1183_09031936.00035114	25234807.0	t5_s2	Efficacy safety and tolerability of linezolid for the treatm	2015	TANG
 VAN DER WERF MJ 2012 EUR RESPIR J	44	Treatment regimens	10.1183_09031936.00125711	22005918.0	t5_s2	Multidrug resistance after inappropriate tuberculosis treatm	2012	VAN
 PYM AS 2016 EUR RESPIR J	43	Treatment regimens	10.1183_13993003.00724_2015	26647431.0	t5_s2	Bedaquiline in the treatment of multidrug- and extensively d	2016	PYM
+ISAAKIDIS P 2012 PLOS ONE	40	Treatment regimens	10.1371_journal.pone.0040781	22792406.0	t5_s2	Adverse Events among HIV/MDR-TB Co-Infected Patients Receivi	2012	ISAAKIDIS
 MASJEDI MR 2008 INT J TUBERC LUNG D	38	Treatment regimens	pub-1691	18544199.0	t5_s2	Outcome of treatment of MDR-TB patients with standardised re	2008	MASJEDI
+MIRSAEIDI SM 2005 INT J INFECT DIS	31	Treatment regimens	10.1016_j.ijid.2004.09.012	16183321.0	t5_s2	Treatment of multiple drug-resistant tuberculosis MDR-TB in 	2005	MIRSAEIDI
+XU HB 2012 INT J TUBERC LUNG D	29	Treatment regimens	10.5588_ijtld.11.0493	22640450.0	t5_s2	Linezolid in the treatment of MDR-TB: a retrospective clinic	2012	XU
+SHIN SY 2004 CHEST	28	Treatment regimens	10.1378_chest.125.3.974	15006956.0	t5_s2	Hypokalemia among patients receiving treatment for multidrug	2004	SHIN
+LAN NTN 2001 INT J TUBERC LUNG D	23	Treatment regimens	pub-2001	11409587.0	t5_s2	A case series: initial outcome of persons with multidrug-res	2001	LAN
+VISWANATHAN V 2014 J DIABETES COMPLICAT	21	Treatment regimens	10.1016_j.jdiacomp.2013.12.003	24461545.0	t5_s2	Effect of diabetes on treatment outcome of smear-positive pu	2014	VISWANATHAN
+SATTI H 2012 INT J TUBERC LUNG D	20	Treatment regimens	10.5588_ijtld.11.0615	22326109.0	t5_s2	High rate of hypothyroidism among patients treated for multi	2012	SATTI
+HELDAL E 2001 INT J TUBERC LUNG D	19	Treatment regimens	pub-2006	11258506.0	t5_s2	Low failure rate in standardised retreatment of tuberculosis	2001	HELDAL
+SAMMAN Y 2003 CLIN MICROBIOL INFEC	19	Treatment regimens	10.1046_j.1469_0691.2003.00547.x	12667238.0	t5_s2	Treatment outcome of tuberculosis among Saudi nationals: rol	2003	SAMMAN
 KIM DH 2008 AM J RESP CRIT CARE	115	Risk factors	10.1164_rccm.200801_132OC	18703792.0	t5_s3	Treatment Outcomes and Long-term Survival in Patients with E	2008	KIM
 KIM DH 2010 AM J RESP CRIT CARE	67	Risk factors	10.1164_rccm.200911_1656OC	20224066.0	t5_s3	Treatment Outcomes and Survival Based on Drug Resistance Pat	2010	KIM
 KLIIMAN K 2010 INT J TUBERC LUNG D	51	Risk factors	pub-1501	20202304.0	t5_s3	Predictors and mortality associated with treatment default i	2010	KLIIMAN
@@ -166,22 +256,33 @@ SUAREZGARCIA I 2009 EUR J CLIN MICROBIOL	42	Risk factors	10.1007_s10096_008_0627
 LIU CH 2011 PLOS ONE	32	Risk factors	10.1371_journal.pone.0019399	21559362.0	t5_s3	Characteristics and Treatment Outcomes of Patients with MDR 	2011	LIU
 GANDHI NR 2012 INT J TUBERC LUNG D	31	Risk factors	10.5588_ijtld.11.0153	22236852.0	t5_s3	Risk factors for mortality among MDR- and XDR-TB patients in	2012	GANDHI
 ANDREWS JR 2010 PLOS ONE	31	Risk factors	10.1371_journal.pone.0015735	21209951.0	t5_s3	Predictors of Multidrug- and Extensively Drug-Resistant Tube	2010	ANDREWS
+LAW WS 2008 INT J TUBERC LUNG D	29	Risk factors	pub-1671	18713506.0	t5_s3	Risk factors for multidrug-resistant tuberculosis in Hong Ko	2008	LAW
 TANG SJ 2013 PLOS ONE	27	Risk factors	10.1371_journal.pone.0082943	24349402.0	t5_s3	Risk Factors for Poor Treatment Outcomes in Patients with MD	2013	TANG
 JEON DS 2011 J KOREAN MED SCI	23	Risk factors	10.3346_jkms.2011.26.1.33	21218027.0	t5_s3	Treatment Outcome and Mortality among Patients with Multidru	2011	JEON
+EJAZ M 2010 T ROY SOC TROP MED H	22	Risk factors	10.1016_j.trstmh.2010.03.005	20427065.0	t5_s3	Prevalence of multi-drug resistant tuberculosis in Karachi P	2010	EJAZ
 ZHAO P 2012 J INT MED RES	20	Risk factors	10.1177_147323001204000205	22613404.0	t5_s3	Social Behaviour Risk Factors for Drug Resistant Tuberculosi	2012	ZHAO
 GLER MT 2012 INT J TUBERC LUNG D	18	Risk factors	10.5588_ijtld.11.0502	22584124.0	t5_s3	Impact of patient and program factors on default during trea	2012	GLER
 RIFAT M 2014 PLOS ONE	15	Risk factors	10.1371_journal.pone.0105214	25136966.0	t5_s3	Development of Multidrug Resistant Tuberculosis in Banglades	2014	RIFAT
 TANRIKULU AC 2010 MED SCI MONITOR	12	Risk factors	pub-1537	20512101.0	t5_s3	Risk factors for multidrug-resistant tuberculosis in Diyarba	2010	TANRIKULU
 DIANDE S 2009 MICROB DRUG RESIST	12	Risk factors	10.1089_mdr.2009.0906	19728781.0	t5_s3	Risk Factors for Multidrug-Resistant Tuberculosis in Four Ce	2009	DIANDE
 BLONDAL K 2013 INT J TUBERC LUNG D	10	Risk factors	10.5588_ijtld.12.0946	23743316.0	t5_s3	Overall and cause-specific mortality among patients with tub	2013	BLONDAL
+CHAN PC 2013 PLOS ONE	7	Risk factors	10.1371_journal.pone.0057719	23451263.0	t5_s3	Effectiveness of a Government-Organized and Hospital-Initiat	2013	CHAN
 REISSANTOS B 2014 PLOS ONE	7	Risk factors	10.1371_journal.pone.0100082	25003346.0	t5_s3	Treatment Outcomes in Tuberculosis Patients with Diabetes: A	2014	REISSANTOS
 SUN YN 2015 BMC PUBLIC HEALTH	7	Risk factors	10.1186_s12889_015_2327_8	26444417.0	t5_s3	Comparison of characteristics and mortality in multidrug res	2015	SUN
 KHAN MA 2015 SAUDI MED J	6	Risk factors	10.15537_smj.2015.12.12155	26620989.0	t5_s3	Characteristics and treatment outcomes of patients with mult	2015	KHAN
 UMANAH T 2015 BMC INFECT DIS	6	Risk factors	10.1186_s12879_015_1214_3	26511616.0	t5_s3	Treatment outcomes in multidrug resistant tuberculosis-human	2015	UMANAH
 RIFAT M 2015 BMJ OPEN	2	Risk factors	10.1136_bmjopen_2015_008273	26351185.0	t5_s3	Factors related to previous tuberculosis treatment of patien	2015	RIFAT
+LIU QQ 2017 SCI REP-UK	1	Risk factors	10.1038_s41598_017_01213_5	28439071.0	t5_s3	Diabetes mellitus and the risk of multidrug resistant tuberc	2017	LIU
+ALEXANDER GR 2016 EUR J CARDIO-THORAC	1	Risk factors	10.1093_ejcts_ezv228	26142471.0	t5_s3	A retrospective review comparing treatment outcomes of adjuv	2016	ALEXANDER
+DANIELS JF 2015 PLOS ONE	1	Risk factors	10.1371_journal.pone.0142873	26555134.0	t5_s3	Time to ART Initiation among Patients Treated for Rifampicin	2015	DANIELS
+SHARIFF NM 2016 J GLOB ANTIMICROB RE	0	Risk factors	10.1016_j.jgar.2016.04.005	27530850.0	t5_s3	Predictors of death among drug-resistant tuberculosis patien	2016	SHARIFF
+SUN YN 2017 PLOS ONE	0	Risk factors	10.1371_journal.pone.0168865	28118372.0	t5_s3	Impact of Multidrug Resistance on Tuberculosis Recurrence an	2017	SUN
+ZHAO JN 2015 PLOS ONE	0	Risk factors	10.1371_journal.pone.0135205	26284920.0	t5_s3	Multidrug-Resistant Tuberculosis in Patients with Chronic Ob	2015	ZHAO
+ESPINAL MA 2001 INT J TUBERC LUNG D	127	Resistance prevalence	pub-1992	11605880.0	t5_s5	Determinants of drug-resistant tuberculosis: analysis of 11 	2001	ESPINAL
 RUDDY M 2005 THORAX	98	Resistance prevalence	10.1136_thx.2004.026922	15681501.0	t5_s5	Rates of drug resistance and risk factor analysis in civilia	2005	RUDDY
 LOMTADZE N 2009 INT J TUBERC LUNG D	52	Resistance prevalence	pub-1638	19105881.0	t5_s5	Prevalence and risk factors for multidrug-resistant tubercul	2009	LOMTADZE
 SHEN X 2009 INT J TUBERC LUNG D	43	Resistance prevalence	pub-1627	19146756.0	t5_s5	Drug-resistant tuberculosis in Shanghai China 2000-2006: pre	2009	SHEN
+PUNNOTOK J 2000 INT J TUBERC LUNG D	29	Resistance prevalence	pub-2022	10864184.0	t5_s5	Human immunodeficiency virus-related tuberculosis and primar	2000	PUNNOTOK
 CHOI JC 2007 J KOREAN MED SCI	28	Resistance prevalence	10.3346_jkms.2007.22.4.677	17728509.0	t5_s5	Drug resistance rates of Mycobacterium tuberculosis at a pri	2007	CHOI
 MDIVANI N 2008 INT J INFECT DIS	27	Resistance prevalence	10.1016_j.ijid.2008.03.012	18514008.0	t5_s5	High prevalence of multidrug-resistant tuberculosis in Georg	2008	MDIVANI
 YOSHIYAMA T 2001 INT J TUBERC LUNG D	24	Resistance prevalence	pub-2011	11263513.0	t5_s5	Prevalence of drug-resistant tuberculosis in an HIV endemic 	2001	YOSHIYAMA
@@ -192,9 +293,11 @@ PLEUMPANUPAT W 2003 INT J TUBERC LUNG D	15	Resistance prevalence	pub-1950	127570
 HU Y 2008 MICROB DRUG RESIST	15	Resistance prevalence	10.1089_mdr.2008.0823	18707239.0	t5_s5	Prevalence of Multidrug-Resistant Pulmonary Tuberculosis in 	2008	HU
 BUYANKHISHIG B 2011 INT J TUBERC LUNG D	9	Resistance prevalence	10.5588_ijld.10.0594	21943846.0	t5_s5	Nationwide survey of anti-tuberculosis drug resistance in Mo	2011	BUYANKHISHIG
 MICHELETTI VCD 2014 J BRAS PNEUMOL	8	Resistance prevalence	10.1590_S1806_37132014000200009	24831400.0	t5_s5	Drug-resistant tuberculosis in subjects included in the Seco	2014	MICHELETTI
+WAHAB F 2009 JCPSP-J COLL PHYSICI	6	Resistance prevalence	pub-1621	19268015.0	t5_s5	Risk Factors for Multi-Drug Resistant Tuberculosis in Patien	2009	WAHAB
 AKKSILP S 2009 SE ASIAN J TROP MED	5	Resistance prevalence	pub-1577	19842383.0	t5_s5	MULTIDRUG-RESISTANT TB AND HIV IN THAILAND: OVERLAPPING BUT 	2009	AKKSILP
 MI FL 2014 GLOBAL HEALTH ACTION	5	Resistance prevalence	10.3402_gha.v7.24022		t5_s5	Is resistance to anti-tuberculosis drugs associated with typ	2014	MI
 AKKSILP S 2009 SE ASIAN J TROP MED	3	Resistance prevalence	pub-1562	20578461.0	t5_s5	MULTI-DRUG RESISTANT TB AND HIV IN THAILAND: OVERLAPPING BUT	2009	AKKSILP
+AKHTAR AM 2016 J PAK MED ASSOC	1	Resistance prevalence	pub-0297	27524534.0	t5_s5	Prevalence and drug resistance pattern of MDR TB in retreatm	2016	AKHTAR
 BOEHME CC 2010 NEW ENGL J MED	1125	MDRTB	10.1056_NEJMoa0907847	20825313.0	mdrtb	Rapid Molecular Detection of Tuberculosis and Rifampin Resis	2010	BOEHME
 PALOMINO JC 2002 ANTIMICROB AGENTS CH	458	MDRTB	10.1128_AAC.46.8.2720_2722.2002	12121966.0	mdrtb	Resazurin microtiter assay plate: Simple and inexpensive met	2002	PALOMINO
 ZIGNOL M 2006 J INFECT DIS	378	MDRTB	10.1086_505877	16845631.0	mdrtb	Global incidence of multidrug-resistant tuberculosis	2006	ZIGNOL
@@ -211,7 +314,17 @@ CONDOS R 1997 LANCET	234	MDRTB	10.1016_S0140_6736_96_12273_X	9167461.0	mdrtb	Tre
 DYE C 2002 J INFECT DIS	213	MDRTB	10.1086_339818	11930334.0	mdrtb	Worldwide incidence of multidrug-resistant tuberculosis	2002	DYE
 LEIMANE V 2005 LANCET	204	MDRTB	pub-1889	15664227.0	mdrtb	Clinical outcome of individualised treatment of multidrug-re	2005	LEIMANE
 TAHAOGLU K 2001 NEW ENGL J MED	202	MDRTB	10.1056_NEJM200107193450303	11463011.0	mdrtb	The treatment of multidrug-resistant tuberculosis in Turkey	2001	TAHAOGLU
-FALZON D 2013 EUR RESPIR J	197	MDRTB	10.1183_09031936.00134712	23100499.0	mdrtb	Resistance to fluoroquinolones and second-Line injectable dr	2013	FALZON
 LASERSON KF 2005 INT J TUBERC LUNG D	197	MDRTB	pub-1867	15971391.0	mdrtb	Speaking the same language: treatment outcome definitions fo	2005	LASERSON
+FALZON D 2013 EUR RESPIR J	197	MDRTB	10.1183_09031936.00134712	23100499.0	mdrtb	Resistance to fluoroquinolones and second-Line injectable dr	2013	FALZON
 GANDHI NR 2010 AM J RESP CRIT CARE	185	MDRTB	10.1164_rccm.200907_0989OC	19833824.0	mdrtb	HIV Coinfection in Multidrug- and Extensively Drug-Resistant	2010	GANDHI
 MORGAN M 2005 BMC INFECT DIS	176	MDRTB	10.1186_1471_2334_5_62	16050959.0	mdrtb	A commercial line probe assay for the rapid detection of rif	2005	MORGAN
+SOTGIU G 2012 EUR RESPIR J	175	MDRTB	10.1183_09031936.00022912	22496332.0	mdrtb	Efficacy safety and tolerability of linezolid containing reg	2012	SOTGIU
+COMAS I 2012 NAT GENET	170	MDRTB	10.1038_ng.1038		mdrtb	Whole-genome sequencing of rifampicin-resistant Mycobacteriu	2012	COMAS
+FORTUN J 2005 J ANTIMICROB CHEMOTH	169	MDRTB	10.1093_jac_dki148	15911549.0	mdrtb	Linezolid for the treatment of multidrug-resistant tuberculo	2005	FORTUN
+ZIGNOL M 2012 B WORLD HEALTH ORGAN	158	MDRTB	10.2471_BLT.11.092585	22423162.0	mdrtb	Surveillance of anti-tuberculosis drug resistance in the wor	2012	ZIGNOL
+KIM HR 2007 CLIN INFECT DIS	158	MDRTB	10.1086_522537	17968823.0	mdrtb	Impact of extensive drug resistance on treatment outcomes in	2007	KIM
+DYE C 2000 P NATL ACAD SCI USA	157	MDRTB	10.1073_pnas.140102797	10859359.0	mdrtb	Criteria for the control of drug-resistant tuberculosis	2000	DYE
+MARTIN A 2003 ANTIMICROB AGENTS CH	154	MDRTB	10.1128_AAC.47.11.3616_3619.2003	14576129.0	mdrtb	Resazurin microtiter assay plate testing of Mycobacterium tu	2003	MARTIN
+KUMAR RR 2008 J MED CHEM	149	MDRTB	10.1021_jm800545k	18714980.0	mdrtb	Discovery of antimycobacterial spiro-piperidin-4-ones: An at	2008	KUMAR
+FARMER P 1998 INT J TUBERC LUNG D	149	MDRTB	pub-2049	9848606.0	mdrtb	The dilemma of MDR-TB in the global era	1998	FARMER
+MIGLIORI GB 2007 EUR RESPIR J	148	MDRTB	10.1183_09031936.00077307	17690121.0	mdrtb	Clinical and operational value of the extensively drug-resis	2007	MIGLIORI
