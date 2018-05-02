@@ -17,7 +17,7 @@ const spec = {
 
   "signals": [
     {
-      "name": "currentTid", "value": "t1",
+      "name": "currentTid", "value": "mdrtb",
       "bind": {"name": "Topic", "input": "radio", "options":  [
           "mdrtb",
           "t0",
