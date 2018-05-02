@@ -5,15 +5,14 @@ count	name	tid	year
 1	2nd line regimens	t1_s5	2007
 1	2nd line regimens	t1_s5	2008
 3	2nd line regimens	t1_s5	2009
-6	2nd line regimens	t1_s5	2011
+5	2nd line regimens	t1_s5	2011
 5	2nd line regimens	t1_s5	2012
 4	2nd line regimens	t1_s5	2013
 2	2nd line regimens	t1_s5	2014
-5	2nd line regimens	t1_s5	2015
+4	2nd line regimens	t1_s5	2015
 7	2nd line regimens	t1_s5	2016
 7	2nd line regimens	t1_s5	2017
 1	Diagnostics	t3	1998
-1	Diagnostics	t3	2000
 3	Diagnostics	t3	2002
 1	Diagnostics	t3	2003
 2	Diagnostics	t3	2004
@@ -22,100 +21,97 @@ count	name	tid	year
 4	Diagnostics	t3	2007
 4	Diagnostics	t3	2008
 7	Diagnostics	t3	2009
-10	Diagnostics	t3	2010
-8	Diagnostics	t3	2011
-10	Diagnostics	t3	2012
-19	Diagnostics	t3	2013
-17	Diagnostics	t3	2014
-23	Diagnostics	t3	2015
-23	Diagnostics	t3	2016
-25	Diagnostics	t3	2017
+9	Diagnostics	t3	2010
+7	Diagnostics	t3	2011
+9	Diagnostics	t3	2012
+18	Diagnostics	t3	2013
+14	Diagnostics	t3	2014
+21	Diagnostics	t3	2015
+21	Diagnostics	t3	2016
+22	Diagnostics	t3	2017
 1	Drug-related research	t1	1996
 2	Drug-related research	t1	1998
 1	Drug-related research	t1	1999
 1	Drug-related research	t1	2000
 3	Drug-related research	t1	2001
-2	Drug-related research	t1	2002
-7	Drug-related research	t1	2003
+1	Drug-related research	t1	2002
+4	Drug-related research	t1	2003
 4	Drug-related research	t1	2004
 5	Drug-related research	t1	2005
-12	Drug-related research	t1	2006
+11	Drug-related research	t1	2006
 12	Drug-related research	t1	2007
-19	Drug-related research	t1	2008
-26	Drug-related research	t1	2009
+17	Drug-related research	t1	2008
+24	Drug-related research	t1	2009
 23	Drug-related research	t1	2010
-29	Drug-related research	t1	2011
-36	Drug-related research	t1	2012
-36	Drug-related research	t1	2013
-28	Drug-related research	t1	2014
-49	Drug-related research	t1	2015
-49	Drug-related research	t1	2016
-46	Drug-related research	t1	2017
+28	Drug-related research	t1	2011
+30	Drug-related research	t1	2012
+33	Drug-related research	t1	2013
+25	Drug-related research	t1	2014
+45	Drug-related research	t1	2015
+45	Drug-related research	t1	2016
+44	Drug-related research	t1	2017
 1	Immunology	t6	1995
 1	Immunology	t6	1997
 1	Immunology	t6	1998
 1	Immunology	t6	2003
 1	Immunology	t6	2004
 2	Immunology	t6	2005
-2	Immunology	t6	2007
+1	Immunology	t6	2007
 3	Immunology	t6	2008
 2	Immunology	t6	2009
 6	Immunology	t6	2010
-2	Immunology	t6	2011
-3	Immunology	t6	2012
-6	Immunology	t6	2013
+1	Immunology	t6	2012
+4	Immunology	t6	2013
 3	Immunology	t6	2014
-4	Immunology	t6	2015
+2	Immunology	t6	2015
 1	Immunology	t6	2016
-3	Immunology	t6	2017
+1	Immunology	t6	2017
 1	Molecular typing	t0	2006
-1	Molecular typing	t0	2007
 1	Molecular typing	t0	2009
 4	Molecular typing	t0	2010
 1	Molecular typing	t0	2011
-6	Molecular typing	t0	2012
-7	Molecular typing	t0	2013
-3	Molecular typing	t0	2014
+4	Molecular typing	t0	2012
+5	Molecular typing	t0	2013
+2	Molecular typing	t0	2014
 9	Molecular typing	t0	2015
 3	Molecular typing	t0	2016
-3	Molecular typing	t0	2017
+2	Molecular typing	t0	2017
 1	New compounds	t1_s6	2004
-2	New compounds	t1_s6	2005
+1	New compounds	t1_s6	2005
 4	New compounds	t1_s6	2006
 5	New compounds	t1_s6	2007
 7	New compounds	t1_s6	2008
 11	New compounds	t1_s6	2009
-10	New compounds	t1_s6	2010
+9	New compounds	t1_s6	2010
 6	New compounds	t1_s6	2011
 5	New compounds	t1_s6	2012
 4	New compounds	t1_s6	2013
 4	New compounds	t1_s6	2014
 6	New compounds	t1_s6	2015
 5	New compounds	t1_s6	2016
-5	New compounds	t1_s6	2017
+4	New compounds	t1_s6	2017
 1	Operational research	t2	1992
 2	Operational research	t2	1994
 1	Operational research	t2	1995
 1	Operational research	t2	1998
 1	Operational research	t2	1999
 3	Operational research	t2	2000
-1	Operational research	t2	2001
 5	Operational research	t2	2002
 4	Operational research	t2	2003
 3	Operational research	t2	2004
 3	Operational research	t2	2005
-2	Operational research	t2	2006
-8	Operational research	t2	2007
+1	Operational research	t2	2006
+7	Operational research	t2	2007
 9	Operational research	t2	2008
-9	Operational research	t2	2009
-12	Operational research	t2	2010
+8	Operational research	t2	2009
+11	Operational research	t2	2010
 11	Operational research	t2	2011
-19	Operational research	t2	2012
+17	Operational research	t2	2012
 19	Operational research	t2	2013
-18	Operational research	t2	2014
-17	Operational research	t2	2015
-23	Operational research	t2	2016
-27	Operational research	t2	2017
+15	Operational research	t2	2014
+15	Operational research	t2	2015
+22	Operational research	t2	2016
+24	Operational research	t2	2017
 1	Plant extracts	t1_s2	2003
 1	Plant extracts	t1_s2	2008
 1	Plant extracts	t1_s2	2010
@@ -123,7 +119,6 @@ count	name	tid	year
 1	Plant extracts	t1_s2	2012
 1	Plant extracts	t1_s2	2013
 1	Plant extracts	t1_s2	2014
-1	Plant extracts	t1_s2	2016
 3	Plant extracts	t1_s2	2017
 1	Resistance genes	t1_s0	1998
 1	Resistance genes	t1_s0	1999
@@ -135,11 +130,11 @@ count	name	tid	year
 2	Resistance genes	t1_s0	2010
 4	Resistance genes	t1_s0	2011
 5	Resistance genes	t1_s0	2012
-6	Resistance genes	t1_s0	2013
-8	Resistance genes	t1_s0	2014
+5	Resistance genes	t1_s0	2013
+6	Resistance genes	t1_s0	2014
 5	Resistance genes	t1_s0	2015
 5	Resistance genes	t1_s0	2016
-9	Resistance genes	t1_s0	2017
+7	Resistance genes	t1_s0	2017
 1	Resistance prevalence	t5_s5	2000
 3	Resistance prevalence	t5_s5	2001
 1	Resistance prevalence	t5_s5	2002
@@ -156,87 +151,85 @@ count	name	tid	year
 1	Risk factors	t5_s3	1995
 1	Risk factors	t5_s3	1997
 1	Risk factors	t5_s3	2001
-1	Risk factors	t5_s3	2006
 1	Risk factors	t5_s3	2007
 4	Risk factors	t5_s3	2008
 2	Risk factors	t5_s3	2009
-7	Risk factors	t5_s3	2010
-6	Risk factors	t5_s3	2011
+6	Risk factors	t5_s3	2010
+5	Risk factors	t5_s3	2011
 7	Risk factors	t5_s3	2012
 6	Risk factors	t5_s3	2013
 4	Risk factors	t5_s3	2014
 8	Risk factors	t5_s3	2015
 4	Risk factors	t5_s3	2016
 4	Risk factors	t5_s3	2017
-1	Treatment optimization	t5	1994
 2	Treatment optimization	t5	1995
 3	Treatment optimization	t5	1996
 7	Treatment optimization	t5	1997
-4	Treatment optimization	t5	1998
+3	Treatment optimization	t5	1998
 4	Treatment optimization	t5	1999
-4	Treatment optimization	t5	2000
+3	Treatment optimization	t5	2000
 14	Treatment optimization	t5	2001
 9	Treatment optimization	t5	2002
-13	Treatment optimization	t5	2003
-15	Treatment optimization	t5	2004
-21	Treatment optimization	t5	2005
-18	Treatment optimization	t5	2006
-17	Treatment optimization	t5	2007
+12	Treatment optimization	t5	2003
+13	Treatment optimization	t5	2004
+18	Treatment optimization	t5	2005
+17	Treatment optimization	t5	2006
+15	Treatment optimization	t5	2007
 27	Treatment optimization	t5	2008
-35	Treatment optimization	t5	2009
-33	Treatment optimization	t5	2010
-55	Treatment optimization	t5	2011
-57	Treatment optimization	t5	2012
-61	Treatment optimization	t5	2013
-53	Treatment optimization	t5	2014
-69	Treatment optimization	t5	2015
-63	Treatment optimization	t5	2016
-61	Treatment optimization	t5	2017
+34	Treatment optimization	t5	2009
+28	Treatment optimization	t5	2010
+51	Treatment optimization	t5	2011
+53	Treatment optimization	t5	2012
+56	Treatment optimization	t5	2013
+49	Treatment optimization	t5	2014
+62	Treatment optimization	t5	2015
+56	Treatment optimization	t5	2016
+59	Treatment optimization	t5	2017
 1	Treatment regimens	t5_s2	1996
 1	Treatment regimens	t5_s2	1997
 2	Treatment regimens	t5_s2	1998
 1	Treatment regimens	t5_s2	1999
 1	Treatment regimens	t5_s2	2000
 6	Treatment regimens	t5_s2	2001
-2	Treatment regimens	t5_s2	2002
+1	Treatment regimens	t5_s2	2002
 6	Treatment regimens	t5_s2	2003
 4	Treatment regimens	t5_s2	2004
 5	Treatment regimens	t5_s2	2005
 4	Treatment regimens	t5_s2	2006
 1	Treatment regimens	t5_s2	2007
 6	Treatment regimens	t5_s2	2008
-8	Treatment regimens	t5_s2	2009
+6	Treatment regimens	t5_s2	2009
 7	Treatment regimens	t5_s2	2010
 5	Treatment regimens	t5_s2	2011
 14	Treatment regimens	t5_s2	2012
 12	Treatment regimens	t5_s2	2013
 5	Treatment regimens	t5_s2	2014
 5	Treatment regimens	t5_s2	2015
-7	Treatment regimens	t5_s2	2016
-14	Treatment regimens	t5_s2	2017
-1	MDRTB	mdrtb	1992
-2	MDRTB	mdrtb	1993
-5	MDRTB	mdrtb	1994
-10	MDRTB	mdrtb	1995
-7	MDRTB	mdrtb	1996
-14	MDRTB	mdrtb	1997
-15	MDRTB	mdrtb	1998
-14	MDRTB	mdrtb	1999
-18	MDRTB	mdrtb	2000
-26	MDRTB	mdrtb	2001
-24	MDRTB	mdrtb	2002
-41	MDRTB	mdrtb	2003
-30	MDRTB	mdrtb	2004
-54	MDRTB	mdrtb	2005
-50	MDRTB	mdrtb	2006
-58	MDRTB	mdrtb	2007
-88	MDRTB	mdrtb	2008
-103	MDRTB	mdrtb	2009
-122	MDRTB	mdrtb	2010
-145	MDRTB	mdrtb	2011
-192	MDRTB	mdrtb	2012
-192	MDRTB	mdrtb	2013
-180	MDRTB	mdrtb	2014
-246	MDRTB	mdrtb	2015
-226	MDRTB	mdrtb	2016
+6	Treatment regimens	t5_s2	2016
+10	Treatment regimens	t5_s2	2017
 238	MDRTB	mdrtb	2017
+226	MDRTB	mdrtb	2016
+10	MDRTB	mdrtb	1995
+5	MDRTB	mdrtb	1994
+2	MDRTB	mdrtb	1993
+1	MDRTB	mdrtb	1992
+14	MDRTB	mdrtb	1999
+15	MDRTB	mdrtb	1998
+14	MDRTB	mdrtb	1997
+7	MDRTB	mdrtb	1996
+145	MDRTB	mdrtb	2011
+122	MDRTB	mdrtb	2010
+103	MDRTB	mdrtb	2009
+88	MDRTB	mdrtb	2008
+246	MDRTB	mdrtb	2015
+180	MDRTB	mdrtb	2014
+192	MDRTB	mdrtb	2013
+192	MDRTB	mdrtb	2012
+41	MDRTB	mdrtb	2003
+24	MDRTB	mdrtb	2002
+26	MDRTB	mdrtb	2001
+18	MDRTB	mdrtb	2000
+58	MDRTB	mdrtb	2007
+50	MDRTB	mdrtb	2006
+54	MDRTB	mdrtb	2005
+30	MDRTB	mdrtb	2004
