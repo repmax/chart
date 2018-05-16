@@ -1,0 +1,261 @@
+id_top,topic,keyword,number
+t0,Molecular typing,m. tb,34
+t0,Molecular typing,mdr-tb,34
+t0,Molecular typing,tb,26
+t0,Molecular typing,spoligotyping,19
+t0,Molecular typing,multidrug-resistant,14
+t0,Molecular typing,miru-vntr,11
+t0,Molecular typing,drug-resistance,10
+t0,Molecular typing,xdr-tb,9
+t0,Molecular typing,molecular epidemiology,7
+t0,Molecular typing,pyrazinamide,7
+t0,Molecular typing,beijing genotype,6
+t0,Molecular typing,genotyping,6
+t0,Molecular typing,transmission,5
+t0,Molecular typing,pnca,5
+t0,Molecular typing,is6110-rflp,4
+t0,Molecular typing,outbreak,4
+t0,Molecular typing,rpob,4
+t0,Molecular typing,brazil,3
+t0,Molecular typing,bedaquiline,3
+t0,Molecular typing,dot,3
+t1,Drug-related research,mdr-tb,197
+t1,Drug-related research,m. tb,180
+t1,Drug-related research,tb,166
+t1,Drug-related research,drug-resistance,67
+t1,Drug-related research,xdr-tb,54
+t1,Drug-related research,multidrug-resistant,54
+t1,Drug-related research,antimycobacterial,43
+t1,Drug-related research,activity,41
+t1,Drug-related research,anti-tb,39
+t1,Drug-related research,rifampicin,30
+t1,Drug-related research,rpob,30
+t1,Drug-related research,resistance,30
+t1,Drug-related research,isoniazid,28
+t1,Drug-related research,drugs,24
+t1,Drug-related research,fluoroquinolones,15
+t1,Drug-related research,pyrazinamide,14
+t1,Drug-related research,mutations,14
+t1,Drug-related research,second-line drugs,13
+t1,Drug-related research,rifampicin resistance,13
+t1,Drug-related research,gene,13
+t2,Operational research,mdr-tb,153
+t2,Operational research,tb,145
+t2,Operational research,xdr-tb,52
+t2,Operational research,drug-resistance,40
+t2,Operational research,multidrug-resistant,33
+t2,Operational research,epidemiology,26
+t2,Operational research,m. tb,24
+t2,Operational research,treatment,24
+t2,Operational research,drugs,19
+t2,Operational research,drug-resistant tb,19
+t2,Operational research,hiv,17
+t2,Operational research,children,15
+t2,Operational research,surveillance,12
+t2,Operational research,disease,11
+t2,Operational research,infection control,10
+t2,Operational research,transmission,10
+t2,Operational research,diagnosis,9
+t2,Operational research,south-africa,8
+t2,Operational research,health-care workers,8
+t2,Operational research,public health,7
+t3,Diagnostics,mdr-tb,88
+t3,Diagnostics,tb,86
+t3,Diagnostics,m. tb,52
+t3,Diagnostics,drug-resistance,29
+t3,Diagnostics,rifampicin,27
+t3,Diagnostics,xpert mtb/rif,27
+t3,Diagnostics,multidrug-resistant,26
+t3,Diagnostics,genotype mtbdrplus,18
+t3,Diagnostics,dst,18
+t3,Diagnostics,isoniazid,18
+t3,Diagnostics,xdr-tb,16
+t3,Diagnostics,line probe assay,16
+t3,Diagnostics,diagnosis,16
+t3,Diagnostics,rifampicin resistance,16
+t3,Diagnostics,resistance,12
+t3,Diagnostics,rpob,12
+t3,Diagnostics,molecular diagnosis,9
+t3,Diagnostics,mods,8
+t3,Diagnostics,drug-resistant tb,8
+t3,Diagnostics,pulmonary tb,6
+t5,Treatment optimization,tb,343
+t5,Treatment optimization,mdr-tb,343
+t5,Treatment optimization,drug-resistance,117
+t5,Treatment optimization,multidrug-resistant,113
+t5,Treatment optimization,xdr-tb,65
+t5,Treatment optimization,hiv,56
+t5,Treatment optimization,treatment outcomes,55
+t5,Treatment optimization,m. tb,54
+t5,Treatment optimization,treatment,43
+t5,Treatment optimization,drug-resistant tb,37
+t5,Treatment optimization,risk-factors,33
+t5,Treatment optimization,epidemiology,28
+t5,Treatment optimization,outcomes,26
+t5,Treatment optimization,resistance,23
+t5,Treatment optimization,drugs,22
+t5,Treatment optimization,pulmonary tb,21
+t5,Treatment optimization,dst,21
+t5,Treatment optimization,south-africa,18
+t5,Treatment optimization,linezolid,17
+t5,Treatment optimization,second-line drugs,15
+t6,Immunology,mdr-tb,32
+t6,Immunology,tb,27
+t6,Immunology,m. tb,13
+t6,Immunology,multidrug-resistant,7
+t6,Immunology,interferon-gamma,6
+t6,Immunology,cytokines,5
+t6,Immunology,antibiotic,4
+t6,Immunology,drugs,4
+t6,Immunology,immunotherapy,4
+t6,Immunology,spray drying,4
+t6,Immunology,t cells,3
+t6,Immunology,il-12,3
+t6,Immunology,biomarkers,3
+t6,Immunology,tumor necrosis factor-alpha,3
+t6,Immunology,ethionamide,3
+t6,Immunology,ifn-gamma,3
+t6,Immunology,il-10,3
+t6,Immunology,tnf-alpha,3
+t6,Immunology,delivery,3
+t6,Immunology,fluoroquinolones,2
+t1_s0,Resistance genes,m. tb,34
+t1_s0,Resistance genes,mdr-tb,20
+t1_s0,Resistance genes,tb,16
+t1_s0,Resistance genes,drug-resistance,15
+t1_s0,Resistance genes,rpob,13
+t1_s0,Resistance genes,katg,8
+t1_s0,Resistance genes,resistance,8
+t1_s0,Resistance genes,rifampicin,7
+t1_s0,Resistance genes,multidrug-resistant,6
+t1_s0,Resistance genes,xdr-tb,5
+t1_s0,Resistance genes,isoniazid,4
+t1_s0,Resistance genes,rifampicin resistance,4
+t1_s0,Resistance genes,mutations,4
+t1_s0,Resistance genes,gene,4
+t1_s0,Resistance genes,second-line drugs,3
+t1_s0,Resistance genes,inha,3
+t1_s0,Resistance genes,drugs,3
+t1_s0,Resistance genes,novel mutation,3
+t1_s0,Resistance genes,docking,3
+t1_s0,Resistance genes,aminoglycosides,3
+t1_s2,Plant extracts,antimycobacterial,12
+t1_s2,Plant extracts,mdr-tb,11
+t1_s2,Plant extracts,m. tb,10
+t1_s2,Plant extracts,tb,7
+t1_s2,Plant extracts,activity,7
+t1_s2,Plant extracts,anti-tb,3
+t1_s2,Plant extracts,docking,3
+t1_s2,Plant extracts,multidrug-resistant,3
+t1_s2,Plant extracts,molecular docking,3
+t1_s2,Plant extracts,antibacterial activity,2
+t1_s2,Plant extracts,sensitive tb,2
+t1_s2,Plant extracts,molecular modeling,2
+t1_s2,Plant extracts,mexican medicinal plants,2
+t1_s2,Plant extracts,pharmacophore,2
+t1_s2,Plant extracts,mass-spectrometry,2
+t1_s2,Plant extracts,pyrazolines,2
+t1_s2,Plant extracts,benzoxazole,2
+t1_s2,Plant extracts,proteomics,2
+t1_s2,Plant extracts,interaction energy,2
+t1_s2,Plant extracts,fel,1
+t1_s5,2nd line regimens,m. tb,27
+t1_s5,2nd line regimens,tb,19
+t1_s5,2nd line regimens,mdr-tb,18
+t1_s5,2nd line regimens,resistance,8
+t1_s5,2nd line regimens,drug-resistance,6
+t1_s5,2nd line regimens,multidrug-resistant,6
+t1_s5,2nd line regimens,xdr-tb,6
+t1_s5,2nd line regimens,drugs,5
+t1_s5,2nd line regimens,fluoroquinolones,4
+t1_s5,2nd line regimens,linezolid,4
+t1_s5,2nd line regimens,efflux pump,4
+t1_s5,2nd line regimens,second-line drugs,3
+t1_s5,2nd line regimens,rifampicin,3
+t1_s5,2nd line regimens,mycobacteria,3
+t1_s5,2nd line regimens,anti-tb,3
+t1_s5,2nd line regimens,inhibitors,3
+t1_s5,2nd line regimens,moxifloxacin,3
+t1_s5,2nd line regimens,synergy,3
+t1_s5,2nd line regimens,proteomics,3
+t1_s5,2nd line regimens,lc-ms/ms,2
+t1_s6,New compounds,activity,33
+t1_s6,New compounds,anti-tb,32
+t1_s6,New compounds,antimycobacterial,30
+t1_s6,New compounds,m. tb,29
+t1_s6,New compounds,mdr-tb,28
+t1_s6,New compounds,tb,26
+t1_s6,New compounds,antitubercular agents,6
+t1_s6,New compounds,xdr-tb,5
+t1_s6,New compounds,pharmacophore,4
+t1_s6,New compounds,pyrazolines,4
+t1_s6,New compounds,"1,3-dipolar cycloaddition",4
+t1_s6,New compounds,molecular docking,4
+t1_s6,New compounds,structure-activity relationship,4
+t1_s6,New compounds,drug-resistance,3
+t1_s6,New compounds,dna gyrase,3
+t1_s6,New compounds,azomethine ylide,3
+t1_s6,New compounds,isatin,3
+t1_s6,New compounds,h37rv,3
+t1_s6,New compounds,isoniazid,3
+t1_s6,New compounds,drugs,3
+t5_s2,Treatment regimens,mdr-tb,63
+t5_s2,Treatment regimens,tb,57
+t5_s2,Treatment regimens,treatment outcomes,21
+t5_s2,Treatment regimens,multidrug-resistant,21
+t5_s2,Treatment regimens,outcomes,16
+t5_s2,Treatment regimens,xdr-tb,15
+t5_s2,Treatment regimens,treatment,14
+t5_s2,Treatment regimens,drug-resistance,12
+t5_s2,Treatment regimens,linezolid,10
+t5_s2,Treatment regimens,hiv,9
+t5_s2,Treatment regimens,adverse events,7
+t5_s2,Treatment regimens,diabetes mellitus,6
+t5_s2,Treatment regimens,dst,6
+t5_s2,Treatment regimens,m. tb,6
+t5_s2,Treatment regimens,mortality,5
+t5_s2,Treatment regimens,retreatment,5
+t5_s2,Treatment regimens,drugs,4
+t5_s2,Treatment regimens,drug-resistant tb,4
+t5_s2,Treatment regimens,resistance,4
+t5_s2,Treatment regimens,iran,3
+t5_s3,Risk factors,tb,30
+t5_s3,Risk factors,mdr-tb,26
+t5_s3,Risk factors,treatment outcomes,13
+t5_s3,Risk factors,hiv,12
+t5_s3,Risk factors,risk-factors,9
+t5_s3,Risk factors,multidrug-resistant,9
+t5_s3,Risk factors,mortality,8
+t5_s3,Risk factors,drug-resistance,8
+t5_s3,Risk factors,xdr-tb,7
+t5_s3,Risk factors,outcomes,5
+t5_s3,Risk factors,south-africa,4
+t5_s3,Risk factors,survival,4
+t5_s3,Risk factors,drug-resistant tb,4
+t5_s3,Risk factors,patient,3
+t5_s3,Risk factors,human-immunodeficiency-virus,3
+t5_s3,Risk factors,death,3
+t5_s3,Risk factors,antiretroviral therapy,3
+t5_s3,Risk factors,fluoroquinolones,2
+t5_s3,Risk factors,survival rate,2
+t5_s3,Risk factors,mdr,2
+t5_s5,Resistance prevalence,tb,23
+t5_s5,Resistance prevalence,mdr-tb,18
+t5_s5,Resistance prevalence,drug-resistance,14
+t5_s5,Resistance prevalence,multidrug-resistant,10
+t5_s5,Resistance prevalence,hiv,7
+t5_s5,Resistance prevalence,thailand,5
+t5_s5,Resistance prevalence,risk-factors,4
+t5_s5,Resistance prevalence,prevalence,4
+t5_s5,Resistance prevalence,outcomes,3
+t5_s5,Resistance prevalence,diabetes mellitus,3
+t5_s5,Resistance prevalence,pulmonary tb,3
+t5_s5,Resistance prevalence,dst,3
+t5_s5,Resistance prevalence,m. tb,3
+t5_s5,Resistance prevalence,diabetes,3
+t5_s5,Resistance prevalence,china,3
+t5_s5,Resistance prevalence,russia,2
+t5_s5,Resistance prevalence,previously-treated,2
+t5_s5,Resistance prevalence,prison,2
+t5_s5,Resistance prevalence,immigration,2
+t5_s5,Resistance prevalence,survey,2
