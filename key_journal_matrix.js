@@ -26,7 +26,7 @@ const spec = {
   "data": [
     {
       "name": "source_in",
-      "url": "https://raw.githubusercontent.com/repmax/launchpad/master/key_author_matrix.csv",
+      "url": "https://raw.githubusercontent.com/repmax/launchpad/master/key_journal_matrix.csv",
       "format": {
         "type": "csv",
         "parse": {"normal": "number"},
