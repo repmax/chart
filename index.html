@@ -9,7 +9,7 @@ body {
   }
 
 .mylink a {
-    margin:2px;
+    margin: 4px;
     padding: 4px 12px;
     background-color: #666;
     border-color: #ddd;
@@ -17,6 +17,17 @@ body {
 
 .mylink a {
     color: #ccc !important;
+    text-decoration: none !important;
+}
+.mySource a {
+    margin:12px;
+    padding: 4px 12px;
+    background-color: #83a8e2;
+    border-color: #ddd;
+}
+
+.mySource a {
+    color: #333 !important;
     text-decoration: none !important;
 }
 </style>
@@ -36,13 +47,38 @@ return false;
   <h1>Launchpad</h1>
   
 <p class='mylink'><a href="chart.html" onclick="return popitup('chart.html?file=chart.js')" title="Topic chart">Topic chart</a></p>
+
+
+<p class='mySource'><a href="https://github.com/repmax/launchpad/blob/master/steam.tsv
+" 
+  target="popup" 
+   onclick="window.open('https://github.com/repmax/launchpad/blob/master/steam.tsv
+','popup'+Math.random()*100,'width=900,height=600'); return false;" target="_blank">Data source: Topic Chart - publication/year</a></p>
+
+<p class='mySource'><a href="https://github.com/repmax/launchpad/blob/master/topcitation_topic.tsv" 
+  target="popup" 
+   onclick="window.open('https://github.com/repmax/launchpad/blob/master/topcitation_topic.tsv','popup'+Math.random()*100,'width=900,height=600'); return false;" target="_blank">Data source: Topic Chart - top cited publications</a></p>
+
   
 <p class='mylink'><a href="chart.html" onclick="return popitup('chart.html?file=key_author_matrix.js')" title="Topic chart">Author-Keyword / Topic Matrix</a></p>
+
+<p class='mySource'><a href="https://github.com/repmax/launchpad/blob/master/key_author_matrix.csv" 
+  target="popup" 
+   onclick="window.open('https://github.com/repmax/launchpad/blob/master/key_author_matrix.csv','popup'+Math.random()*100,'width=900,height=600'); return false;" target="_blank">Data source: Author-Keyword / Topic Matrix</a></p>
+
   
 <p class='mylink'><a href="chart.html" onclick="return popitup('chart.html?file=key_journal_matrix.js')" title="Topic chart">Journal-Keyword / Topic Matrix</a></p>
 
-  
+<p class='mySource'><a href="https://github.com/repmax/launchpad/blob/master/key_journal_matrix.csv" 
+  target="popup" 
+   onclick="window.open('https://github.com/repmax/launchpad/blob/master/key_journal_matrix.csv','popup'+Math.random()*100,'width=900,height=600'); return false;" target="_blank">Data source: Journal-Keyword / Topic Matrix</a></p>
+
 <p class='mylink'><a href="chart.html" onclick="return popitup('chart.html?file=community_topic.js')" title="Topic chart">Community-Topic Matrix</a></p>  
+
+<p class='mySource'><a href="https://github.com/repmax/launchpad/blob/master/community-topic.tsv" 
+  target="popup" 
+   onclick="window.open('https://github.com/repmax/launchpad/blob/master/community-topic.tsv','popup'+Math.random()*100,'width=900,height=600'); return false;" target="_blank">Data source: Community-Topic Matrix</a></p>
+
 
 <p class='mylink'><a href="https://repmax.github.io/gexf/index.html#author-community.gexf" 
   target="popup" 
