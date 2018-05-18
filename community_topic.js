@@ -92,7 +92,7 @@ const spec = 	{
       "domain": {"data": "source_in", "field": "log_activity"},
       "range": "heatmap",
       "nice": false,
-      "zero": false
+      "zero": true
     }
   ],
   "axes": [
