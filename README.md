@@ -1,4 +1,5 @@
-# Charts
-Construction site for charts
+# Scientometric visualizations
 
-Charts can be seen at: https://repmax.github.io/launchpad/
+Experimentation with processing and visualization of scientometrics.
+
+Visualizations are displayed at https://repmax.github.io/launchpad/
