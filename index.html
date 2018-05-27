@@ -7,27 +7,32 @@
 body {
   font-family: sans-serif;
   }
+img{
+  margin: 30px 0px 0px 0px;
+  }
 
 .mylink a {
-    margin: 4px;
+    margin: 2px 2px 2px 4px;
     padding: 4px 12px;
-    background-color: #666;
+    background-color: #83a8e2;
     border-color: #ddd;
+	font-style: bold;
 }
 
 .mylink a {
-    color: #ccc !important;
+    color: #000 !important;
     text-decoration: none !important;
 }
 .mySource a {
-    margin:12px;
-    padding: 4px 12px;
-    background-color: #83a8e2;
+    margin:2px 1px 0px 4px;
+    padding: 4px 6px;
+    background-color: #999;
     border-color: #ddd;
 }
 
 .mySource a {
     color: #333 !important;
+	font-size: 12px;
     text-decoration: none !important;
 }
 </style>
@@ -44,8 +49,11 @@ return false;
 </script>
 </head>
 <body>
-  <h1>Launchpad</h1>
-  
+  <h1>TB research visualization</h1>
+
+
+<img src="https://repmax.github.io/launchpad/img/topic-chart.png" width=400>
+
 <p class='mylink'><a href="chart.html" onclick="return popitup('chart.html?file=chart.js')" title="Topic chart">Topic chart</a></p>
 
 
@@ -53,36 +61,64 @@ return false;
 " 
   target="popup" 
    onclick="window.open('https://github.com/repmax/launchpad/blob/master/steam.tsv
-','popup'+Math.random()*100,'width=900,height=600'); return false;" target="_blank">Data source: Topic Chart - publication/year</a></p>
+','popup'+Math.random()*100,'width=900,height=600'); return false;" target="_blank">Source: Topic Chart - publication/year</a></p>
 
 <p class='mySource'><a href="https://github.com/repmax/launchpad/blob/master/topcitation_topic.tsv" 
   target="popup" 
-   onclick="window.open('https://github.com/repmax/launchpad/blob/master/topcitation_topic.tsv','popup'+Math.random()*100,'width=900,height=600'); return false;" target="_blank">Data source: Topic Chart - top cited publications</a></p>
+   onclick="window.open('https://github.com/repmax/launchpad/blob/master/topcitation_topic.tsv','popup'+Math.random()*100,'width=900,height=600'); return false;" target="_blank">Source: Topic Chart - top cited publications</a></p>
 
   
+<img src="https://repmax.github.io/launchpad/img/tb_topic_horizont_toplevel.png" width=400>
+<p class='mylink'><a href="https://repmax.github.io/launchpad/img/tb_topic_horizont_toplevel.png" target="_blank">Topic steam / top level</a></p>
+
+<p class='mylink'><a href="https://repmax.github.io/launchpad/img/tb_topic_horizont_sub1.png" target="_blank">Topic steam / sub 1 level</a></p>
+
+<p class='mylink'><a href="https://repmax.github.io/launchpad/img/tb_topic_horizont_sub5.png" target="_blank">Topic steam / sub 5 level</a></p>
+
+
+
+<img src="https://repmax.github.io/launchpad/img/key_author-topic-matrix.png" width=400>
+
+
 <p class='mylink'><a href="chart.html" onclick="return popitup('chart.html?file=key_author_matrix.js')" title="Topic chart">Author-Keyword / Topic Matrix</a></p>
 
 <p class='mySource'><a href="https://github.com/repmax/launchpad/blob/master/key_author_matrix.csv" 
   target="popup" 
-   onclick="window.open('https://github.com/repmax/launchpad/blob/master/key_author_matrix.csv','popup'+Math.random()*100,'width=900,height=600'); return false;" target="_blank">Data source: Author-Keyword / Topic Matrix</a></p>
+   onclick="window.open('https://github.com/repmax/launchpad/blob/master/key_author_matrix.csv','popup'+Math.random()*100,'width=900,height=600'); return false;" target="_blank">Source: Author-Keyword / Topic Matrix</a></p>
+
+   
+
+<img src="https://repmax.github.io/launchpad/img/key_journal-topic-matrix.png" width=400>
+
 
   
 <p class='mylink'><a href="chart.html" onclick="return popitup('chart.html?file=key_journal_matrix.js')" title="Topic chart">Journal-Keyword / Topic Matrix</a></p>
 
 <p class='mySource'><a href="https://github.com/repmax/launchpad/blob/master/key_journal_matrix.csv" 
   target="popup" 
-   onclick="window.open('https://github.com/repmax/launchpad/blob/master/key_journal_matrix.csv','popup'+Math.random()*100,'width=900,height=600'); return false;" target="_blank">Data source: Journal-Keyword / Topic Matrix</a></p>
+   onclick="window.open('https://github.com/repmax/launchpad/blob/master/key_journal_matrix.csv','popup'+Math.random()*100,'width=900,height=600'); return false;" target="_blank">Source: Journal-Keyword / Topic Matrix</a></p>
+
+   
+   
+<img src="https://repmax.github.io/launchpad/img/community-topic-matrix.png" width=400>
+
 
 <p class='mylink'><a href="chart.html" onclick="return popitup('chart.html?file=community_topic.js')" title="Topic chart">Community-Topic Matrix</a></p>  
 
 <p class='mySource'><a href="https://github.com/repmax/launchpad/blob/master/community-topic.tsv" 
   target="popup" 
-   onclick="window.open('https://github.com/repmax/launchpad/blob/master/community-topic.tsv','popup'+Math.random()*100,'width=900,height=600'); return false;" target="_blank">Data source: Community-Topic Matrix</a></p>
+   onclick="window.open('https://github.com/repmax/launchpad/blob/master/community-topic.tsv','popup'+Math.random()*100,'width=900,height=600'); return false;" target="_blank">Source: Community-Topic Matrix</a></p>
 
+  
+   
+<img src="https://repmax.github.io/launchpad/img/community-network.png" width=400>
 
 <p class='mylink'><a href="https://repmax.github.io/gexf/index.html#author-community.gexf" 
   target="popup" 
    onclick="window.open('https://repmax.github.io/gexf/index.html#author-community.gexf','popup'+Math.random()*100,'width=900,height=600'); return false;" target="_blank">Community-Author Network</a></p>
+
+      
+<img src="https://repmax.github.io/launchpad/img/affiliation-location.png" width=400>
 
 
   <p class='mylink'><a href="https://public.tableau.com/profile/kapauw#!/vizhome/tb2_0/Sheet1?publish=yes" 
@@ -90,65 +126,65 @@ return false;
   onclick="window.open('https://public.tableau.com/profile/kapauw#!/vizhome/tb2_0/Sheet1?publish=yes','popup'+Math.random()*100,'width=900,height=600'); return false;" target="_blank">Affiliation Location World Map</a></p>
 
 
-  <h2>Citation networks</h2>
+<img src="https://repmax.github.io/launchpad/img/citation-network.png" width=400>
 
 <p class='mylink'><a href="https://repmax.github.io/gexf/index.html#cit_all_min17.gexf" 
   target="popup" 
-   onclick="window.open('https://repmax.github.io/gexf/index.html#cit_all_min17.gexf','popup'+Math.random()*100,'width=900,height=600'); return false;" target="_blank">cit_all_min17.gexf</a></p>
+   onclick="window.open('https://repmax.github.io/gexf/index.html#cit_all_min17.gexf','popup'+Math.random()*100,'width=900,height=600'); return false;" target="_blank">Citation Network: All min17.gexf</a></p>
 
 
 
 <p class='mylink'><a href="https://repmax.github.io/gexf/index.html#cit_com12_min4.gexf" 
   target="popup" 
-   onclick="window.open('https://repmax.github.io/gexf/index.html#cit_com12_min4.gexf','popup'+Math.random()*100,'width=900,height=600'); return false;" target="_blank">cit_com12_min4.gexf</a></p>
+   onclick="window.open('https://repmax.github.io/gexf/index.html#cit_com12_min4.gexf','popup'+Math.random()*100,'width=900,height=600'); return false;" target="_blank">Citation Network: Community 12_min4.gexf</a></p>
 
 
 
 <p class='mylink'><a href="https://repmax.github.io/gexf/index.html#cit_com139_min3.gexf" 
   target="popup" 
-   onclick="window.open('https://repmax.github.io/gexf/index.html#cit_com139_min3.gexf','popup'+Math.random()*100,'width=900,height=600'); return false;" target="_blank">cit_com139_min3.gexf</a></p>
+   onclick="window.open('https://repmax.github.io/gexf/index.html#cit_com139_min3.gexf','popup'+Math.random()*100,'width=900,height=600'); return false;" target="_blank">Citation Network: Community 139_min3.gexf</a></p>
 
 
 
 <p class='mylink'><a href="https://repmax.github.io/gexf/index.html#cit_com_145_min2.gexf" 
   target="popup" 
-   onclick="window.open('https://repmax.github.io/gexf/index.html#cit_com_145_min2.gexf','popup'+Math.random()*100,'width=900,height=600'); return false;" target="_blank">cit_com_145_min2.gexf</a></p>
+   onclick="window.open('https://repmax.github.io/gexf/index.html#cit_com_145_min2.gexf','popup'+Math.random()*100,'width=900,height=600'); return false;" target="_blank">Citation Network: Community 145_min2.gexf</a></p>
 
 
 
 <p class='mylink'><a href="https://repmax.github.io/gexf/index.html#cit_com_24_min3.gexf" 
   target="popup" 
-   onclick="window.open('https://repmax.github.io/gexf/index.html#cit_com_24_min3.gexf','popup'+Math.random()*100,'width=900,height=600'); return false;" target="_blank">cit_com_24_min3.gexf</a></p>
+   onclick="window.open('https://repmax.github.io/gexf/index.html#cit_com_24_min3.gexf','popup'+Math.random()*100,'width=900,height=600'); return false;" target="_blank">Citation Network: Community 24_min3.gexf</a></p>
 
 
 
 <p class='mylink'><a href="https://repmax.github.io/gexf/index.html#cit_com_27_min4.gexf" 
   target="popup" 
-   onclick="window.open('https://repmax.github.io/gexf/index.html#cit_com_27_min4.gexf','popup'+Math.random()*100,'width=900,height=600'); return false;" target="_blank">cit_com_27_min4.gexf</a></p>
+   onclick="window.open('https://repmax.github.io/gexf/index.html#cit_com_27_min4.gexf','popup'+Math.random()*100,'width=900,height=600'); return false;" target="_blank">Citation Network: Community  27_min4.gexf</a></p>
 
 
 
 <p class='mylink'><a href="https://repmax.github.io/gexf/index.html#cit_t1_min4_out10.gexf" 
   target="popup" 
-   onclick="window.open('https://repmax.github.io/gexf/index.html#cit_t1_min4_out10.gexf','popup'+Math.random()*100,'width=900,height=600'); return false;" target="_blank">cit_t1_min4_out10.gexf</a></p>
+   onclick="window.open('https://repmax.github.io/gexf/index.html#cit_t1_min4_out10.gexf','popup'+Math.random()*100,'width=900,height=600'); return false;" target="_blank">Citation Network: Topic t1_min4_out10.gexf</a></p>
 
 
 
 <p class='mylink'><a href="https://repmax.github.io/gexf/index.html#cit_t2_min3_out3.gexf" 
   target="popup" 
-   onclick="window.open('https://repmax.github.io/gexf/index.html#cit_t2_min3_out3.gexf','popup'+Math.random()*100,'width=900,height=600'); return false;" target="_blank">cit_t2_min3_out3.gexf</a></p>
+   onclick="window.open('https://repmax.github.io/gexf/index.html#cit_t2_min3_out3.gexf','popup'+Math.random()*100,'width=900,height=600'); return false;" target="_blank">Citation Network: Topic t2_min3_out3.gexf</a></p>
 
 
 
 <p class='mylink'><a href="https://repmax.github.io/gexf/index.html#cit_t3_min4_outx3.gexf" 
   target="popup" 
-   onclick="window.open('https://repmax.github.io/gexf/index.html#cit_t3_min4_outx3.gexf','popup'+Math.random()*100,'width=900,height=600'); return false;" target="_blank">cit_t3_min4_outx3.gexf</a></p>
+   onclick="window.open('https://repmax.github.io/gexf/index.html#cit_t3_min4_outx3.gexf','popup'+Math.random()*100,'width=900,height=600'); return false;" target="_blank">Citation Network: Topic t3_min4_outx3.gexf</a></p>
 
 
 
 <p class='mylink'><a href="https://repmax.github.io/gexf/index.html#cit_t5_min16.gexf" 
   target="popup" 
-   onclick="window.open('https://repmax.github.io/gexf/index.html#cit_t5_min16.gexf','popup'+Math.random()*100,'width=900,height=600'); return false;" target="_blank">cit_t5_min16.gexf</a></p>
+   onclick="window.open('https://repmax.github.io/gexf/index.html#cit_t5_min16.gexf','popup'+Math.random()*100,'width=900,height=600'); return false;" target="_blank">Citation Network: Topic t5_min16.gexf</a></p>
 
 
 
