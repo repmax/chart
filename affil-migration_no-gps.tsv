@@ -1,0 +1,91 @@
+id_affil	name	degree	indegree	outdegree	ratio
+uni_2203x	"Univ London, London, England"	27	13	14	48
+alb_0054x	"Albert Einstein Coll Med, Bronx, NY 10467 USA"	26	11	15	42
+mon_1301x	"Montefiore Med Ctr, Bronx, NY 10467 USA"	24	11	13	45
+lon_1137x	"London Sch Hyg & Trop Med, London WC1, England"	23	12	11	52
+ucl_2023x	"UCL, London, England"	17	11	6	64
+uni_2204x	"Univ London Imperial Coll Sci Technol & Med, London, England"	17	8	9	47
+imp_0841x	"Imperial Coll, London, England"	15	8	7	53
+bir_0187x	"Birla Inst Technol & Sci, Andhra Pradesh, India"	13	6	7	46
+que_1653x	"Queen Mary Univ, London, England"	11	6	5	54
+min_1276x	"Minist Publ Hlth, Bangkok, Thailand"	8	3	5	37
+anl_0089x	"ANLIS Carlos G Malbran, DF, Argentina"	8	3	5	37
+fun_0603x	"Fundacao Oswaldo Cruz Amazonia, Amazonas, Brazil"	8	5	3	62
+kil_1032x	"Kilimanjaro Christian Med Ctr, Moshi, Tanzania"	7	2	5	28
+uni_2138x	"Univ Fed Rio Grande do Sul, RS, Brazil"	7	3	4	42
+pub_1637x	"Publ Hlth England, London, England"	6	4	2	66
+ist_0949x	"Ist Sci San Raffaele, I-20132 Milan, Italy"	6	2	4	33
+izm_0954x	"Izmir Gogus Hastaliklari & Cerrahisi Egitim & Ara, Izmir, Turkey"	5	3	2	60
+swe_1914x	"Swedish Inst Communicable Dis Control, Solna, Sweden"	5	3	2	60
+fio_0584x	"Fiocruz MS, BR-21045900 Rio De Janeiro, Brazil"	5	2	3	40
+nat_1405x	"Natl Lung Hosp, Ha Noi, Vietnam"	5	3	2	60
+hos_0788x	"Hosp Muniz, DF, Argentina"	4	1	3	25
+fun_0601x	"Fundacao Estadual Prod & Pesquisa Saude, RS, Brazil"	4	2	2	50
+swe_1915x	"Swedish Inst Infect Dis Control, Solna, Sweden"	4	0	4	0
+anl_0090x	"ANLIS Dr Carlos G Malbran, DF, Argentina"	4	2	2	50
+bur_0227x	"Bur TB Control, Long Isl City, NY USA"	3	2	1	66
+ref_1672x	"Refik Saydam Hifzissihha Merkezi Baskanligi, Ankara, Turkey"	3	0	3	0
+tzu_2019x	"Tzu Chi Univ, Hualien, Taiwan"	3	2	1	66
+red_1668x	"Rede Brasileira Pesquisa Tuberculose, RJ, Brazil"	3	2	1	66
+hea_0708x	"Heart England Fdn Trust, W Midlands, England"	3	1	2	33
+hau_0702x	"Haukeland Hosp, Bergen, Norway"	3	2	1	66
+stg_1885x	"St Georges Univ London, London, England"	3	2	1	66
+fun_0604x	"Fundacao Univ Fed Rio Grande, RS, Brazil"	3	3	0	100
+joh_0988x	"Johnson & Johnson, B-2340 Beerse, Belgium"	2	1	1	50
+gat_0612x	"GATA Haydarpasa Egitim Hastanesi, TR-34668 Istanbul, Turkey"	2	0	2	0
+uni_2279x	"Univ Sao Paulo, BR-14049900 Sao Paulo, Brazil"	2	1	1	50
+uni_2280x	"Univ Sao Paulo FMRP USP, SP, Brazil"	2	1	1	50
+uni_2192x	"Univ Leeds, W Yorkshire, England"	2	2	0	100
+uni_2119x	"Univ Estado Amazonas, Amazonas, Brazil"	2	0	2	0
+uni_2132x	"Univ Fed Goias, Go, Brazil"	2	2	0	100
+nor_1508x	"Northwick Pk Hosp & Clin Res Ctr, Middx, England"	2	0	2	0
+hel_0712x	"Helio Fraga Reference Ctr, Rio De Janeiro, Brazil"	2	1	1	50
+uni_2201x	"Univ Liverpool, Merseyside, England"	2	1	1	50
+bir_0188x	"Birmingham Heartlands Hosp, W Midlands, England"	2	1	1	50
+que_1652x	"Queen Marys Sch Med, London E1 2AT, England"	2	1	1	50
+pha_1595x	"Pham Ngoc Thach Hosp, Ho Chi Minh City, Vietnam"	2	1	1	50
+que_1651x	"Queen Margaret Univ, Midlothian, Scotland"	2	1	1	50
+bud_0220x	"Buddhist Tzu Chi Gen Hosp, Hualien, Taiwan"	2	0	2	0
+hos_0772x	"Hosp FJ Muniz, DF, Argentina"	2	1	1	50
+une_2043x	"UNESP Univ Estadual Paulista, BR-14800903 Araraquara, Brazil"	2	1	1	50
+cor_0376x	"Corp Invest Biol, Medellin, Colombia"	2	1	1	50
+ref_1670x	"Reference Hosp MDR & HIV TB, Sondalo, Italy"	2	1	1	50
+moo_1303x	"Moorfields Eye Hosp NHS Fdn Trust, London, England"	1	1	0	100
+uni_2117x	"Univ Edinburgh, Midlothian, Scotland"	1	0	1	0
+nat_1382x	"Natl Inst Hyg & Epidemiol, Hanoi, Vietnam"	1	1	0	100
+uni_2120x	"Univ Estado Rio De Janeiro, Rio De Janeiro, Brazil"	1	1	0	100
+nor_1506x	"North West London Hosp NHS Trust, London, England"	1	1	0	100
+ucl_2026x	"UCL Med Sch, London W1T 4JF, England"	1	0	1	0
+hos_0803x	"Hosp Trop Dis, Ho Chi Minh City, Vietnam"	1	1	0	100
+tzu_2018x	"Tzu Chi Gen Hosp, Hualien, Taiwan"	1	1	0	100
+nat_1387x	"Natl Inst Med Res, London NW7 1AA, England"	1	0	1	0
+unc_2040x	"UN City, Copenhagen, Denmark"	1	1	0	100
+liv_1134x	"Liverpool Heart & Chest Hosp, Merseyside, England"	1	1	0	100
+dra_0497x	"Dr Anuar Auad Trop Dis Hosp, Go, Brazil"	1	0	1	0
+wel_2395x	"Wellcome Trust Imperial Coll Ctr Global Hlth Res, London, England"	1	1	0	100
+une_2042x	"UNESP, SP, Brazil"	1	0	1	0
+mun_1328x	"Municipal Hosp J Muniz, DF, Argentina"	1	1	0	100
+pro_1629x	"Project TB Prevent & Control Kyiv City Ukraine, Kiev, Ukraine"	1	0	1	0
+cha_0265x	"Chang Hua Hosp, Changhua, Taiwan"	1	0	1	0
+yes_2464x	"Yeshiva Univ, Bronx, NY USA"	1	1	0	100
+har_0686x	"Haramaya Univ, Haramaya, Ethiopia"	1	1	0	100
+hel_0715x	"Helwan Univ, Cairo 11795, Egypt"	1	1	0	100
+stm_1890x	"St Marys Hosp, London, England"	1	1	0	100
+roy_1713x	"Royal Infirm, Midlothian, Scotland"	1	1	0	100
+roy_1710x	"Royal Free Hampstead NHS Trust, London NW3 2QG, England"	1	0	1	0
+min_1253x	"Minist Hlth, Maputo, Mozambique"	1	0	1	0
+vie_2375x	"Vietnam Natl Inst Hyg & Epidemiol, Hanoi 10000, Vietnam"	1	0	1	0
+uni_2282x	"Univ Sci & Technol, Bannu, Pakistan"	1	1	0	100
+cit_0347x	"City Rd Med Ctr, London, England"	1	1	0	100
+uni_2194x	"Univ Leicester, Leics, England"	1	1	0	100
+sou_1844x	"Southampton Univ Hosp, Hants, England"	1	0	1	0
+kin_1050x	"Kings Coll London, London SE1 9NH, England"	1	0	1	0
+kin_1049x	"Kings Coll Hosp London, London, England"	1	1	0	100
+uni_2240x	"Univ Nilton Lins, Amazonas, Brazil"	1	0	1	0
+uni_2126x	"Univ Fed Amazonas, Amazonas, Brazil"	1	1	0	100
+uni_2206x	"Univ Luterana Brasil, RS, Brazil"	1	0	1	0
+uni_2075x	"Univ Brasilia, DF, Brazil"	1	0	1	0
+bra_0205x	"Brasilia Fed Univ, DF, Brazil"	1	1	0	100
+hey_0722x	"Heybeliada Chest Dis & Chest Surg Ctr, TR-34692 Istanbul, Turkey"	1	0	1	0
+adi_0024x	"Adiyaman Univ, Adiyaman, Turkey"	1	1	0	100
+han_0682x	"Hanoi Univ Pharm, Hanoi, Vietnam"	1	1	0	100
