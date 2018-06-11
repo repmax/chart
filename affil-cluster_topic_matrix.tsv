@@ -1,0 +1,1673 @@
+cluster	name	theme	topic	type	weight
+c5	Treatment optimization	mdrtb	t5	anglo	87
+c4	Treatment optimization	mdrtb	t5	euro	5
+c5	Treatment optimization	mdrtb	t5	anglo	55
+c4	Treatment optimization	mdrtb	t5	euro	83
+c11	Treatment optimization	mdrtb	t5	glocal	99
+c10	Drug-related research	mdrtb	t1	anglo	63
+c5	Treatment optimization	mdrtb	t5	anglo	90
+c5	Treatment regimens	t5	t5_s2	anglo	55
+c10	Treatment optimization	mdrtb	t5	anglo	9
+c10	Treatment regimens	t5	t5_s2	anglo	5
+c5	Drug-related research	mdrtb	t1	anglo	5
+c5	2nd line regimens	t1	t1_s5	anglo	6
+c10	Drug-related research	mdrtb	t1	anglo	75
+c10	2nd line regimens	t1	t1_s5	anglo	86
+c101	Treatment optimization	mdrtb	t5	glocal	72
+c2	Diagnostics	mdrtb	t3	glocal	85
+c4	Drug-related research	mdrtb	t1	euro	98
+c5	Treatment optimization	mdrtb	t5	anglo	97
+c4	Treatment optimization	mdrtb	t5	euro	22
+c0	Treatment optimization	mdrtb	t5	euro	77
+c4	Treatment optimization	mdrtb	t5	euro	76
+c4	Treatment regimens	t5	t5_s2	euro	63
+c10	Treatment optimization	mdrtb	t5	anglo	5
+c10	Treatment regimens	t5	t5_s2	anglo	4
+c5	Treatment optimization	mdrtb	t5	anglo	99
+c5	Risk factors	t5	t5_s3	anglo	92
+c2	Diagnostics	mdrtb	t3	glocal	95
+c10	Operational research	mdrtb	t2	anglo	65
+c11	Operational research	mdrtb	t2	glocal	84
+c10	Operational research	mdrtb	t2	anglo	14
+c5	Treatment optimization	mdrtb	t5	anglo	86
+c4	Treatment optimization	mdrtb	t5	euro	19
+c4	Resistance prevalence	t5	t5_s5	euro	21
+c0	Treatment optimization	mdrtb	t5	euro	9
+c0	Resistance prevalence	t5	t5_s5	euro	10
+c13	Treatment optimization	mdrtb	t5	glocal	48
+c13	Resistance prevalence	t5	t5_s5	glocal	52
+c10	Treatment optimization	mdrtb	t5	anglo	9
+c10	Resistance prevalence	t5	t5_s5	anglo	10
+c10	Operational research	mdrtb	t2	anglo	94
+c5	Operational research	mdrtb	t2	anglo	75
+c10	Operational research	mdrtb	t2	anglo	12
+c18	Treatment optimization	mdrtb	t5	glocal	72
+c4	Treatment optimization	mdrtb	t5	euro	89
+c4	Resistance prevalence	t5	t5_s5	euro	65
+c18	Treatment optimization	mdrtb	t5	glocal	79
+c5	Drug-related research	mdrtb	t1	anglo	85
+c5	2nd line regimens	t1	t1_s5	anglo	73
+c0	Treatment optimization	mdrtb	t5	euro	62
+c101	Drug-related research	mdrtb	t1	glocal	79
+c101	New compounds	t1	t1_s6	glocal	98
+c11	Treatment optimization	mdrtb	t5	glocal	10
+c11	Resistance prevalence	t5	t5_s5	glocal	8
+c13	Treatment optimization	mdrtb	t5	glocal	86
+c13	Resistance prevalence	t5	t5_s5	glocal	64
+c5	Treatment optimization	mdrtb	t5	anglo	99
+c4	Drug-related research	mdrtb	t1	euro	16
+c4	2nd line regimens	t1	t1_s5	euro	18
+c13	Drug-related research	mdrtb	t1	glocal	12
+c13	2nd line regimens	t1	t1_s5	glocal	13
+c10	Drug-related research	mdrtb	t1	anglo	41
+c10	2nd line regimens	t1	t1_s5	anglo	45
+c4	Diagnostics	mdrtb	t3	euro	99
+c2	Treatment optimization	mdrtb	t5	glocal	99
+c2	Risk factors	t5	t5_s3	glocal	99
+c11	Operational research	mdrtb	t2	glocal	49
+c10	Operational research	mdrtb	t2	anglo	24
+c4	Treatment optimization	mdrtb	t5	euro	92
+c13	Drug-related research	mdrtb	t1	glocal	94
+c13	Drug-related research	mdrtb	t1	glocal	91
+c13	Resistance genes	t1	t1_s0	glocal	90
+c47	Drug-related research	mdrtb	t1	euro	7
+c47	2nd line regimens	t1	t1_s5	euro	6
+c19	Drug-related research	mdrtb	t1	euro	91
+c19	2nd line regimens	t1	t1_s5	euro	82
+c2	Drug-related research	mdrtb	t1	glocal	79
+c2	Diagnostics	mdrtb	t3	glocal	79
+c10	Treatment optimization	mdrtb	t5	anglo	99
+c10	Resistance prevalence	t5	t5_s5	anglo	96
+c2	Drug-related research	mdrtb	t1	glocal	76
+c2	New compounds	t1	t1_s6	glocal	76
+c13	Drug-related research	mdrtb	t1	glocal	21
+c13	New compounds	t1	t1_s6	glocal	21
+c11	Drug-related research	mdrtb	t1	glocal	80
+c11	2nd line regimens	t1	t1_s5	glocal	99
+c5	Treatment optimization	mdrtb	t5	anglo	19
+c5	Risk factors	t5	t5_s3	anglo	15
+c10	Treatment optimization	mdrtb	t5	anglo	76
+c10	Risk factors	t5	t5_s3	anglo	63
+c0	Drug-related research	mdrtb	t1	euro	63
+c0	2nd line regimens	t1	t1_s5	euro	83
+c10	Drug-related research	mdrtb	t1	anglo	11
+c10	2nd line regimens	t1	t1_s5	anglo	15
+c13	Treatment optimization	mdrtb	t5	glocal	87
+c13	Risk factors	t5	t5_s3	glocal	99
+c7	Treatment optimization	mdrtb	t5	glocal	87
+c13	Drug-related research	mdrtb	t1	glocal	99
+c2	Diagnostics	mdrtb	t3	glocal	61
+c4	Drug-related research	mdrtb	t1	euro	3
+c4	Resistance genes	t1	t1_s0	euro	3
+c0	Drug-related research	mdrtb	t1	euro	55
+c0	Resistance genes	t1	t1_s0	euro	49
+c13	Drug-related research	mdrtb	t1	glocal	11
+c13	Resistance genes	t1	t1_s0	glocal	10
+c5	Drug-related research	mdrtb	t1	anglo	3
+c5	Resistance genes	t1	t1_s0	anglo	3
+c47	Drug-related research	mdrtb	t1	euro	16
+c47	New compounds	t1	t1_s6	euro	15
+c2	Drug-related research	mdrtb	t1	glocal	75
+c2	New compounds	t1	t1_s6	glocal	70
+c10	Treatment optimization	mdrtb	t5	anglo	66
+c5	Treatment optimization	mdrtb	t5	anglo	96
+c4	Treatment optimization	mdrtb	t5	euro	44
+c4	Resistance prevalence	t5	t5_s5	euro	49
+c5	Treatment optimization	mdrtb	t5	anglo	44
+c5	Resistance prevalence	t5	t5_s5	anglo	49
+c5	Treatment optimization	mdrtb	t5	anglo	99
+c0	Treatment optimization	mdrtb	t5	euro	99
+c19	Drug-related research	mdrtb	t1	euro	62
+c10	Treatment optimization	mdrtb	t5	anglo	99
+c101	Drug-related research	mdrtb	t1	glocal	93
+c101	New compounds	t1	t1_s6	glocal	72
+c47	Drug-related research	mdrtb	t1	euro	86
+c0	Drug-related research	mdrtb	t1	euro	10
+c4	Treatment optimization	mdrtb	t5	euro	64
+c19	Treatment optimization	mdrtb	t5	euro	94
+c19	Treatment regimens	t5	t5_s2	euro	96
+c13	Drug-related research	mdrtb	t1	glocal	77
+c4	Treatment optimization	mdrtb	t5	euro	58
+c4	Risk factors	t5	t5_s3	euro	59
+c10	Treatment optimization	mdrtb	t5	anglo	38
+c10	Risk factors	t5	t5_s3	anglo	39
+c2	Drug-related research	mdrtb	t1	glocal	99
+c2	2nd line regimens	t1	t1_s5	glocal	72
+c13	Operational research	mdrtb	t2	glocal	62
+c4	Treatment optimization	mdrtb	t5	euro	37
+c10	Treatment optimization	mdrtb	t5	anglo	61
+c10	Drug-related research	mdrtb	t1	anglo	68
+c0	Operational research	mdrtb	t2	euro	73
+c4	Treatment optimization	mdrtb	t5	euro	14
+c4	Risk factors	t5	t5_s3	euro	13
+c11	Treatment optimization	mdrtb	t5	glocal	84
+c11	Risk factors	t5	t5_s3	glocal	80
+c4	Operational research	mdrtb	t2	euro	38
+c0	Operational research	mdrtb	t2	euro	7
+c10	Operational research	mdrtb	t2	anglo	15
+c13	Drug-related research	mdrtb	t1	glocal	99
+c11	Drug-related research	mdrtb	t1	glocal	98
+c11	New compounds	t1	t1_s6	glocal	78
+c0	Drug-related research	mdrtb	t1	euro	93
+c0	2nd line regimens	t1	t1_s5	euro	99
+c47	Diagnostics	mdrtb	t3	euro	77
+c18	Diagnostics	mdrtb	t3	glocal	35
+c10	Diagnostics	mdrtb	t3	anglo	59
+c4	Treatment optimization	mdrtb	t5	euro	63
+c4	Treatment regimens	t5	t5_s2	euro	48
+c10	Treatment optimization	mdrtb	t5	anglo	35
+c10	Treatment regimens	t5	t5_s2	anglo	26
+c4	Operational research	mdrtb	t2	euro	72
+c18	Immunology	mdrtb	t6	glocal	87
+c47	Treatment optimization	mdrtb	t5	euro	3
+c4	Treatment optimization	mdrtb	t5	euro	36
+c10	Treatment optimization	mdrtb	t5	anglo	29
+c7	Drug-related research	mdrtb	t1	glocal	50
+c5	Drug-related research	mdrtb	t1	anglo	6
+c10	Drug-related research	mdrtb	t1	anglo	12
+c5	Operational research	mdrtb	t2	anglo	13
+c10	Operational research	mdrtb	t2	anglo	47
+c4	Operational research	mdrtb	t2	euro	9
+c2	Operational research	mdrtb	t2	glocal	2
+c0	Operational research	mdrtb	t2	euro	6
+c13	Operational research	mdrtb	t2	glocal	2
+c13	Drug-related research	mdrtb	t1	glocal	74
+c2	Drug-related research	mdrtb	t1	glocal	72
+c2	New compounds	t1	t1_s6	glocal	54
+c10	Drug-related research	mdrtb	t1	anglo	8
+c10	New compounds	t1	t1_s6	anglo	6
+c11	Immunology	mdrtb	t6	glocal	7
+c2	Immunology	mdrtb	t6	glocal	61
+c4	Treatment optimization	mdrtb	t5	euro	33
+c0	Treatment optimization	mdrtb	t5	euro	11
+c8	Treatment optimization	mdrtb	t5	glocal	16
+c2	Treatment optimization	mdrtb	t5	glocal	97
+c2	Treatment regimens	t5	t5_s2	glocal	99
+c10	Diagnostics	mdrtb	t3	anglo	68
+c4	Operational research	mdrtb	t2	euro	70
+c10	Diagnostics	mdrtb	t3	anglo	99
+c47	Drug-related research	mdrtb	t1	euro	12
+c11	Drug-related research	mdrtb	t1	glocal	54
+c101	Drug-related research	mdrtb	t1	glocal	63
+c4	Diagnostics	mdrtb	t3	euro	86
+c4	Treatment optimization	mdrtb	t5	euro	99
+c4	Treatment regimens	t5	t5_s2	euro	97
+c5	Treatment optimization	mdrtb	t5	anglo	69
+c2	Treatment optimization	mdrtb	t5	glocal	87
+c2	Treatment regimens	t5	t5_s2	glocal	98
+c18	Treatment optimization	mdrtb	t5	glocal	85
+c11	Drug-related research	mdrtb	t1	glocal	78
+c11	Resistance genes	t1	t1_s0	glocal	99
+c4	Operational research	mdrtb	t2	euro	18
+c10	Operational research	mdrtb	t2	anglo	49
+c4	Drug-related research	mdrtb	t1	euro	63
+c0	Operational research	mdrtb	t2	euro	4
+c13	Operational research	mdrtb	t2	glocal	68
+c5	Operational research	mdrtb	t2	anglo	4
+c10	Treatment optimization	mdrtb	t5	anglo	84
+c10	Risk factors	t5	t5_s3	anglo	70
+c2	Treatment optimization	mdrtb	t5	glocal	97
+c7	Treatment optimization	mdrtb	t5	glocal	63
+c2	Treatment optimization	mdrtb	t5	glocal	74
+c7	Treatment optimization	mdrtb	t5	glocal	78
+c2	Treatment optimization	mdrtb	t5	glocal	66
+c101	Drug-related research	mdrtb	t1	glocal	98
+c101	New compounds	t1	t1_s6	glocal	98
+c11	Diagnostics	mdrtb	t3	glocal	77
+c2	Treatment optimization	mdrtb	t5	glocal	17
+c10	Treatment optimization	mdrtb	t5	anglo	80
+c13	Treatment optimization	mdrtb	t5	glocal	65
+c10	Operational research	mdrtb	t2	anglo	97
+c18	Treatment optimization	mdrtb	t5	glocal	83
+c10	Treatment optimization	mdrtb	t5	anglo	11
+c10	Treatment optimization	mdrtb	t5	anglo	70
+c4	Treatment optimization	mdrtb	t5	euro	93
+c4	Resistance prevalence	t5	t5_s5	euro	62
+c5	Operational research	mdrtb	t2	anglo	86
+c5	Operational research	mdrtb	t2	anglo	87
+c4	Drug-related research	mdrtb	t1	euro	68
+c10	Drug-related research	mdrtb	t1	anglo	79
+c10	Resistance genes	t1	t1_s0	anglo	98
+c10	Diagnostics	mdrtb	t3	anglo	93
+c10	Operational research	mdrtb	t2	anglo	98
+c5	Treatment optimization	mdrtb	t5	anglo	97
+c5	Risk factors	t5	t5_s3	anglo	99
+c13	Treatment optimization	mdrtb	t5	glocal	93
+c5	Operational research	mdrtb	t2	anglo	47
+c10	Operational research	mdrtb	t2	anglo	15
+c18	Drug-related research	mdrtb	t1	glocal	90
+c7	Drug-related research	mdrtb	t1	glocal	68
+c47	Drug-related research	mdrtb	t1	euro	64
+c10	Diagnostics	mdrtb	t3	anglo	78
+c5	Operational research	mdrtb	t2	anglo	6
+c10	Operational research	mdrtb	t2	anglo	49
+c4	Operational research	mdrtb	t2	euro	9
+c7	Operational research	mdrtb	t2	glocal	6
+c2	Operational research	mdrtb	t2	glocal	9
+c0	Operational research	mdrtb	t2	euro	9
+c13	Diagnostics	mdrtb	t3	glocal	46
+c10	Diagnostics	mdrtb	t3	anglo	33
+c0	Treatment optimization	mdrtb	t5	euro	62
+c11	Treatment optimization	mdrtb	t5	glocal	98
+c13	Drug-related research	mdrtb	t1	glocal	77
+c13	New compounds	t1	t1_s6	glocal	71
+c101	Drug-related research	mdrtb	t1	glocal	98
+c101	New compounds	t1	t1_s6	glocal	98
+c101	Drug-related research	mdrtb	t1	glocal	67
+c4	Treatment optimization	mdrtb	t5	euro	49
+c5	Treatment optimization	mdrtb	t5	anglo	12
+c101	Drug-related research	mdrtb	t1	glocal	80
+c101	2nd line regimens	t1	t1_s5	glocal	76
+c0	Treatment optimization	mdrtb	t5	euro	86
+c10	Treatment optimization	mdrtb	t5	anglo	75
+c0	Treatment optimization	mdrtb	t5	euro	67
+c0	Resistance prevalence	t5	t5_s5	euro	60
+c10	Treatment optimization	mdrtb	t5	anglo	12
+c10	Resistance prevalence	t5	t5_s5	anglo	11
+c10	Diagnostics	mdrtb	t3	anglo	99
+c7	Diagnostics	mdrtb	t3	glocal	14
+c101	Diagnostics	mdrtb	t3	glocal	71
+c2	Drug-related research	mdrtb	t1	glocal	88
+c2	Resistance genes	t1	t1_s0	glocal	70
+c5	Treatment optimization	mdrtb	t5	anglo	37
+c10	Treatment optimization	mdrtb	t5	anglo	32
+c0	Treatment optimization	mdrtb	t5	euro	84
+c0	Risk factors	t5	t5_s3	euro	98
+c0	Operational research	mdrtb	t2	euro	8
+c10	Operational research	mdrtb	t2	anglo	55
+c5	Operational research	mdrtb	t2	anglo	2
+c4	Operational research	mdrtb	t2	euro	66
+c5	Operational research	mdrtb	t2	anglo	9
+c11	Drug-related research	mdrtb	t1	glocal	75
+c11	New compounds	t1	t1_s6	glocal	70
+c18	Drug-related research	mdrtb	t1	glocal	7
+c18	New compounds	t1	t1_s6	glocal	6
+c4	Treatment optimization	mdrtb	t5	euro	14
+c4	Treatment regimens	t5	t5_s2	euro	15
+c18	Treatment optimization	mdrtb	t5	glocal	79
+c18	Treatment regimens	t5	t5_s2	glocal	82
+c18	Treatment optimization	mdrtb	t5	glocal	89
+c18	Treatment regimens	t5	t5_s2	glocal	99
+c8	Diagnostics	mdrtb	t3	glocal	71
+c47	Treatment optimization	mdrtb	t5	euro	88
+c47	Treatment regimens	t5	t5_s2	euro	99
+c8	Treatment optimization	mdrtb	t5	glocal	65
+c47	Immunology	mdrtb	t6	euro	59
+c2	Immunology	mdrtb	t6	glocal	23
+c11	Diagnostics	mdrtb	t3	glocal	3
+c5	Diagnostics	mdrtb	t3	anglo	69
+c2	Diagnostics	mdrtb	t3	glocal	77
+c4	Treatment optimization	mdrtb	t5	euro	65
+c0	Treatment optimization	mdrtb	t5	euro	19
+c5	Treatment optimization	mdrtb	t5	anglo	6
+c18	Treatment optimization	mdrtb	t5	glocal	89
+c18	Treatment regimens	t5	t5_s2	glocal	99
+c10	Drug-related research	mdrtb	t1	anglo	87
+c10	Operational research	mdrtb	t2	anglo	66
+c11	Treatment optimization	mdrtb	t5	glocal	84
+c5	Treatment optimization	mdrtb	t5	anglo	72
+c7	Treatment optimization	mdrtb	t5	glocal	90
+c19	Treatment optimization	mdrtb	t5	euro	9
+c101	Treatment optimization	mdrtb	t5	glocal	99
+c18	Treatment optimization	mdrtb	t5	glocal	99
+c18	Treatment regimens	t5	t5_s2	glocal	98
+c101	Drug-related research	mdrtb	t1	glocal	97
+c101	New compounds	t1	t1_s6	glocal	90
+c4	Diagnostics	mdrtb	t3	euro	90
+c5	Treatment optimization	mdrtb	t5	anglo	94
+c5	Risk factors	t5	t5_s3	anglo	79
+c7	Drug-related research	mdrtb	t1	glocal	71
+c4	Treatment optimization	mdrtb	t5	euro	12
+c0	Treatment optimization	mdrtb	t5	euro	30
+c10	Treatment optimization	mdrtb	t5	anglo	55
+c10	Diagnostics	mdrtb	t3	anglo	99
+c5	Operational research	mdrtb	t2	anglo	15
+c10	Operational research	mdrtb	t2	anglo	57
+c13	Treatment optimization	mdrtb	t5	glocal	4
+c13	Treatment regimens	t5	t5_s2	glocal	5
+c2	Treatment optimization	mdrtb	t5	glocal	28
+c2	Treatment regimens	t5	t5_s2	glocal	32
+c5	Treatment optimization	mdrtb	t5	anglo	42
+c5	Treatment regimens	t5	t5_s2	anglo	49
+c10	Treatment optimization	mdrtb	t5	anglo	9
+c10	Treatment regimens	t5	t5_s2	anglo	10
+c0	Drug-related research	mdrtb	t1	euro	99
+c0	Resistance genes	t1	t1_s0	euro	99
+c4	Drug-related research	mdrtb	t1	euro	81
+c4	Resistance genes	t1	t1_s0	euro	99
+c4	Treatment optimization	mdrtb	t5	euro	71
+c8	Operational research	mdrtb	t2	glocal	98
+c4	Drug-related research	mdrtb	t1	euro	19
+c4	Resistance genes	t1	t1_s0	euro	22
+c19	Drug-related research	mdrtb	t1	euro	57
+c19	Resistance genes	t1	t1_s0	euro	66
+c0	Diagnostics	mdrtb	t3	euro	78
+c11	Drug-related research	mdrtb	t1	glocal	87
+c5	Drug-related research	mdrtb	t1	anglo	7
+c5	Treatment optimization	mdrtb	t5	anglo	16
+c5	Risk factors	t5	t5_s3	anglo	15
+c10	Treatment optimization	mdrtb	t5	anglo	82
+c10	Risk factors	t5	t5_s3	anglo	79
+c2	Treatment optimization	mdrtb	t5	glocal	98
+c2	Risk factors	t5	t5_s3	glocal	71
+c10	Drug-related research	mdrtb	t1	anglo	62
+c10	Drug-related research	mdrtb	t1	anglo	62
+c2	Treatment optimization	mdrtb	t5	glocal	70
+c101	Drug-related research	mdrtb	t1	glocal	98
+c101	New compounds	t1	t1_s6	glocal	98
+c4	Diagnostics	mdrtb	t3	euro	30
+c5	Diagnostics	mdrtb	t3	anglo	7
+c10	Diagnostics	mdrtb	t3	anglo	45
+c5	Drug-related research	mdrtb	t1	anglo	7
+c10	Drug-related research	mdrtb	t1	anglo	55
+c10	Molecular typing	mdrtb	t0	anglo	64
+c4	Treatment optimization	mdrtb	t5	euro	5
+c10	Treatment optimization	mdrtb	t5	anglo	60
+c13	Drug-related research	mdrtb	t1	glocal	78
+c13	Treatment optimization	mdrtb	t5	glocal	28
+c13	Risk factors	t5	t5_s3	glocal	28
+c10	Treatment optimization	mdrtb	t5	anglo	70
+c10	Risk factors	t5	t5_s3	anglo	70
+c0	Operational research	mdrtb	t2	euro	99
+c4	Diagnostics	mdrtb	t3	euro	3
+c2	Diagnostics	mdrtb	t3	glocal	12
+c10	Diagnostics	mdrtb	t3	anglo	70
+c5	Operational research	mdrtb	t2	anglo	82
+c47	Drug-related research	mdrtb	t1	euro	3
+c4	Drug-related research	mdrtb	t1	euro	11
+c0	Drug-related research	mdrtb	t1	euro	3
+c10	Drug-related research	mdrtb	t1	anglo	50
+c4	Treatment optimization	mdrtb	t5	euro	71
+c5	Treatment optimization	mdrtb	t5	anglo	10
+c47	Treatment optimization	mdrtb	t5	euro	4
+c47	Treatment regimens	t5	t5_s2	euro	4
+c5	Treatment optimization	mdrtb	t5	anglo	2
+c5	Treatment regimens	t5	t5_s2	anglo	2
+c10	Treatment optimization	mdrtb	t5	anglo	39
+c10	Treatment regimens	t5	t5_s2	anglo	33
+c8	Treatment optimization	mdrtb	t5	glocal	2
+c8	Treatment regimens	t5	t5_s2	glocal	2
+c4	Treatment optimization	mdrtb	t5	euro	17
+c4	Treatment regimens	t5	t5_s2	euro	14
+c0	Treatment optimization	mdrtb	t5	euro	19
+c0	Treatment regimens	t5	t5_s2	euro	16
+c10	Treatment optimization	mdrtb	t5	anglo	91
+c7	Operational research	mdrtb	t2	glocal	15
+c0	Operational research	mdrtb	t2	euro	31
+c13	Operational research	mdrtb	t2	glocal	7
+c5	Operational research	mdrtb	t2	anglo	7
+c47	Treatment optimization	mdrtb	t5	euro	94
+c47	Risk factors	t5	t5_s3	euro	97
+c2	Treatment optimization	mdrtb	t5	glocal	83
+c2	Treatment regimens	t5	t5_s2	glocal	98
+c101	Drug-related research	mdrtb	t1	glocal	79
+c101	New compounds	t1	t1_s6	glocal	98
+c47	Operational research	mdrtb	t2	euro	64
+c0	Treatment optimization	mdrtb	t5	euro	8
+c5	Treatment optimization	mdrtb	t5	anglo	61
+c13	Drug-related research	mdrtb	t1	glocal	99
+c10	Treatment optimization	mdrtb	t5	anglo	75
+c4	Treatment optimization	mdrtb	t5	euro	90
+c4	Treatment regimens	t5	t5_s2	euro	69
+c10	Diagnostics	mdrtb	t3	anglo	89
+c4	Drug-related research	mdrtb	t1	euro	20
+c0	Drug-related research	mdrtb	t1	euro	15
+c10	Drug-related research	mdrtb	t1	anglo	30
+c7	Treatment optimization	mdrtb	t5	glocal	72
+c5	Drug-related research	mdrtb	t1	anglo	15
+c5	Resistance genes	t1	t1_s0	anglo	19
+c18	Drug-related research	mdrtb	t1	glocal	3
+c18	Resistance genes	t1	t1_s0	glocal	3
+c10	Drug-related research	mdrtb	t1	anglo	20
+c10	Resistance genes	t1	t1_s0	anglo	25
+c7	Drug-related research	mdrtb	t1	glocal	4
+c7	Resistance genes	t1	t1_s0	glocal	5
+c4	Drug-related research	mdrtb	t1	euro	4
+c4	Resistance genes	t1	t1_s0	euro	5
+c2	Drug-related research	mdrtb	t1	glocal	28
+c2	Resistance genes	t1	t1_s0	glocal	35
+c0	Drug-related research	mdrtb	t1	euro	1
+c0	Resistance genes	t1	t1_s0	euro	1
+c11	Molecular typing	mdrtb	t0	glocal	68
+c0	Treatment optimization	mdrtb	t5	euro	18
+c13	Treatment optimization	mdrtb	t5	glocal	81
+c11	Treatment optimization	mdrtb	t5	glocal	99
+c11	Risk factors	t5	t5_s3	glocal	91
+c10	Treatment optimization	mdrtb	t5	anglo	62
+c2	Treatment optimization	mdrtb	t5	glocal	78
+c4	Operational research	mdrtb	t2	euro	38
+c10	Operational research	mdrtb	t2	anglo	25
+c11	Drug-related research	mdrtb	t1	glocal	98
+c11	Resistance genes	t1	t1_s0	glocal	98
+c10	Drug-related research	mdrtb	t1	anglo	62
+c101	Drug-related research	mdrtb	t1	glocal	72
+c101	New compounds	t1	t1_s6	glocal	82
+c5	Treatment optimization	mdrtb	t5	anglo	92
+c5	Resistance prevalence	t5	t5_s5	anglo	99
+c4	Drug-related research	mdrtb	t1	euro	78
+c4	Plant extracts	t1	t1_s2	euro	99
+c47	Diagnostics	mdrtb	t3	euro	58
+c4	Diagnostics	mdrtb	t3	euro	3
+c19	Diagnostics	mdrtb	t3	euro	3
+c10	Diagnostics	mdrtb	t3	anglo	11
+c7	Treatment optimization	mdrtb	t5	glocal	13
+c5	Treatment optimization	mdrtb	t5	anglo	26
+c18	Treatment optimization	mdrtb	t5	glocal	30
+c18	Drug-related research	mdrtb	t1	glocal	81
+c10	Drug-related research	mdrtb	t1	anglo	63
+c0	Diagnostics	mdrtb	t3	euro	89
+c4	Treatment optimization	mdrtb	t5	euro	94
+c11	Treatment optimization	mdrtb	t5	glocal	32
+c11	Treatment regimens	t5	t5_s2	glocal	23
+c10	Treatment optimization	mdrtb	t5	anglo	64
+c10	Treatment regimens	t5	t5_s2	anglo	47
+c4	Treatment optimization	mdrtb	t5	euro	69
+c13	Molecular typing	mdrtb	t0	glocal	70
+c101	Drug-related research	mdrtb	t1	glocal	98
+c101	New compounds	t1	t1_s6	glocal	98
+c2	Treatment optimization	mdrtb	t5	glocal	82
+c47	Molecular typing	mdrtb	t0	euro	7
+c4	Molecular typing	mdrtb	t0	euro	60
+c5	Molecular typing	mdrtb	t0	anglo	7
+c19	Drug-related research	mdrtb	t1	euro	87
+c19	Plant extracts	t1	t1_s2	euro	77
+c18	Treatment optimization	mdrtb	t5	glocal	63
+c0	Drug-related research	mdrtb	t1	euro	48
+c5	Drug-related research	mdrtb	t1	anglo	13
+c5	Treatment optimization	mdrtb	t5	anglo	58
+c10	Treatment optimization	mdrtb	t5	anglo	9
+c101	Drug-related research	mdrtb	t1	glocal	80
+c101	New compounds	t1	t1_s6	glocal	98
+c0	Operational research	mdrtb	t2	euro	60
+c10	Operational research	mdrtb	t2	anglo	12
+c18	Treatment optimization	mdrtb	t5	glocal	88
+c11	Drug-related research	mdrtb	t1	glocal	12
+c11	2nd line regimens	t1	t1_s5	glocal	15
+c2	Drug-related research	mdrtb	t1	glocal	66
+c2	2nd line regimens	t1	t1_s5	glocal	83
+c0	Drug-related research	mdrtb	t1	euro	83
+c0	2nd line regimens	t1	t1_s5	euro	90
+c5	Treatment optimization	mdrtb	t5	anglo	85
+c5	Treatment regimens	t5	t5_s2	anglo	98
+c101	Drug-related research	mdrtb	t1	glocal	98
+c101	New compounds	t1	t1_s6	glocal	98
+c2	Drug-related research	mdrtb	t1	glocal	92
+c2	New compounds	t1	t1_s6	glocal	91
+c5	Drug-related research	mdrtb	t1	anglo	97
+c5	Resistance genes	t1	t1_s0	anglo	99
+c4	Diagnostics	mdrtb	t3	euro	80
+c5	Diagnostics	mdrtb	t3	anglo	6
+c10	Diagnostics	mdrtb	t3	anglo	6
+c10	Drug-related research	mdrtb	t1	anglo	67
+c11	Drug-related research	mdrtb	t1	glocal	84
+c11	New compounds	t1	t1_s6	glocal	63
+c4	Treatment optimization	mdrtb	t5	euro	46
+c10	Treatment optimization	mdrtb	t5	anglo	23
+c4	Treatment optimization	mdrtb	t5	euro	90
+c4	Risk factors	t5	t5_s3	euro	74
+c13	Drug-related research	mdrtb	t1	glocal	99
+c101	Drug-related research	mdrtb	t1	glocal	78
+c47	Molecular typing	mdrtb	t0	euro	81
+c5	Treatment optimization	mdrtb	t5	anglo	93
+c19	Molecular typing	mdrtb	t0	euro	63
+c4	Operational research	mdrtb	t2	euro	84
+c10	Treatment optimization	mdrtb	t5	anglo	92
+c10	Treatment optimization	mdrtb	t5	anglo	66
+c0	Operational research	mdrtb	t2	euro	68
+c0	Treatment optimization	mdrtb	t5	euro	74
+c10	Diagnostics	mdrtb	t3	anglo	99
+c5	Treatment optimization	mdrtb	t5	anglo	98
+c4	Drug-related research	mdrtb	t1	euro	64
+c5	Treatment optimization	mdrtb	t5	anglo	74
+c5	Treatment optimization	mdrtb	t5	anglo	77
+c13	Treatment optimization	mdrtb	t5	glocal	96
+c13	Risk factors	t5	t5_s3	glocal	98
+c101	Drug-related research	mdrtb	t1	glocal	76
+c101	Resistance genes	t1	t1_s0	glocal	69
+c4	Treatment optimization	mdrtb	t5	euro	15
+c5	Treatment optimization	mdrtb	t5	anglo	15
+c10	Treatment optimization	mdrtb	t5	anglo	47
+c4	Treatment optimization	mdrtb	t5	euro	99
+c11	Treatment optimization	mdrtb	t5	glocal	77
+c13	Operational research	mdrtb	t2	glocal	99
+c0	Treatment optimization	mdrtb	t5	euro	10
+c0	Resistance prevalence	t5	t5_s5	euro	11
+c5	Treatment optimization	mdrtb	t5	anglo	82
+c5	Resistance prevalence	t5	t5_s5	anglo	88
+c0	Diagnostics	mdrtb	t3	euro	15
+c5	Diagnostics	mdrtb	t3	anglo	60
+c4	Drug-related research	mdrtb	t1	euro	92
+c4	2nd line regimens	t1	t1_s5	euro	79
+c11	Drug-related research	mdrtb	t1	glocal	94
+c11	New compounds	t1	t1_s6	glocal	71
+c4	Treatment optimization	mdrtb	t5	euro	70
+c101	Drug-related research	mdrtb	t1	glocal	93
+c101	2nd line regimens	t1	t1_s5	glocal	68
+c10	Drug-related research	mdrtb	t1	anglo	77
+c10	New compounds	t1	t1_s6	anglo	66
+c13	Drug-related research	mdrtb	t1	glocal	93
+c13	New compounds	t1	t1_s6	glocal	86
+c4	Operational research	mdrtb	t2	euro	12
+c5	Operational research	mdrtb	t2	anglo	16
+c18	Operational research	mdrtb	t2	glocal	33
+c10	Operational research	mdrtb	t2	anglo	4
+c4	Diagnostics	mdrtb	t3	euro	62
+c0	Drug-related research	mdrtb	t1	euro	89
+c10	Treatment optimization	mdrtb	t5	anglo	78
+c4	Treatment optimization	mdrtb	t5	euro	94
+c0	Drug-related research	mdrtb	t1	euro	7
+c0	New compounds	t1	t1_s6	euro	6
+c13	Drug-related research	mdrtb	t1	glocal	71
+c13	New compounds	t1	t1_s6	glocal	66
+c5	Treatment optimization	mdrtb	t5	anglo	99
+c10	Treatment optimization	mdrtb	t5	anglo	95
+c10	Treatment regimens	t5	t5_s2	anglo	81
+c10	Treatment optimization	mdrtb	t5	anglo	95
+c10	Resistance prevalence	t5	t5_s5	anglo	77
+c11	Treatment optimization	mdrtb	t5	glocal	64
+c5	Drug-related research	mdrtb	t1	anglo	9
+c2	Drug-related research	mdrtb	t1	glocal	36
+c10	Drug-related research	mdrtb	t1	anglo	18
+c4	Drug-related research	mdrtb	t1	euro	64
+c47	Drug-related research	mdrtb	t1	euro	94
+c4	Diagnostics	mdrtb	t3	euro	80
+c0	Operational research	mdrtb	t2	euro	74
+c10	Treatment optimization	mdrtb	t5	anglo	63
+c5	Treatment optimization	mdrtb	t5	anglo	90
+c5	Resistance prevalence	t5	t5_s5	anglo	72
+c13	Treatment optimization	mdrtb	t5	glocal	63
+c10	Drug-related research	mdrtb	t1	anglo	91
+c10	Plant extracts	t1	t1_s2	anglo	87
+c18	Treatment optimization	mdrtb	t5	glocal	95
+c18	Treatment regimens	t5	t5_s2	glocal	74
+c4	Molecular typing	mdrtb	t0	euro	63
+c13	Treatment optimization	mdrtb	t5	glocal	81
+c5	Operational research	mdrtb	t2	anglo	53
+c10	Operational research	mdrtb	t2	anglo	13
+c2	Drug-related research	mdrtb	t1	glocal	98
+c2	New compounds	t1	t1_s6	glocal	72
+c7	Drug-related research	mdrtb	t1	glocal	80
+c7	New compounds	t1	t1_s6	glocal	77
+c5	Diagnostics	mdrtb	t3	anglo	30
+c10	Diagnostics	mdrtb	t3	anglo	30
+c5	Treatment optimization	mdrtb	t5	anglo	99
+c47	Drug-related research	mdrtb	t1	euro	24
+c10	Drug-related research	mdrtb	t1	anglo	38
+c5	Treatment optimization	mdrtb	t5	anglo	86
+c5	Risk factors	t5	t5_s3	anglo	93
+c2	Diagnostics	mdrtb	t3	glocal	88
+c2	Diagnostics	mdrtb	t3	glocal	75
+c10	Treatment optimization	mdrtb	t5	anglo	63
+c5	Treatment optimization	mdrtb	t5	anglo	98
+c0	Treatment optimization	mdrtb	t5	euro	5
+c5	Treatment optimization	mdrtb	t5	anglo	57
+c5	Treatment optimization	mdrtb	t5	anglo	86
+c5	Treatment regimens	t5	t5_s2	anglo	78
+c5	Treatment optimization	mdrtb	t5	anglo	19
+c10	Treatment optimization	mdrtb	t5	anglo	50
+c4	Diagnostics	mdrtb	t3	euro	62
+c5	Treatment optimization	mdrtb	t5	anglo	48
+c10	Treatment optimization	mdrtb	t5	anglo	40
+c10	Diagnostics	mdrtb	t3	anglo	74
+c5	Treatment optimization	mdrtb	t5	anglo	99
+c5	Drug-related research	mdrtb	t1	anglo	51
+c10	Drug-related research	mdrtb	t1	anglo	17
+c0	Operational research	mdrtb	t2	euro	9
+c10	Operational research	mdrtb	t2	anglo	66
+c5	Operational research	mdrtb	t2	anglo	9
+c0	Operational research	mdrtb	t2	euro	14
+c10	Operational research	mdrtb	t2	anglo	70
+c101	Drug-related research	mdrtb	t1	glocal	79
+c47	Drug-related research	mdrtb	t1	euro	64
+c2	Treatment optimization	mdrtb	t5	glocal	9
+c5	Treatment optimization	mdrtb	t5	anglo	54
+c10	Treatment optimization	mdrtb	t5	anglo	18
+c7	Treatment optimization	mdrtb	t5	glocal	62
+c7	Treatment regimens	t5	t5_s2	glocal	67
+c5	Treatment optimization	mdrtb	t5	anglo	24
+c5	Treatment regimens	t5	t5_s2	anglo	26
+c10	Diagnostics	mdrtb	t3	anglo	62
+c0	Treatment optimization	mdrtb	t5	euro	12
+c10	Treatment optimization	mdrtb	t5	anglo	78
+c2	Drug-related research	mdrtb	t1	glocal	98
+c5	Operational research	mdrtb	t2	anglo	97
+c10	Diagnostics	mdrtb	t3	anglo	78
+c0	Operational research	mdrtb	t2	euro	65
+c4	Drug-related research	mdrtb	t1	euro	77
+c5	Operational research	mdrtb	t2	anglo	88
+c2	Treatment optimization	mdrtb	t5	glocal	99
+c10	Operational research	mdrtb	t2	anglo	61
+c0	Treatment optimization	mdrtb	t5	euro	67
+c0	Risk factors	t5	t5_s3	euro	49
+c18	Treatment optimization	mdrtb	t5	glocal	13
+c18	Risk factors	t5	t5_s3	glocal	9
+c5	Treatment optimization	mdrtb	t5	anglo	13
+c5	Risk factors	t5	t5_s3	anglo	9
+c101	Drug-related research	mdrtb	t1	glocal	99
+c10	Diagnostics	mdrtb	t3	anglo	90
+c18	Treatment optimization	mdrtb	t5	glocal	89
+c5	Operational research	mdrtb	t2	anglo	96
+c7	Treatment optimization	mdrtb	t5	glocal	98
+c7	Treatment regimens	t5	t5_s2	glocal	92
+c18	Treatment optimization	mdrtb	t5	glocal	94
+c5	Treatment optimization	mdrtb	t5	anglo	67
+c19	Drug-related research	mdrtb	t1	euro	78
+c19	Plant extracts	t1	t1_s2	euro	67
+c4	Treatment optimization	mdrtb	t5	euro	99
+c2	Drug-related research	mdrtb	t1	glocal	98
+c2	New compounds	t1	t1_s6	glocal	94
+c101	Drug-related research	mdrtb	t1	glocal	98
+c101	New compounds	t1	t1_s6	glocal	98
+c13	Drug-related research	mdrtb	t1	glocal	25
+c10	Drug-related research	mdrtb	t1	anglo	68
+c0	Treatment optimization	mdrtb	t5	euro	4
+c4	Treatment optimization	mdrtb	t5	euro	4
+c5	Treatment optimization	mdrtb	t5	anglo	83
+c10	Treatment optimization	mdrtb	t5	anglo	2
+c0	Operational research	mdrtb	t2	euro	94
+c4	Drug-related research	mdrtb	t1	euro	70
+c4	Resistance genes	t1	t1_s0	euro	71
+c4	Operational research	mdrtb	t2	euro	75
+c2	Diagnostics	mdrtb	t3	glocal	6
+c4	Diagnostics	mdrtb	t3	euro	6
+c7	Diagnostics	mdrtb	t3	glocal	6
+c0	Diagnostics	mdrtb	t3	euro	9
+c10	Diagnostics	mdrtb	t3	anglo	43
+c5	Treatment optimization	mdrtb	t5	anglo	35
+c10	Treatment optimization	mdrtb	t5	anglo	8
+c7	Treatment optimization	mdrtb	t5	glocal	10
+c11	Treatment optimization	mdrtb	t5	glocal	1
+c19	Treatment optimization	mdrtb	t5	euro	5
+c2	Treatment optimization	mdrtb	t5	glocal	7
+c4	Treatment optimization	mdrtb	t5	euro	5
+c0	Treatment optimization	mdrtb	t5	euro	22
+c13	Treatment optimization	mdrtb	t5	glocal	1
+c10	Drug-related research	mdrtb	t1	anglo	62
+c8	Drug-related research	mdrtb	t1	glocal	65
+c2	Diagnostics	mdrtb	t3	glocal	65
+c2	Treatment optimization	mdrtb	t5	glocal	82
+c2	Treatment regimens	t5	t5_s2	glocal	62
+c4	Treatment optimization	mdrtb	t5	euro	94
+c10	Operational research	mdrtb	t2	anglo	81
+c4	Treatment optimization	mdrtb	t5	euro	66
+c10	Treatment optimization	mdrtb	t5	anglo	11
+c2	Drug-related research	mdrtb	t1	glocal	93
+c2	2nd line regimens	t1	t1_s5	glocal	99
+c10	Drug-related research	mdrtb	t1	anglo	91
+c10	Diagnostics	mdrtb	t3	anglo	70
+c10	Treatment optimization	mdrtb	t5	anglo	99
+c10	Treatment regimens	t5	t5_s2	anglo	92
+c5	Diagnostics	mdrtb	t3	anglo	8
+c10	Diagnostics	mdrtb	t3	anglo	56
+c10	Treatment optimization	mdrtb	t5	anglo	84
+c10	Treatment regimens	t5	t5_s2	anglo	98
+c47	Treatment optimization	mdrtb	t5	euro	82
+c47	Treatment regimens	t5	t5_s2	euro	79
+c5	Treatment optimization	mdrtb	t5	anglo	5
+c5	Treatment regimens	t5	t5_s2	anglo	5
+c2	Treatment optimization	mdrtb	t5	glocal	5
+c2	Treatment regimens	t5	t5_s2	glocal	5
+c5	Operational research	mdrtb	t2	anglo	59
+c10	Operational research	mdrtb	t2	anglo	8
+c5	Treatment optimization	mdrtb	t5	anglo	99
+c4	Treatment optimization	mdrtb	t5	euro	16
+c11	Treatment optimization	mdrtb	t5	glocal	4
+c5	Treatment optimization	mdrtb	t5	anglo	4
+c10	Treatment optimization	mdrtb	t5	anglo	8
+c31	Treatment optimization	mdrtb	t5	glocal	28
+c19	Treatment optimization	mdrtb	t5	euro	63
+c11	Treatment optimization	mdrtb	t5	glocal	55
+c5	Treatment optimization	mdrtb	t5	anglo	9
+c4	Drug-related research	mdrtb	t1	euro	53
+c101	Drug-related research	mdrtb	t1	glocal	39
+c8	Treatment optimization	mdrtb	t5	glocal	80
+c5	Treatment optimization	mdrtb	t5	anglo	98
+c11	Treatment optimization	mdrtb	t5	glocal	80
+c11	Treatment regimens	t5	t5_s2	glocal	64
+c5	Treatment optimization	mdrtb	t5	anglo	99
+c2	Drug-related research	mdrtb	t1	glocal	99
+c4	Operational research	mdrtb	t2	euro	74
+c5	Treatment optimization	mdrtb	t5	anglo	99
+c10	Operational research	mdrtb	t2	anglo	86
+c47	Drug-related research	mdrtb	t1	euro	83
+c47	New compounds	t1	t1_s6	euro	82
+c5	Drug-related research	mdrtb	t1	anglo	99
+c2	Drug-related research	mdrtb	t1	glocal	83
+c13	Treatment optimization	mdrtb	t5	glocal	99
+c5	Immunology	mdrtb	t6	anglo	64
+c8	Treatment optimization	mdrtb	t5	glocal	70
+c4	Diagnostics	mdrtb	t3	euro	63
+c10	Drug-related research	mdrtb	t1	anglo	83
+c101	Drug-related research	mdrtb	t1	glocal	80
+c101	New compounds	t1	t1_s6	glocal	85
+c5	Operational research	mdrtb	t2	anglo	91
+c47	Treatment optimization	mdrtb	t5	euro	46
+c4	Treatment optimization	mdrtb	t5	euro	28
+c101	Drug-related research	mdrtb	t1	glocal	98
+c101	New compounds	t1	t1_s6	glocal	98
+c4	Treatment optimization	mdrtb	t5	euro	99
+c101	Treatment optimization	mdrtb	t5	glocal	96
+c4	Drug-related research	mdrtb	t1	euro	14
+c19	Drug-related research	mdrtb	t1	euro	80
+c10	Treatment optimization	mdrtb	t5	anglo	64
+c10	Immunology	mdrtb	t6	anglo	70
+c13	Operational research	mdrtb	t2	glocal	8
+c4	Operational research	mdrtb	t2	euro	8
+c5	Operational research	mdrtb	t2	anglo	8
+c10	Operational research	mdrtb	t2	anglo	50
+c47	Diagnostics	mdrtb	t3	euro	92
+c11	Drug-related research	mdrtb	t1	glocal	98
+c11	Resistance genes	t1	t1_s0	glocal	85
+c13	Drug-related research	mdrtb	t1	glocal	94
+c13	2nd line regimens	t1	t1_s5	glocal	83
+c5	Treatment optimization	mdrtb	t5	anglo	79
+c4	Molecular typing	mdrtb	t0	euro	99
+c2	Treatment optimization	mdrtb	t5	glocal	81
+c2	Treatment regimens	t5	t5_s2	glocal	67
+c13	Drug-related research	mdrtb	t1	glocal	94
+c47	Operational research	mdrtb	t2	euro	88
+c4	Drug-related research	mdrtb	t1	euro	7
+c10	Drug-related research	mdrtb	t1	anglo	54
+c31	Drug-related research	mdrtb	t1	glocal	7
+c0	Operational research	mdrtb	t2	euro	53
+c10	Operational research	mdrtb	t2	anglo	17
+c4	Treatment optimization	mdrtb	t5	euro	90
+c4	Risk factors	t5	t5_s3	euro	65
+c0	Drug-related research	mdrtb	t1	euro	65
+c5	Treatment optimization	mdrtb	t5	anglo	94
+c5	Treatment optimization	mdrtb	t5	anglo	12
+c10	Treatment optimization	mdrtb	t5	anglo	60
+c31	Drug-related research	mdrtb	t1	glocal	61
+c4	Diagnostics	mdrtb	t3	euro	98
+c7	Diagnostics	mdrtb	t3	glocal	72
+c47	Molecular typing	mdrtb	t0	euro	81
+c5	Treatment optimization	mdrtb	t5	anglo	83
+c18	Drug-related research	mdrtb	t1	glocal	68
+c11	Drug-related research	mdrtb	t1	glocal	78
+c0	Treatment optimization	mdrtb	t5	euro	67
+c5	Treatment optimization	mdrtb	t5	anglo	92
+c5	Treatment optimization	mdrtb	t5	anglo	99
+c10	Operational research	mdrtb	t2	anglo	69
+c4	Drug-related research	mdrtb	t1	euro	26
+c4	Resistance genes	t1	t1_s0	euro	26
+c7	Drug-related research	mdrtb	t1	glocal	47
+c7	Resistance genes	t1	t1_s0	glocal	47
+c101	Treatment optimization	mdrtb	t5	glocal	73
+c47	Treatment optimization	mdrtb	t5	euro	61
+c4	Molecular typing	mdrtb	t0	euro	63
+c2	Treatment optimization	mdrtb	t5	glocal	84
+c2	Treatment regimens	t5	t5_s2	glocal	98
+c5	Treatment optimization	mdrtb	t5	anglo	66
+c5	Operational research	mdrtb	t2	anglo	30
+c10	Operational research	mdrtb	t2	anglo	51
+c10	Operational research	mdrtb	t2	anglo	94
+c13	Diagnostics	mdrtb	t3	glocal	77
+c5	Treatment optimization	mdrtb	t5	anglo	99
+c5	Treatment regimens	t5	t5_s2	anglo	99
+c13	Drug-related research	mdrtb	t1	glocal	77
+c13	Resistance genes	t1	t1_s0	glocal	97
+c2	Treatment optimization	mdrtb	t5	glocal	78
+c2	Immunology	mdrtb	t6	glocal	64
+c5	Treatment optimization	mdrtb	t5	anglo	90
+c10	Treatment optimization	mdrtb	t5	anglo	9
+c10	Treatment optimization	mdrtb	t5	anglo	71
+c47	Treatment optimization	mdrtb	t5	euro	27
+c47	Resistance prevalence	t5	t5_s5	euro	32
+c4	Treatment optimization	mdrtb	t5	euro	54
+c4	Resistance prevalence	t5	t5_s5	euro	65
+c10	Diagnostics	mdrtb	t3	anglo	68
+c2	Treatment optimization	mdrtb	t5	glocal	94
+c2	Treatment regimens	t5	t5_s2	glocal	98
+c5	Treatment optimization	mdrtb	t5	anglo	95
+c5	Risk factors	t5	t5_s3	anglo	98
+c10	Operational research	mdrtb	t2	anglo	89
+c4	Treatment optimization	mdrtb	t5	euro	70
+c4	Drug-related research	mdrtb	t1	euro	76
+c5	Operational research	mdrtb	t2	anglo	29
+c10	Operational research	mdrtb	t2	anglo	48
+c4	Drug-related research	mdrtb	t1	euro	75
+c11	Treatment optimization	mdrtb	t5	glocal	92
+c2	Treatment optimization	mdrtb	t5	glocal	99
+c2	Risk factors	t5	t5_s3	glocal	92
+c13	Operational research	mdrtb	t2	glocal	62
+c13	Drug-related research	mdrtb	t1	glocal	83
+c11	Treatment optimization	mdrtb	t5	glocal	45
+c10	Treatment optimization	mdrtb	t5	anglo	16
+c10	Operational research	mdrtb	t2	anglo	74
+c101	Drug-related research	mdrtb	t1	glocal	84
+c10	Immunology	mdrtb	t6	anglo	90
+c101	Drug-related research	mdrtb	t1	glocal	99
+c101	New compounds	t1	t1_s6	glocal	97
+c4	Treatment optimization	mdrtb	t5	euro	88
+c4	Treatment regimens	t5	t5_s2	euro	78
+c11	Treatment optimization	mdrtb	t5	glocal	16
+c5	Treatment optimization	mdrtb	t5	anglo	53
+c10	Operational research	mdrtb	t2	anglo	82
+c7	Treatment optimization	mdrtb	t5	glocal	21
+c5	Treatment optimization	mdrtb	t5	anglo	29
+c18	Treatment optimization	mdrtb	t5	glocal	21
+c101	Diagnostics	mdrtb	t3	glocal	83
+c0	Diagnostics	mdrtb	t3	euro	15
+c5	Treatment optimization	mdrtb	t5	anglo	90
+c5	Risk factors	t5	t5_s3	anglo	99
+c101	Drug-related research	mdrtb	t1	glocal	81
+c101	New compounds	t1	t1_s6	glocal	86
+c10	Drug-related research	mdrtb	t1	anglo	65
+c10	Operational research	mdrtb	t2	anglo	92
+c4	Diagnostics	mdrtb	t3	euro	89
+c0	Operational research	mdrtb	t2	euro	63
+c5	Operational research	mdrtb	t2	anglo	9
+c4	Operational research	mdrtb	t2	euro	93
+c101	Drug-related research	mdrtb	t1	glocal	91
+c13	Drug-related research	mdrtb	t1	glocal	99
+c4	Drug-related research	mdrtb	t1	euro	98
+c19	Drug-related research	mdrtb	t1	euro	76
+c19	New compounds	t1	t1_s6	euro	70
+c47	Treatment optimization	mdrtb	t5	euro	31
+c47	Treatment regimens	t5	t5_s2	euro	34
+c4	Treatment optimization	mdrtb	t5	euro	10
+c4	Treatment regimens	t5	t5_s2	euro	11
+c0	Treatment optimization	mdrtb	t5	euro	41
+c0	Treatment regimens	t5	t5_s2	euro	46
+c10	Treatment optimization	mdrtb	t5	anglo	5
+c10	Treatment regimens	t5	t5_s2	anglo	5
+c10	Operational research	mdrtb	t2	anglo	62
+c4	Drug-related research	mdrtb	t1	euro	99
+c4	Resistance genes	t1	t1_s0	euro	71
+c10	Treatment optimization	mdrtb	t5	anglo	65
+c13	Diagnostics	mdrtb	t3	glocal	72
+c10	Diagnostics	mdrtb	t3	anglo	12
+c2	Diagnostics	mdrtb	t3	glocal	90
+c7	Treatment optimization	mdrtb	t5	glocal	36
+c5	Treatment optimization	mdrtb	t5	anglo	24
+c2	Treatment optimization	mdrtb	t5	glocal	12
+c47	Diagnostics	mdrtb	t3	euro	55
+c5	Diagnostics	mdrtb	t3	anglo	15
+c10	Diagnostics	mdrtb	t3	anglo	15
+c18	Drug-related research	mdrtb	t1	glocal	70
+c18	Resistance genes	t1	t1_s0	glocal	92
+c11	Treatment optimization	mdrtb	t5	glocal	85
+c5	Treatment optimization	mdrtb	t5	anglo	81
+c5	Treatment regimens	t5	t5_s2	anglo	98
+c10	Treatment optimization	mdrtb	t5	anglo	95
+c10	Risk factors	t5	t5_s3	anglo	66
+c31	Operational research	mdrtb	t2	glocal	61
+c0	Drug-related research	mdrtb	t1	euro	76
+c0	Plant extracts	t1	t1_s2	euro	60
+c8	Drug-related research	mdrtb	t1	glocal	19
+c8	Plant extracts	t1	t1_s2	glocal	15
+c4	Drug-related research	mdrtb	t1	euro	74
+c4	Resistance genes	t1	t1_s0	euro	55
+c5	Drug-related research	mdrtb	t1	anglo	24
+c5	Resistance genes	t1	t1_s0	anglo	18
+c10	Diagnostics	mdrtb	t3	anglo	99
+c10	Treatment optimization	mdrtb	t5	anglo	99
+c10	Treatment regimens	t5	t5_s2	anglo	99
+c10	Operational research	mdrtb	t2	anglo	62
+c11	Treatment optimization	mdrtb	t5	glocal	87
+c11	Treatment regimens	t5	t5_s2	glocal	98
+c4	Treatment optimization	mdrtb	t5	euro	86
+c4	Risk factors	t5	t5_s3	euro	69
+c101	Treatment optimization	mdrtb	t5	glocal	99
+c13	Diagnostics	mdrtb	t3	glocal	73
+c10	Operational research	mdrtb	t2	anglo	65
+c4	Diagnostics	mdrtb	t3	euro	78
+c11	Diagnostics	mdrtb	t3	glocal	7
+c19	Diagnostics	mdrtb	t3	euro	14
+c10	Diagnostics	mdrtb	t3	anglo	74
+c18	Treatment optimization	mdrtb	t5	glocal	83
+c10	Drug-related research	mdrtb	t1	anglo	63
+c2	Drug-related research	mdrtb	t1	glocal	98
+c2	New compounds	t1	t1_s6	glocal	82
+c19	Drug-related research	mdrtb	t1	euro	94
+c19	2nd line regimens	t1	t1_s5	euro	75
+c5	Treatment optimization	mdrtb	t5	anglo	64
+c8	Treatment optimization	mdrtb	t5	glocal	83
+c8	Resistance prevalence	t5	t5_s5	glocal	79
+c2	Treatment optimization	mdrtb	t5	glocal	98
+c2	Risk factors	t5	t5_s3	glocal	99
+c11	Drug-related research	mdrtb	t1	glocal	92
+c11	New compounds	t1	t1_s6	glocal	73
+c0	Treatment optimization	mdrtb	t5	euro	78
+c10	Drug-related research	mdrtb	t1	anglo	81
+c10	2nd line regimens	t1	t1_s5	anglo	78
+c4	Diagnostics	mdrtb	t3	euro	90
+c10	Diagnostics	mdrtb	t3	anglo	76
+c101	Treatment optimization	mdrtb	t5	glocal	99
+c101	Risk factors	t5	t5_s3	glocal	99
+c19	Operational research	mdrtb	t2	euro	13
+c5	Operational research	mdrtb	t2	anglo	59
+c0	Treatment optimization	mdrtb	t5	euro	61
+c0	Treatment optimization	mdrtb	t5	euro	82
+c0	Treatment regimens	t5	t5_s2	euro	92
+c0	Drug-related research	mdrtb	t1	euro	63
+c19	Treatment optimization	mdrtb	t5	euro	85
+c10	Treatment optimization	mdrtb	t5	anglo	7
+c10	Drug-related research	mdrtb	t1	anglo	72
+c10	Resistance genes	t1	t1_s0	anglo	95
+c101	Drug-related research	mdrtb	t1	glocal	66
+c10	Operational research	mdrtb	t2	anglo	72
+c0	Operational research	mdrtb	t2	euro	6
+c5	Operational research	mdrtb	t2	anglo	20
+c10	Operational research	mdrtb	t2	anglo	67
+c5	Treatment optimization	mdrtb	t5	anglo	99
+c0	Diagnostics	mdrtb	t3	euro	88
+c2	Treatment optimization	mdrtb	t5	glocal	99
+c5	Treatment optimization	mdrtb	t5	anglo	76
+c13	Diagnostics	mdrtb	t3	glocal	67
+c4	Treatment optimization	mdrtb	t5	euro	88
+c10	Treatment optimization	mdrtb	t5	anglo	8
+c10	Treatment optimization	mdrtb	t5	anglo	72
+c0	Treatment optimization	mdrtb	t5	euro	5
+c0	Risk factors	t5	t5_s3	euro	5
+c19	Treatment optimization	mdrtb	t5	euro	11
+c19	Risk factors	t5	t5_s3	euro	10
+c10	Treatment optimization	mdrtb	t5	anglo	65
+c10	Risk factors	t5	t5_s3	anglo	58
+c13	Drug-related research	mdrtb	t1	glocal	64
+c5	Treatment optimization	mdrtb	t5	anglo	99
+c5	Treatment optimization	mdrtb	t5	anglo	31
+c10	Treatment optimization	mdrtb	t5	anglo	62
+c10	Diagnostics	mdrtb	t3	anglo	76
+c5	Treatment optimization	mdrtb	t5	anglo	99
+c4	Treatment optimization	mdrtb	t5	euro	63
+c5	Treatment optimization	mdrtb	t5	anglo	73
+c10	Drug-related research	mdrtb	t1	anglo	70
+c10	2nd line regimens	t1	t1_s5	anglo	75
+c18	Treatment optimization	mdrtb	t5	glocal	77
+c2	Drug-related research	mdrtb	t1	glocal	98
+c2	New compounds	t1	t1_s6	glocal	98
+c10	Molecular typing	mdrtb	t0	anglo	69
+c31	Operational research	mdrtb	t2	glocal	63
+c5	Diagnostics	mdrtb	t3	anglo	61
+c8	Operational research	mdrtb	t2	glocal	72
+c47	Treatment optimization	mdrtb	t5	euro	7
+c4	Treatment optimization	mdrtb	t5	euro	30
+c5	Treatment optimization	mdrtb	t5	anglo	53
+c10	Treatment optimization	mdrtb	t5	anglo	7
+c5	Diagnostics	mdrtb	t3	anglo	86
+c18	Immunology	mdrtb	t6	glocal	68
+c0	Drug-related research	mdrtb	t1	euro	2
+c13	Drug-related research	mdrtb	t1	glocal	67
+c47	Drug-related research	mdrtb	t1	euro	72
+c5	Operational research	mdrtb	t2	anglo	87
+c5	Treatment optimization	mdrtb	t5	anglo	48
+c10	Treatment optimization	mdrtb	t5	anglo	24
+c4	Treatment optimization	mdrtb	t5	euro	78
+c7	Drug-related research	mdrtb	t1	glocal	5
+c5	Drug-related research	mdrtb	t1	anglo	5
+c10	Drug-related research	mdrtb	t1	anglo	67
+c4	Treatment optimization	mdrtb	t5	euro	70
+c5	Treatment optimization	mdrtb	t5	anglo	9
+c10	Treatment optimization	mdrtb	t5	anglo	85
+c0	Treatment optimization	mdrtb	t5	euro	10
+c0	Treatment regimens	t5	t5_s2	euro	10
+c5	Treatment optimization	mdrtb	t5	anglo	20
+c5	Treatment regimens	t5	t5_s2	anglo	21
+c10	Treatment optimization	mdrtb	t5	anglo	10
+c10	Treatment regimens	t5	t5_s2	anglo	10
+c31	Treatment optimization	mdrtb	t5	glocal	50
+c31	Treatment regimens	t5	t5_s2	glocal	54
+c4	Drug-related research	mdrtb	t1	euro	62
+c47	Immunology	mdrtb	t6	euro	73
+c13	Treatment optimization	mdrtb	t5	glocal	85
+c10	Drug-related research	mdrtb	t1	anglo	64
+c5	Treatment optimization	mdrtb	t5	anglo	76
+c5	Treatment optimization	mdrtb	t5	anglo	66
+c2	Treatment optimization	mdrtb	t5	glocal	3
+c4	Diagnostics	mdrtb	t3	euro	31
+c0	Diagnostics	mdrtb	t3	euro	53
+c5	Diagnostics	mdrtb	t3	anglo	10
+c4	Diagnostics	mdrtb	t3	euro	72
+c101	Treatment optimization	mdrtb	t5	glocal	80
+c2	Treatment optimization	mdrtb	t5	glocal	73
+c10	Immunology	mdrtb	t6	anglo	76
+c5	Drug-related research	mdrtb	t1	anglo	92
+c5	Resistance genes	t1	t1_s0	anglo	99
+c4	Diagnostics	mdrtb	t3	euro	69
+c5	Treatment optimization	mdrtb	t5	anglo	99
+c7	Treatment optimization	mdrtb	t5	glocal	30
+c5	Treatment optimization	mdrtb	t5	anglo	45
+c5	Treatment optimization	mdrtb	t5	anglo	99
+c5	Immunology	mdrtb	t6	anglo	71
+c8	Treatment optimization	mdrtb	t5	glocal	99
+c5	Operational research	mdrtb	t2	anglo	73
+c7	Operational research	mdrtb	t2	glocal	3
+c5	Operational research	mdrtb	t2	anglo	39
+c10	Operational research	mdrtb	t2	anglo	18
+c19	Drug-related research	mdrtb	t1	euro	79
+c19	Resistance genes	t1	t1_s0	euro	69
+c47	Immunology	mdrtb	t6	euro	61
+c10	Molecular typing	mdrtb	t0	anglo	13
+c31	Molecular typing	mdrtb	t0	glocal	65
+c4	Diagnostics	mdrtb	t3	euro	34
+c31	Diagnostics	mdrtb	t3	glocal	51
+c7	Treatment optimization	mdrtb	t5	glocal	8
+c7	Risk factors	t5	t5_s3	glocal	6
+c5	Treatment optimization	mdrtb	t5	anglo	80
+c5	Risk factors	t5	t5_s3	anglo	69
+c4	Treatment optimization	mdrtb	t5	euro	90
+c4	Risk factors	t5	t5_s3	euro	78
+c10	Immunology	mdrtb	t6	anglo	63
+c4	Treatment optimization	mdrtb	t5	euro	93
+c4	Treatment regimens	t5	t5_s2	euro	71
+c10	Treatment optimization	mdrtb	t5	anglo	5
+c10	Treatment regimens	t5	t5_s2	anglo	4
+c11	Drug-related research	mdrtb	t1	glocal	99
+c10	Treatment optimization	mdrtb	t5	anglo	45
+c8	Treatment optimization	mdrtb	t5	glocal	54
+c5	Treatment optimization	mdrtb	t5	anglo	71
+c0	Treatment optimization	mdrtb	t5	euro	9
+c4	Treatment optimization	mdrtb	t5	euro	5
+c7	Treatment optimization	mdrtb	t5	glocal	1
+c5	Treatment optimization	mdrtb	t5	anglo	45
+c10	Treatment optimization	mdrtb	t5	anglo	9
+c10	Operational research	mdrtb	t2	anglo	73
+c5	Operational research	mdrtb	t2	anglo	40
+c10	Operational research	mdrtb	t2	anglo	34
+c13	Molecular typing	mdrtb	t0	glocal	68
+c13	Treatment optimization	mdrtb	t5	glocal	99
+c5	Treatment optimization	mdrtb	t5	anglo	98
+c5	Risk factors	t5	t5_s3	anglo	62
+c13	Diagnostics	mdrtb	t3	glocal	77
+c47	Drug-related research	mdrtb	t1	euro	71
+c10	Diagnostics	mdrtb	t3	anglo	97
+c2	Treatment optimization	mdrtb	t5	glocal	94
+c4	Treatment optimization	mdrtb	t5	euro	68
+c47	Treatment optimization	mdrtb	t5	euro	98
+c47	Treatment regimens	t5	t5_s2	euro	97
+c5	Operational research	mdrtb	t2	anglo	80
+c5	Drug-related research	mdrtb	t1	anglo	95
+c7	Diagnostics	mdrtb	t3	glocal	99
+c101	Drug-related research	mdrtb	t1	glocal	83
+c101	2nd line regimens	t1	t1_s5	glocal	89
+c10	Treatment optimization	mdrtb	t5	anglo	61
+c101	Drug-related research	mdrtb	t1	glocal	98
+c101	New compounds	t1	t1_s6	glocal	90
+c0	Molecular typing	mdrtb	t0	euro	64
+c11	Molecular typing	mdrtb	t0	glocal	62
+c19	Drug-related research	mdrtb	t1	euro	87
+c19	Resistance genes	t1	t1_s0	euro	99
+c5	Treatment optimization	mdrtb	t5	anglo	69
+c0	Operational research	mdrtb	t2	euro	81
+c10	Operational research	mdrtb	t2	anglo	11
+c5	Treatment optimization	mdrtb	t5	anglo	77
+c4	Diagnostics	mdrtb	t3	euro	16
+c10	Diagnostics	mdrtb	t3	anglo	56
+c11	Treatment optimization	mdrtb	t5	glocal	26
+c11	Treatment regimens	t5	t5_s2	glocal	21
+c0	Treatment optimization	mdrtb	t5	euro	59
+c0	Treatment regimens	t5	t5_s2	euro	48
+c13	Treatment optimization	mdrtb	t5	glocal	6
+c13	Treatment regimens	t5	t5_s2	glocal	5
+c2	Diagnostics	mdrtb	t3	glocal	99
+c5	Diagnostics	mdrtb	t3	anglo	99
+c7	Treatment optimization	mdrtb	t5	glocal	84
+c0	Operational research	mdrtb	t2	euro	71
+c10	Operational research	mdrtb	t2	anglo	7
+c10	Diagnostics	mdrtb	t3	anglo	82
+c4	Treatment optimization	mdrtb	t5	euro	69
+c10	Treatment optimization	mdrtb	t5	anglo	79
+c0	Operational research	mdrtb	t2	euro	57
+c10	Operational research	mdrtb	t2	anglo	12
+c5	Operational research	mdrtb	t2	anglo	4
+c10	Diagnostics	mdrtb	t3	anglo	67
+c5	Treatment optimization	mdrtb	t5	anglo	97
+c0	Treatment optimization	mdrtb	t5	euro	29
+c18	Treatment optimization	mdrtb	t5	glocal	69
+c101	Drug-related research	mdrtb	t1	glocal	83
+c101	New compounds	t1	t1_s6	glocal	94
+c5	Treatment optimization	mdrtb	t5	anglo	97
+c5	Risk factors	t5	t5_s3	anglo	91
+c4	Treatment optimization	mdrtb	t5	euro	58
+c4	Treatment regimens	t5	t5_s2	euro	54
+c0	Treatment optimization	mdrtb	t5	euro	23
+c0	Treatment regimens	t5	t5_s2	euro	21
+c10	Treatment optimization	mdrtb	t5	anglo	5
+c10	Treatment regimens	t5	t5_s2	anglo	5
+c47	Treatment optimization	mdrtb	t5	euro	64
+c0	Drug-related research	mdrtb	t1	euro	64
+c0	Treatment optimization	mdrtb	t5	euro	72
+c0	Treatment regimens	t5	t5_s2	euro	88
+c10	Treatment optimization	mdrtb	t5	anglo	9
+c10	Treatment regimens	t5	t5_s2	anglo	11
+c19	Drug-related research	mdrtb	t1	euro	4
+c7	Drug-related research	mdrtb	t1	glocal	8
+c0	Drug-related research	mdrtb	t1	euro	12
+c10	Drug-related research	mdrtb	t1	anglo	33
+c5	Drug-related research	mdrtb	t1	anglo	4
+c18	Treatment optimization	mdrtb	t5	glocal	88
+c18	Treatment regimens	t5	t5_s2	glocal	98
+c5	Treatment optimization	mdrtb	t5	anglo	4
+c5	Treatment regimens	t5	t5_s2	anglo	5
+c10	Treatment optimization	mdrtb	t5	anglo	9
+c10	Treatment regimens	t5	t5_s2	anglo	10
+c4	Treatment optimization	mdrtb	t5	euro	19
+c4	Treatment regimens	t5	t5_s2	euro	20
+c7	Treatment optimization	mdrtb	t5	glocal	4
+c7	Treatment regimens	t5	t5_s2	glocal	5
+c2	Treatment optimization	mdrtb	t5	glocal	9
+c2	Treatment regimens	t5	t5_s2	glocal	10
+c0	Treatment optimization	mdrtb	t5	euro	43
+c0	Treatment regimens	t5	t5_s2	euro	46
+c10	Treatment optimization	mdrtb	t5	anglo	69
+c0	Treatment optimization	mdrtb	t5	euro	12
+c10	Treatment optimization	mdrtb	t5	anglo	54
+c19	Drug-related research	mdrtb	t1	euro	87
+c19	Plant extracts	t1	t1_s2	euro	77
+c10	Diagnostics	mdrtb	t3	anglo	66
+c4	Drug-related research	mdrtb	t1	euro	48
+c10	Drug-related research	mdrtb	t1	anglo	16
+c5	Operational research	mdrtb	t2	anglo	13
+c13	Operational research	mdrtb	t2	glocal	61
+c10	Operational research	mdrtb	t2	anglo	8
+c10	Drug-related research	mdrtb	t1	anglo	66
+c11	Drug-related research	mdrtb	t1	glocal	85
+c2	Diagnostics	mdrtb	t3	glocal	88
+c4	Treatment optimization	mdrtb	t5	euro	81
+c5	Treatment optimization	mdrtb	t5	anglo	54
+c10	Treatment optimization	mdrtb	t5	anglo	32
+c10	Drug-related research	mdrtb	t1	anglo	77
+c5	Diagnostics	mdrtb	t3	anglo	66
+c11	Diagnostics	mdrtb	t3	glocal	97
+c0	Operational research	mdrtb	t2	euro	53
+c10	Operational research	mdrtb	t2	anglo	10
+c7	Drug-related research	mdrtb	t1	glocal	73
+c7	Resistance genes	t1	t1_s0	glocal	99
+c7	Treatment optimization	mdrtb	t5	glocal	86
+c5	Operational research	mdrtb	t2	anglo	68
+c11	Operational research	mdrtb	t2	glocal	21
+c10	Operational research	mdrtb	t2	anglo	63
+c10	Treatment optimization	mdrtb	t5	anglo	86
+c10	Treatment optimization	mdrtb	t5	anglo	90
+c19	Drug-related research	mdrtb	t1	euro	93
+c19	2nd line regimens	t1	t1_s5	euro	92
+c10	Treatment optimization	mdrtb	t5	anglo	95
+c4	Operational research	mdrtb	t2	euro	67
+c4	Treatment optimization	mdrtb	t5	euro	85
+c4	Treatment regimens	t5	t5_s2	euro	68
+c5	Treatment optimization	mdrtb	t5	anglo	61
+c2	Drug-related research	mdrtb	t1	glocal	84
+c2	2nd line regimens	t1	t1_s5	glocal	99
+c13	Drug-related research	mdrtb	t1	glocal	59
+c13	2nd line regimens	t1	t1_s5	glocal	56
+c10	Drug-related research	mdrtb	t1	anglo	39
+c10	2nd line regimens	t1	t1_s5	anglo	37
+c0	Treatment optimization	mdrtb	t5	euro	8
+c10	Treatment optimization	mdrtb	t5	anglo	64
+c8	Treatment optimization	mdrtb	t5	glocal	99
+c8	Risk factors	t5	t5_s3	glocal	99
+c0	Treatment optimization	mdrtb	t5	euro	88
+c0	Treatment regimens	t5	t5_s2	euro	73
+c5	Operational research	mdrtb	t2	anglo	66
+c101	Treatment optimization	mdrtb	t5	glocal	73
+c10	Drug-related research	mdrtb	t1	anglo	65
+c5	Drug-related research	mdrtb	t1	anglo	98
+c5	Resistance genes	t1	t1_s0	anglo	85
+c5	Treatment optimization	mdrtb	t5	anglo	76
+c4	Treatment optimization	mdrtb	t5	euro	6
+c10	Treatment optimization	mdrtb	t5	anglo	67
+c4	Treatment optimization	mdrtb	t5	euro	97
+c5	Treatment optimization	mdrtb	t5	anglo	80
+c47	Drug-related research	mdrtb	t1	euro	67
+c11	Treatment optimization	mdrtb	t5	glocal	89
+c10	Treatment optimization	mdrtb	t5	anglo	67
+c2	Treatment optimization	mdrtb	t5	glocal	97
+c2	Risk factors	t5	t5_s3	glocal	99
+c5	Treatment optimization	mdrtb	t5	anglo	99
+c0	Treatment optimization	mdrtb	t5	euro	69
+c19	Operational research	mdrtb	t2	euro	62
+c18	Molecular typing	mdrtb	t0	glocal	80
+c5	Treatment optimization	mdrtb	t5	anglo	75
+c0	Diagnostics	mdrtb	t3	euro	84
+c5	Diagnostics	mdrtb	t3	anglo	12
+c4	Treatment optimization	mdrtb	t5	euro	3
+c5	Treatment optimization	mdrtb	t5	anglo	70
+c2	Treatment optimization	mdrtb	t5	glocal	7
+c10	Treatment optimization	mdrtb	t5	anglo	7
+c47	Treatment optimization	mdrtb	t5	euro	7
+c11	Treatment optimization	mdrtb	t5	glocal	7
+c5	Treatment optimization	mdrtb	t5	anglo	49
+c13	Drug-related research	mdrtb	t1	glocal	69
+c47	Operational research	mdrtb	t2	euro	2
+c5	Operational research	mdrtb	t2	anglo	11
+c31	Operational research	mdrtb	t2	glocal	5
+c10	Operational research	mdrtb	t2	anglo	17
+c4	Operational research	mdrtb	t2	euro	5
+c0	Operational research	mdrtb	t2	euro	46
+c10	Immunology	mdrtb	t6	anglo	87
+c0	Operational research	mdrtb	t2	euro	9
+c5	Operational research	mdrtb	t2	anglo	45
+c10	Operational research	mdrtb	t2	anglo	18
+c2	Drug-related research	mdrtb	t1	glocal	81
+c0	Treatment optimization	mdrtb	t5	euro	99
+c13	Drug-related research	mdrtb	t1	glocal	71
+c4	Treatment optimization	mdrtb	t5	euro	99
+c5	Treatment optimization	mdrtb	t5	anglo	76
+c7	Operational research	mdrtb	t2	glocal	12
+c4	Operational research	mdrtb	t2	euro	4
+c0	Operational research	mdrtb	t2	euro	24
+c10	Operational research	mdrtb	t2	anglo	16
+c5	Operational research	mdrtb	t2	anglo	16
+c10	Operational research	mdrtb	t2	anglo	80
+c101	Treatment optimization	mdrtb	t5	glocal	70
+c47	Diagnostics	mdrtb	t3	euro	71
+c47	Drug-related research	mdrtb	t1	euro	84
+c47	New compounds	t1	t1_s6	euro	63
+c2	Drug-related research	mdrtb	t1	glocal	12
+c2	New compounds	t1	t1_s6	glocal	9
+c19	Drug-related research	mdrtb	t1	euro	69
+c0	Drug-related research	mdrtb	t1	euro	10
+c0	2nd line regimens	t1	t1_s5	euro	12
+c19	Drug-related research	mdrtb	t1	euro	64
+c19	2nd line regimens	t1	t1_s5	euro	73
+c11	Diagnostics	mdrtb	t3	glocal	10
+c2	Diagnostics	mdrtb	t3	glocal	74
+c4	Treatment optimization	mdrtb	t5	euro	14
+c10	Treatment optimization	mdrtb	t5	anglo	59
+c11	Drug-related research	mdrtb	t1	glocal	61
+c4	Treatment optimization	mdrtb	t5	euro	49
+c11	Treatment optimization	mdrtb	t5	glocal	4
+c0	Treatment optimization	mdrtb	t5	euro	4
+c5	Treatment optimization	mdrtb	t5	anglo	9
+c101	Drug-related research	mdrtb	t1	glocal	90
+c101	New compounds	t1	t1_s6	glocal	77
+c5	Treatment optimization	mdrtb	t5	anglo	88
+c5	Treatment regimens	t5	t5_s2	anglo	93
+c10	Treatment optimization	mdrtb	t5	anglo	98
+c10	Treatment regimens	t5	t5_s2	anglo	79
+c10	Operational research	mdrtb	t2	anglo	66
+c11	Drug-related research	mdrtb	t1	glocal	73
+c11	Resistance genes	t1	t1_s0	glocal	64
+c13	Drug-related research	mdrtb	t1	glocal	72
+c13	2nd line regimens	t1	t1_s5	glocal	98
+c13	Operational research	mdrtb	t2	glocal	80
+c5	Drug-related research	mdrtb	t1	anglo	99
+c5	Resistance genes	t1	t1_s0	anglo	62
+c10	Treatment optimization	mdrtb	t5	anglo	92
+c47	Operational research	mdrtb	t2	euro	83
+c0	Diagnostics	mdrtb	t3	euro	11
+c10	Diagnostics	mdrtb	t3	anglo	59
+c4	Treatment optimization	mdrtb	t5	euro	97
+c4	Risk factors	t5	t5_s3	euro	73
+c0	Drug-related research	mdrtb	t1	euro	33
+c13	Drug-related research	mdrtb	t1	glocal	44
+c19	Molecular typing	mdrtb	t0	euro	66
+c5	Diagnostics	mdrtb	t3	anglo	90
+c101	Operational research	mdrtb	t2	glocal	3
+c5	Operational research	mdrtb	t2	anglo	3
+c10	Operational research	mdrtb	t2	anglo	75
+c5	Operational research	mdrtb	t2	anglo	75
+c18	Drug-related research	mdrtb	t1	glocal	67
+c10	Immunology	mdrtb	t6	anglo	85
+c19	Drug-related research	mdrtb	t1	euro	80
+c19	2nd line regimens	t1	t1_s5	euro	72
+c10	Treatment optimization	mdrtb	t5	anglo	89
+c10	Resistance prevalence	t5	t5_s5	anglo	97
+c13	Drug-related research	mdrtb	t1	glocal	76
+c13	Resistance genes	t1	t1_s0	glocal	62
+c5	Molecular typing	mdrtb	t0	anglo	68
+c13	Treatment optimization	mdrtb	t5	glocal	84
+c2	Diagnostics	mdrtb	t3	glocal	99
+c5	Operational research	mdrtb	t2	anglo	95
+c101	Treatment optimization	mdrtb	t5	glocal	66
+c7	Drug-related research	mdrtb	t1	glocal	60
+c7	Resistance genes	t1	t1_s0	glocal	62
+c4	Drug-related research	mdrtb	t1	euro	5
+c4	Resistance genes	t1	t1_s0	euro	5
+c5	Drug-related research	mdrtb	t1	anglo	5
+c5	Resistance genes	t1	t1_s0	anglo	5
+c10	Drug-related research	mdrtb	t1	anglo	20
+c10	Resistance genes	t1	t1_s0	anglo	20
+c10	Drug-related research	mdrtb	t1	anglo	84
+c10	2nd line regimens	t1	t1_s5	anglo	64
+c13	Diagnostics	mdrtb	t3	glocal	60
+c10	Diagnostics	mdrtb	t3	anglo	10
+c4	Treatment optimization	mdrtb	t5	euro	2
+c5	Treatment optimization	mdrtb	t5	anglo	87
+c13	Drug-related research	mdrtb	t1	glocal	78
+c13	Resistance genes	t1	t1_s0	glocal	98
+c0	Treatment optimization	mdrtb	t5	euro	35
+c10	Treatment optimization	mdrtb	t5	anglo	14
+c5	Treatment optimization	mdrtb	t5	anglo	49
+c18	Treatment optimization	mdrtb	t5	glocal	64
+c13	Drug-related research	mdrtb	t1	glocal	57
+c10	Drug-related research	mdrtb	t1	anglo	16
+c4	Treatment optimization	mdrtb	t5	euro	6
+c11	Treatment optimization	mdrtb	t5	glocal	6
+c13	Treatment optimization	mdrtb	t5	glocal	74
+c10	Treatment optimization	mdrtb	t5	anglo	6
+c101	Drug-related research	mdrtb	t1	glocal	76
+c101	New compounds	t1	t1_s6	glocal	83
+c4	Treatment optimization	mdrtb	t5	euro	88
+c4	Treatment regimens	t5	t5_s2	euro	76
+c0	Diagnostics	mdrtb	t3	euro	72
+c5	Diagnostics	mdrtb	t3	anglo	14
+c47	Molecular typing	mdrtb	t0	euro	71
+c10	Drug-related research	mdrtb	t1	anglo	98
+c10	Drug-related research	mdrtb	t1	anglo	95
+c5	Treatment optimization	mdrtb	t5	anglo	97
+c5	Resistance prevalence	t5	t5_s5	anglo	99
+c4	Treatment optimization	mdrtb	t5	euro	38
+c10	Treatment optimization	mdrtb	t5	anglo	32
+c5	Treatment optimization	mdrtb	t5	anglo	27
+c10	Treatment optimization	mdrtb	t5	anglo	33
+c101	Drug-related research	mdrtb	t1	glocal	69
+c11	Drug-related research	mdrtb	t1	glocal	77
+c47	Immunology	mdrtb	t6	euro	85
+c4	Diagnostics	mdrtb	t3	euro	70
+c18	Diagnostics	mdrtb	t3	glocal	8
+c11	Treatment optimization	mdrtb	t5	glocal	98
+c19	Drug-related research	mdrtb	t1	euro	65
+c10	Drug-related research	mdrtb	t1	anglo	73
+c10	2nd line regimens	t1	t1_s5	anglo	73
+c5	Drug-related research	mdrtb	t1	anglo	29
+c5	2nd line regimens	t1	t1_s5	anglo	24
+c10	Drug-related research	mdrtb	t1	anglo	51
+c10	2nd line regimens	t1	t1_s5	anglo	42
+c5	Treatment optimization	mdrtb	t5	anglo	85
+c5	Risk factors	t5	t5_s3	anglo	73
+c4	Treatment optimization	mdrtb	t5	euro	40
+c2	Treatment optimization	mdrtb	t5	glocal	4
+c5	Treatment optimization	mdrtb	t5	anglo	4
+c10	Treatment optimization	mdrtb	t5	anglo	24
+c13	Treatment optimization	mdrtb	t5	glocal	81
+c13	Treatment regimens	t5	t5_s2	glocal	76
+c5	Treatment optimization	mdrtb	t5	anglo	66
+c101	Treatment optimization	mdrtb	t5	glocal	75
+c0	Operational research	mdrtb	t2	euro	64
+c5	Treatment optimization	mdrtb	t5	anglo	10
+c10	Treatment optimization	mdrtb	t5	anglo	56
+c5	Treatment optimization	mdrtb	t5	anglo	88
+c0	Diagnostics	mdrtb	t3	euro	97
+c101	Drug-related research	mdrtb	t1	glocal	98
+c101	New compounds	t1	t1_s6	glocal	82
+c10	Operational research	mdrtb	t2	anglo	95
+c13	Treatment optimization	mdrtb	t5	glocal	71
+c13	Treatment regimens	t5	t5_s2	glocal	67
+c10	Treatment optimization	mdrtb	t5	anglo	11
+c10	Treatment regimens	t5	t5_s2	anglo	11
+c11	Treatment optimization	mdrtb	t5	glocal	66
+c11	Treatment regimens	t5	t5_s2	glocal	46
+c0	Treatment optimization	mdrtb	t5	euro	33
+c0	Treatment regimens	t5	t5_s2	euro	23
+c0	Operational research	mdrtb	t2	euro	62
+c10	Operational research	mdrtb	t2	anglo	8
+c11	Operational research	mdrtb	t2	glocal	67
+c5	Operational research	mdrtb	t2	anglo	74
+c5	Treatment optimization	mdrtb	t5	anglo	63
+c0	Diagnostics	mdrtb	t3	euro	18
+c13	Diagnostics	mdrtb	t3	glocal	54
+c7	Treatment optimization	mdrtb	t5	glocal	5
+c5	Treatment optimization	mdrtb	t5	anglo	71
+c13	Drug-related research	mdrtb	t1	glocal	95
+c7	Drug-related research	mdrtb	t1	glocal	75
+c7	New compounds	t1	t1_s6	glocal	84
+c47	Drug-related research	mdrtb	t1	euro	72
+c47	Resistance genes	t1	t1_s0	euro	85
+c13	Treatment optimization	mdrtb	t5	glocal	73
+c5	Treatment optimization	mdrtb	t5	anglo	79
+c47	Treatment optimization	mdrtb	t5	euro	76
+c47	Risk factors	t5	t5_s3	euro	53
+c7	Treatment optimization	mdrtb	t5	glocal	8
+c7	Risk factors	t5	t5_s3	glocal	5
+c4	Treatment optimization	mdrtb	t5	euro	8
+c4	Risk factors	t5	t5_s3	euro	5
+c4	Treatment optimization	mdrtb	t5	euro	51
+c0	Treatment optimization	mdrtb	t5	euro	17
+c5	Treatment optimization	mdrtb	t5	anglo	5
+c5	Treatment optimization	mdrtb	t5	anglo	22
+c5	Risk factors	t5	t5_s3	anglo	15
+c10	Treatment optimization	mdrtb	t5	anglo	77
+c10	Risk factors	t5	t5_s3	anglo	52
+c5	Drug-related research	mdrtb	t1	anglo	89
+c10	Drug-related research	mdrtb	t1	anglo	9
+c7	Treatment optimization	mdrtb	t5	glocal	77
+c19	Molecular typing	mdrtb	t0	euro	65
+c5	Operational research	mdrtb	t2	anglo	17
+c10	Operational research	mdrtb	t2	anglo	68
+c4	Treatment optimization	mdrtb	t5	euro	6
+c0	Treatment optimization	mdrtb	t5	euro	72
+c10	Drug-related research	mdrtb	t1	anglo	62
+c5	Treatment optimization	mdrtb	t5	anglo	7
+c10	Treatment optimization	mdrtb	t5	anglo	53
+c10	Diagnostics	mdrtb	t3	anglo	92
+c2	Drug-related research	mdrtb	t1	glocal	99
+c0	Drug-related research	mdrtb	t1	euro	67
+c47	Treatment optimization	mdrtb	t5	euro	6
+c4	Treatment optimization	mdrtb	t5	euro	66
+c0	Treatment optimization	mdrtb	t5	euro	6
+c10	Treatment optimization	mdrtb	t5	anglo	6
+c5	Treatment optimization	mdrtb	t5	anglo	64
+c5	Treatment regimens	t5	t5_s2	anglo	53
+c18	Treatment optimization	mdrtb	t5	glocal	9
+c18	Treatment regimens	t5	t5_s2	glocal	7
+c10	Treatment optimization	mdrtb	t5	anglo	9
+c10	Treatment regimens	t5	t5_s2	anglo	7
+c11	Drug-related research	mdrtb	t1	glocal	85
+c11	Resistance genes	t1	t1_s0	glocal	90
+c101	Drug-related research	mdrtb	t1	glocal	96
+c101	New compounds	t1	t1_s6	glocal	98
+c2	Drug-related research	mdrtb	t1	glocal	63
+c5	Operational research	mdrtb	t2	anglo	66
+c4	Treatment optimization	mdrtb	t5	euro	9
+c5	Treatment optimization	mdrtb	t5	anglo	19
+c2	Treatment optimization	mdrtb	t5	glocal	38
+c11	Drug-related research	mdrtb	t1	glocal	91
+c11	New compounds	t1	t1_s6	glocal	87
+c5	Treatment optimization	mdrtb	t5	anglo	90
+c2	Treatment optimization	mdrtb	t5	glocal	75
+c8	Treatment optimization	mdrtb	t5	glocal	65
+c4	Drug-related research	mdrtb	t1	euro	73
+c4	2nd line regimens	t1	t1_s5	euro	69
+c4	Treatment optimization	mdrtb	t5	euro	73
+c5	Treatment optimization	mdrtb	t5	anglo	94
+c5	Treatment regimens	t5	t5_s2	anglo	99
+c0	Drug-related research	mdrtb	t1	euro	44
+c0	2nd line regimens	t1	t1_s5	euro	59
+c10	Drug-related research	mdrtb	t1	anglo	8
+c10	2nd line regimens	t1	t1_s5	anglo	11
+c5	Drug-related research	mdrtb	t1	anglo	17
+c5	2nd line regimens	t1	t1_s5	anglo	23
+c4	Operational research	mdrtb	t2	euro	8
+c10	Operational research	mdrtb	t2	anglo	65
+c18	Operational research	mdrtb	t2	glocal	23
+c10	Operational research	mdrtb	t2	anglo	46
+c4	Treatment optimization	mdrtb	t5	euro	63
+c0	Diagnostics	mdrtb	t3	euro	73
+c10	Diagnostics	mdrtb	t3	anglo	5
+c101	Drug-related research	mdrtb	t1	glocal	98
+c101	New compounds	t1	t1_s6	glocal	98
+c10	Treatment optimization	mdrtb	t5	anglo	84
+c10	Treatment regimens	t5	t5_s2	anglo	87
+c5	Treatment optimization	mdrtb	t5	anglo	99
+c10	Operational research	mdrtb	t2	anglo	70
+c5	Operational research	mdrtb	t2	anglo	7
+c13	Operational research	mdrtb	t2	glocal	54
+c0	Drug-related research	mdrtb	t1	euro	61
+c8	Operational research	mdrtb	t2	glocal	88
+c4	Treatment optimization	mdrtb	t5	euro	8
+c4	Treatment regimens	t5	t5_s2	euro	6
+c5	Treatment optimization	mdrtb	t5	anglo	8
+c5	Treatment regimens	t5	t5_s2	anglo	6
+c10	Treatment optimization	mdrtb	t5	anglo	80
+c10	Treatment regimens	t5	t5_s2	anglo	61
+c13	Drug-related research	mdrtb	t1	glocal	96
+c4	Operational research	mdrtb	t2	euro	36
+c2	Operational research	mdrtb	t2	glocal	24
+c10	Operational research	mdrtb	t2	anglo	24
+c5	Treatment optimization	mdrtb	t5	anglo	81
+c5	Treatment regimens	t5	t5_s2	anglo	98
+c5	Treatment optimization	mdrtb	t5	anglo	89
+c5	Treatment optimization	mdrtb	t5	anglo	99
+c5	Risk factors	t5	t5_s3	anglo	76
+c0	Operational research	mdrtb	t2	euro	24
+c31	Operational research	mdrtb	t2	glocal	62
+c101	Drug-related research	mdrtb	t1	glocal	86
+c101	New compounds	t1	t1_s6	glocal	88
+c5	Treatment optimization	mdrtb	t5	anglo	99
+c7	Treatment optimization	mdrtb	t5	glocal	80
+c18	Treatment optimization	mdrtb	t5	glocal	8
+c5	Treatment optimization	mdrtb	t5	anglo	78
+c5	Treatment optimization	mdrtb	t5	anglo	81
+c0	Operational research	mdrtb	t2	euro	73
+c5	Treatment optimization	mdrtb	t5	anglo	88
+c5	Risk factors	t5	t5_s3	anglo	73
+c101	Drug-related research	mdrtb	t1	glocal	78
+c101	New compounds	t1	t1_s6	glocal	78
+c4	Treatment optimization	mdrtb	t5	euro	90
+c4	Risk factors	t5	t5_s3	euro	83
+c13	Treatment optimization	mdrtb	t5	glocal	6
+c13	Treatment regimens	t5	t5_s2	glocal	6
+c10	Treatment optimization	mdrtb	t5	anglo	92
+c10	Treatment regimens	t5	t5_s2	anglo	92
+c0	Treatment optimization	mdrtb	t5	euro	84
+c0	Resistance prevalence	t5	t5_s5	euro	72
+c47	Operational research	mdrtb	t2	euro	62
+c0	Treatment optimization	mdrtb	t5	euro	15
+c10	Treatment optimization	mdrtb	t5	anglo	60
+c7	Drug-related research	mdrtb	t1	glocal	98
+c7	New compounds	t1	t1_s6	glocal	83
+c19	Drug-related research	mdrtb	t1	euro	92
+c19	New compounds	t1	t1_s6	euro	97
+c2	Immunology	mdrtb	t6	glocal	69
+c5	Operational research	mdrtb	t2	anglo	14
+c10	Operational research	mdrtb	t2	anglo	57
+c10	Treatment optimization	mdrtb	t5	anglo	74
+c4	Diagnostics	mdrtb	t3	euro	95
+c47	Drug-related research	mdrtb	t1	euro	67
+c0	Treatment optimization	mdrtb	t5	euro	37
+c18	Treatment optimization	mdrtb	t5	glocal	37
+c47	Immunology	mdrtb	t6	euro	85
+c10	Diagnostics	mdrtb	t3	anglo	77
+c5	Treatment optimization	mdrtb	t5	anglo	9
+c10	Treatment optimization	mdrtb	t5	anglo	67
+c11	Treatment optimization	mdrtb	t5	glocal	73
+c5	Drug-related research	mdrtb	t1	anglo	90
+c5	Resistance genes	t1	t1_s0	anglo	72
+c10	Drug-related research	mdrtb	t1	anglo	99
+c47	Operational research	mdrtb	t2	euro	48
+c2	Operational research	mdrtb	t2	glocal	16
+c10	Drug-related research	mdrtb	t1	anglo	84
+c10	Resistance genes	t1	t1_s0	anglo	91
+c0	Treatment optimization	mdrtb	t5	euro	82
+c47	Drug-related research	mdrtb	t1	euro	73
+c2	Drug-related research	mdrtb	t1	glocal	94
+c2	Resistance genes	t1	t1_s0	glocal	75
+c5	Treatment optimization	mdrtb	t5	anglo	92
+c10	Treatment optimization	mdrtb	t5	anglo	95
+c5	Diagnostics	mdrtb	t3	anglo	82
+c4	Molecular typing	mdrtb	t0	euro	63
+c19	Drug-related research	mdrtb	t1	euro	35
+c10	Drug-related research	mdrtb	t1	anglo	21
+c5	Drug-related research	mdrtb	t1	anglo	3
+c10	Operational research	mdrtb	t2	anglo	71
+c10	Treatment optimization	mdrtb	t5	anglo	61
+c0	Operational research	mdrtb	t2	euro	69
+c10	Drug-related research	mdrtb	t1	anglo	89
+c0	Operational research	mdrtb	t2	euro	16
+c5	Operational research	mdrtb	t2	anglo	54
+c4	Treatment optimization	mdrtb	t5	euro	66
+c4	Treatment optimization	mdrtb	t5	euro	3
+c2	Treatment optimization	mdrtb	t5	glocal	6
+c5	Treatment optimization	mdrtb	t5	anglo	52
+c10	Treatment optimization	mdrtb	t5	anglo	9
+c8	Treatment optimization	mdrtb	t5	glocal	91
+c4	Diagnostics	mdrtb	t3	euro	69
+c10	Diagnostics	mdrtb	t3	anglo	23
+c8	Treatment optimization	mdrtb	t5	glocal	99
+c8	Risk factors	t5	t5_s3	glocal	86
+c4	Diagnostics	mdrtb	t3	euro	89
+c47	Treatment optimization	mdrtb	t5	euro	32
+c47	Treatment regimens	t5	t5_s2	euro	33
+c5	Treatment optimization	mdrtb	t5	anglo	64
+c5	Treatment regimens	t5	t5_s2	anglo	66
+c2	Treatment optimization	mdrtb	t5	glocal	99
+c2	Drug-related research	mdrtb	t1	glocal	96
+c19	Treatment optimization	mdrtb	t5	euro	5
+c0	Treatment optimization	mdrtb	t5	euro	16
+c10	Treatment optimization	mdrtb	t5	anglo	44
+c13	Treatment optimization	mdrtb	t5	glocal	69
+c13	Treatment optimization	mdrtb	t5	glocal	99
+c13	Risk factors	t5	t5_s3	glocal	90
+c4	Diagnostics	mdrtb	t3	euro	7
+c101	Diagnostics	mdrtb	t3	glocal	51
+c0	Diagnostics	mdrtb	t3	euro	14
+c13	Treatment optimization	mdrtb	t5	glocal	71
+c4	Diagnostics	mdrtb	t3	euro	47
+c10	Diagnostics	mdrtb	t3	anglo	13
+c4	Treatment optimization	mdrtb	t5	euro	34
+c10	Treatment optimization	mdrtb	t5	anglo	47
+c101	Drug-related research	mdrtb	t1	glocal	98
+c101	New compounds	t1	t1_s6	glocal	98
+c0	Operational research	mdrtb	t2	euro	55
+c5	Operational research	mdrtb	t2	anglo	6
+c4	Treatment optimization	mdrtb	t5	euro	51
+c5	Treatment optimization	mdrtb	t5	anglo	19
+c0	Operational research	mdrtb	t2	euro	34
+c10	Operational research	mdrtb	t2	anglo	34
+c101	Drug-related research	mdrtb	t1	glocal	88
+c101	New compounds	t1	t1_s6	glocal	98
+c47	Drug-related research	mdrtb	t1	euro	93
+c5	Treatment optimization	mdrtb	t5	anglo	61
+c0	Operational research	mdrtb	t2	euro	95
+c101	Drug-related research	mdrtb	t1	glocal	90
+c101	New compounds	t1	t1_s6	glocal	67
+c0	Treatment optimization	mdrtb	t5	euro	8
+c5	Treatment optimization	mdrtb	t5	anglo	78
+c10	Drug-related research	mdrtb	t1	anglo	79
+c13	Drug-related research	mdrtb	t1	glocal	62
+c11	Operational research	mdrtb	t2	glocal	35
+c0	Operational research	mdrtb	t2	euro	8
+c10	Operational research	mdrtb	t2	anglo	17
+c47	Treatment optimization	mdrtb	t5	euro	67
+c7	Operational research	mdrtb	t2	glocal	64
+c7	Diagnostics	mdrtb	t3	glocal	74
+c4	Treatment optimization	mdrtb	t5	euro	67
+c5	Treatment optimization	mdrtb	t5	anglo	11
+c10	Treatment optimization	mdrtb	t5	anglo	80
+c2	Treatment optimization	mdrtb	t5	glocal	99
+c2	Treatment optimization	mdrtb	t5	glocal	99
+c2	Treatment regimens	t5	t5_s2	glocal	97
+c5	Treatment optimization	mdrtb	t5	anglo	62
+c18	Molecular typing	mdrtb	t0	glocal	70
+c4	Diagnostics	mdrtb	t3	euro	71
+c4	Treatment optimization	mdrtb	t5	euro	84
+c2	Drug-related research	mdrtb	t1	glocal	67
+c2	Treatment optimization	mdrtb	t5	glocal	99
+c2	Treatment regimens	t5	t5_s2	glocal	77
+c11	Drug-related research	mdrtb	t1	glocal	26
+c10	Drug-related research	mdrtb	t1	anglo	52
+c13	Drug-related research	mdrtb	t1	glocal	95
+c4	Operational research	mdrtb	t2	euro	88
+c10	Diagnostics	mdrtb	t3	anglo	67
+c5	Drug-related research	mdrtb	t1	anglo	69
+c0	Operational research	mdrtb	t2	euro	6
+c10	Operational research	mdrtb	t2	anglo	76
+c5	Operational research	mdrtb	t2	anglo	25
+c10	Operational research	mdrtb	t2	anglo	63
+c4	Treatment optimization	mdrtb	t5	euro	82
+c4	Treatment regimens	t5	t5_s2	euro	58
+c19	Treatment optimization	mdrtb	t5	euro	16
+c19	Treatment regimens	t5	t5_s2	euro	11
+c101	Treatment optimization	mdrtb	t5	glocal	39
+c10	Treatment optimization	mdrtb	t5	anglo	39
+c13	Diagnostics	mdrtb	t3	glocal	75
+c5	Treatment optimization	mdrtb	t5	anglo	99
+c5	Treatment optimization	mdrtb	t5	anglo	61
+c5	Treatment regimens	t5	t5_s2	anglo	46
+c10	Treatment optimization	mdrtb	t5	anglo	37
+c10	Treatment regimens	t5	t5_s2	anglo	27
+c4	Treatment optimization	mdrtb	t5	euro	14
+c0	Treatment optimization	mdrtb	t5	euro	42
+c10	Treatment optimization	mdrtb	t5	anglo	17
+c5	Treatment optimization	mdrtb	t5	anglo	97
+c5	Resistance prevalence	t5	t5_s5	anglo	99
+c19	Treatment optimization	mdrtb	t5	euro	72
+c4	Treatment optimization	mdrtb	t5	euro	75
+c4	Treatment regimens	t5	t5_s2	euro	60
+c19	Treatment optimization	mdrtb	t5	euro	17
+c19	Treatment regimens	t5	t5_s2	euro	13
+c5	Treatment optimization	mdrtb	t5	anglo	5
+c5	Treatment regimens	t5	t5_s2	anglo	4
+c47	Drug-related research	mdrtb	t1	euro	99
