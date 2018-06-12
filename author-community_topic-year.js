@@ -6,38 +6,62 @@ const spec = 	{
   "signals": [
     {
       "name": "currentTid",
-      "value": "mdrtb",
+      "value": [
+        "t0",
+        "t1",
+        "t2",
+        "t3",
+        "t5",
+        "t6"
+      ],
       "bind": {
-        "name": "Main topic:",
+        "name": "Topic groups:",
         "input": "radio",
         "options": [
-          "mdrtb",
-          "t5",
-          "t1"
+          [
+            "t0",
+            "t1",
+            "t2",
+            "t3",
+            "t5",
+            "t6"
+          ],
+          [
+            "t1_s0",
+            "t1_s2",
+            "t1_s5",
+            "t1_s6"
+          ],
+          [
+            "t5_s2",
+            "t5_s3",
+            "t5_s5"
+          ]
         ]
       }
     },
     {
       "name": "cComm",
-      "value": "c10",
+      "value": "106",
       "bind": {
-        "name": "Affiliation clusters:",
+        "name": "Author communities:",
         "input": "radio",
         "options": [
-          "c10",
-          "c5",
-          "c4",
-          "c0",
-          "c47",
-          "c19",
-          "c2",
-          "c11",
-          "c13",
-          "c7",
-          "c101",
-          "c18",
-          "c8",
-          "c31"
+          "27",
+          "139",
+          "12",
+          "41",
+          "126",
+          "24",
+          "91",
+          "106",
+          "75",
+          "8",
+          "64",
+          "145",
+          "17",
+          "40",
+          "127"
         ]
       }
     },
@@ -61,11 +85,11 @@ const spec = 	{
   "data": [
     {
       "name": "source_raw",
-      "url": "https://raw.githubusercontent.com/repmax/launchpad/master/affil-cluster_topic_matrix.tsv",
+      "url": "https://raw.githubusercontent.com/repmax/launchpad/master/community-topic.tsv",
       "format": {
         "type": "tsv",
         "parse": {
-          "weight": "number",
+          "activity": "number",
           "year": "string"
         }
       }
@@ -76,7 +100,7 @@ const spec = 	{
       "transform": [
         {
           "type": "filter",
-          "expr": "datum.theme == currentTid"
+          "expr": "(0 <= indexof(currentTid, datum.id_top))"
         }
       ]
     },
@@ -86,7 +110,7 @@ const spec = 	{
       "transform": [
         {
           "type": "filter",
-          "expr": "(datum.theme == currentTid) && (datum.cluster == cComm)"
+          "expr": "(0 <= indexof(currentTid, datum.id_top)) && (datum.community == cComm)"
         }
       ]
     }
@@ -105,7 +129,7 @@ const spec = 	{
         "update": {
           "fill": {
             "scale": "color",
-            "field": "weight"
+            "field": "activity"
           },
           "x": {
             "scale": "x",
@@ -117,7 +141,7 @@ const spec = 	{
           },
           "y": {
             "scale": "y",
-            "field": "name"
+            "field": "topic"
           },
           "height": {
             "scale": "y",
@@ -132,6 +156,18 @@ const spec = 	{
       "name": "x",
       "type": "band",
       "domain": [
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
         2007,
         2008,
         2009,
@@ -157,7 +193,7 @@ const spec = 	{
       "type": "band",
       "domain": {
         "data": "source_scale",
-        "field": "name",
+        "field": "topic",
         "sort": false
       },
       "range": {
@@ -176,7 +212,7 @@ const spec = 	{
       },
       "domain": {
         "data": "source_in",
-        "field": "weight"
+        "field": "activity"
       },
       "nice": false,
       "zero": true
@@ -208,7 +244,7 @@ const spec = 	{
     {
       "scale": "y",
       "orient": "left",
-      "title": "name",
+      "title": "topic",
       "zindex": 1
     }
   ],
@@ -217,7 +253,7 @@ const spec = 	{
       "orient": "right",
       "offset": 10,
       "fill": "color",
-      "title": "weight",
+      "title": "publications",
       "type": "gradient"
     }
   ],

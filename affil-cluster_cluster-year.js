@@ -55,11 +55,6 @@ const spec = 	{
         {
           "type": "filter",
           "expr": "datum.topic == currentTid"
-        },
-        {
-          "type": "formula",
-          "as": "log_weight",
-          "expr": "datum.weight"
         }
       ]
     }
@@ -78,7 +73,7 @@ const spec = 	{
         "update": {
           "fill": {
             "scale": "color",
-            "field": "log_weight"
+            "field": "weight"
           },
           "x": {
             "scale": "x",
@@ -140,11 +135,13 @@ const spec = 	{
     {
       "name": "color",
       "type": "sequential",
+      "range": {
+        "scheme": "YellowOrangeRed"
+      },
       "domain": {
         "data": "source_in",
-        "field": "log_weight"
+        "field": "weight"
       },
-      "range": "heatmap",
       "nice": false,
       "zero": true
     }
