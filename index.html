@@ -18,6 +18,12 @@ h3{
   margin: 30px 0px 0px 0px;
     padding: 4px 6px;
     background-color: #987cba;
+	text-transform: uppercase;
+  }
+h5{
+  margin: 10px 0px 0px 0px;
+    padding: 2px 6px;
+    background-color: #b1a5d1;
   }
 
 .mylink a {
@@ -62,7 +68,7 @@ h3{
 /* Style the buttons that are used to open and close the accordion panel */
 .accordion {
     margin:2px 1px 0px 4px;
-    background-color: #777;
+    background-color: #999;
     font-weight: bold;
     color: #fff;
     cursor: pointer;
@@ -78,7 +84,7 @@ button.accordion.active:after {
 }
 button.accordion:after {
     content: '\002B';
-    color: #777;
+    color: #ccc;
     font-weight: bold;
     float: right;
     margin-left: 5px;
@@ -305,6 +311,8 @@ return false;
 
   <h3>Topic matrices</h3>
 
+  
+<h5>Author-keyword - topic</h5>
 <img src="https://repmax.github.io/launchpad/img/key_author-topic-matrix.png" width=400>
 
 
@@ -328,11 +336,11 @@ return false;
 
    
    
-<h5>Author Community - Topic</h5>
+<h5>Author-community - topic</h5>
 
 <p class='mySource'><a href="https://github.com/repmax/launchpad/blob/master/community-topic.tsv" 
   target="popup" 
-   onclick="window.open('https://github.com/repmax/launchpad/blob/master/community-topic.tsv','popup'+Math.random()*100,'width=900,height=600'); return false;" target="_blank">Source: Author Community - Topic (tsv)</a></p>
+   onclick="window.open('https://github.com/repmax/launchpad/blob/master/community-topic.tsv','popup'+Math.random()*100,'width=900,height=600'); return false;" target="_blank">Source: Author-community - Topic (tsv)</a></p>
 <button class="accordion">Data note</button>
 <div class="panel">
   <p>No author community has any entries for subtopic 't1_s2'. The subtopic will therefore either not be displayed or produce an error. Reloading the page will restore the visualization.<br>
@@ -340,22 +348,22 @@ return false;
 </div>
 
 <img src="https://raw.githubusercontent.com/repmax/launchpad/master/img/author-community_community-year.png" width=400>
-<p class='mylink'><a href="chart.html" onclick="return popitup('chart.html?file=author-community_community-year.js')" title="Topic chart">Author Community - Topic / Community</a></p>  
+<p class='mylink'><a href="chart.html" onclick="return popitup('chart.html?file=author-community_community-year.js')" title="Topic chart">Author-community - topic (by community)</a></p>  
 
 <img src="https://raw.githubusercontent.com/repmax/launchpad/master/img/author-community_topic-year.png" width=400>
-<p class='mylink'><a href="chart.html" onclick="return popitup('chart.html?file=author-community_topic-year.js')" title="Topic chart">Author Community-Topic / Topic</a></p>  
+<p class='mylink'><a href="chart.html" onclick="return popitup('chart.html?file=author-community_topic-year.js')" title="Topic chart">Author-community - topic (by topic)</a></p>  
 
 
-<h5>Affiliation Cluster - Topic</h5>
+<h5>Affiliation-cluster - topic</h5>
   <p class='mySource'><a href="https://github.com/repmax/launchpad/blob/master/affil-cluster_topic_matrix.tsv" 
   target="popup" 
-   onclick="window.open('https://github.com/repmax/launchpad/blob/master/affil-cluster_topic_matrix.tsv','popup'+Math.random()*100,'width=900,height=600'); return false;" target="_blank">Source: Affiliation Cluster - Topic (tsv)</a></p>   
+   onclick="window.open('https://github.com/repmax/launchpad/blob/master/affil-cluster_topic_matrix.tsv','popup'+Math.random()*100,'width=900,height=600'); return false;" target="_blank">Source: Affiliation-cluster - topic (tsv)</a></p>   
    
 <img src="https://repmax.github.io/launchpad/img/affil-cluster_cluster-year.png" width=400>
-<p class='mylink'><a href="chart.html" onclick="return popitup('chart.html?file=affil-cluster_cluster-year.js')" title="Topic chart">Affiliation Cluster - Topic / Cluster Matrix</a></p>  
+<p class='mylink'><a href="chart.html" onclick="return popitup('chart.html?file=affil-cluster_cluster-year.js')" title="Topic chart">Affiliation-cluster - topic matrix (by cluster)</a></p>  
 
 <img src="https://repmax.github.io/launchpad/img/affil-cluster_topic-year.png" width=400>
-<p class='mylink'><a href="chart.html" onclick="return popitup('chart.html?file=affil-cluster_topic-year.js')" title="Topic chart">Affiliation Cluster - Topic / Topic Matrix</a></p>  
+<p class='mylink'><a href="chart.html" onclick="return popitup('chart.html?file=affil-cluster_topic-year.js')" title="Topic chart">Affiliation Affiliation-cluster - topic matrix (by topic)</a></p>  
 
 
 
