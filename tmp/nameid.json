@@ -1,7 +1,7 @@
 [
   {
     "id": 6,
-    "name": "HierarchicalCluster",
+    "name": "IerarchicalCluster",
     "parent": 3,
     "size": 6714
   },
@@ -12,18 +12,18 @@
     "size": 743
   },
   {
-    "id": ab,
+    "id": "ab",
     "name": "mdr-tb"
   },
   {
-    "id": a3b,
+    "id": "a3b",
     "name": "analytics",
-    "parent": ab
+    "parent": "ab"
   },
   {
     "id": 3,
     "name": "cluster",
-    "parent": a3b
+    "parent": "a3b"
   },
   {
     "id": 4,
