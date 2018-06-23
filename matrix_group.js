@@ -8,7 +8,7 @@ const spec = {
       "name": "cellSize",
       "value": 30,
       "bind": {
-        "name": "cell size",
+        "name": "MATRIX SIZE",
         "input": "range",
         "min": 15,
         "max": 50,
@@ -214,7 +214,6 @@ const spec = {
       "title": "Links",
       "type": "gradient",
       "titleFontSize": 12,
-      "direction": "vertical",
       "gradientLength": {"signal": "height - 20"}
     },
     {
