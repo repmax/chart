@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<script src="https://cdn.jsdelivr.net/npm/vega@3"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-lite@2"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-embed@3"></script>
+<script>
+var url = location.search.split("file=")[1];
+var newTag = document.createElement('script');
+newTag.onload = function (){draw();}
+newTag.src = url;
+document.head.appendChild(newTag);
+</script>
+
+<style>
+/* no scrollbars */
+body {
+  overflow:auto;
+  font-family: sans-serif;
+  }
+  
+.vega-actions {
+ position:absolute;
+ bottom: 10px;
+ right: 20px;
+    margin:2px;
+    padding: 4px 12px;
+    background-color: #666;
+    border-color: #ddd;
+}
+
+.vega-actions a {
+    color: #ccc !important;
+    text-decoration: none !important;
+}
+
+.vega-actions > a:not(:first-child) {
+ display: none;
+}
+
+/* Hide radio button (the round disc) and text before radio buttons  we will use just the label to create pushbutton effect */
+
+.vega-bind-name {display: none}
+input[type=radio] {
+    display:none; 
+    margin:10px;
+}
+/*   Change the look'n'feel of labels (which are adjacent to radiobuttons). */
+input[type=radio] + label:hover {
+   background-color: #d0d0d0;
+}
+input[type=radio] + label {
+    display:inline-block;
+    margin:2px;
+    padding: 4px 12px;
+    background-color: #e7e7e7;
+    border-color: #ddd;
+}
+/* Change background color for label next to checked radio button  to make it look like highlighted button */
+input[type=radio]:checked + label { 
+   background-image: none;
+    background-color: #f2ad46;
+}
+</style>
+</head><body>
+ 
+<div id="vis"></div>
+
+</body></html>
