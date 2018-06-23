@@ -214,6 +214,7 @@ const spec = {
       "title": "Links",
       "type": "gradient",
       "titleFontSize": 12,
+      "direction": "vertical",
       "gradientLength": {"signal": "height - 20"}
     },
     {
