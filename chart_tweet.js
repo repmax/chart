@@ -167,20 +167,27 @@ const spec = {
      "grid": true,
      "ticks": true,
      "offset": 10,
-     "tickCount":20
+     "title": "WEEK 2018",
+     "tickCount":20,
+     "titleFontSize": 13,
+      "titleFontWeight": 100
     },
     {"orient": "left",
      "scale": "y",
-      "offset": 10,
-      "title": "Tweets per week",
-      "titlePadding": 10
+      "offset": 20,
+      "title": "TWEETS/WEEK",
+      "titlePadding": 10,
+      "titleFontSize": 13,
+      "titleFontWeight": 100
     },
     {
       "orient": "right",
       "scale": "z",
-      "title": "Favorite count",
+      "title": "FAVORITES",
       "offset": 50,
-      "titlePadding": 10
+      "titlePadding": 10,
+      "titleFontSize": 13,
+      "titleFontWeight": 100
     }
   ],
   "marks": [
