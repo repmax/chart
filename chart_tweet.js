@@ -2,7 +2,7 @@ const spec = {
   "$schema": "https://vega.github.io/schema/vega/v4.json",
   "width": 710,
   "height": 400,
-  "padding": 5,
+  "padding": 15,
   "myList": [
           "basis",
           "cardinal",
@@ -118,7 +118,6 @@ const spec = {
     {
       "name": "x",
       "type": "linear",
-      "nice" : true,
       "zero" : false,
       "domain": {"data": "rangeAxisX", "field": "week"},
       "range": "width"
@@ -150,8 +149,7 @@ const spec = {
       "domainColor": "#00cc99",
       "domainWidth": 3,
       "tickWidth": 2,
-      "titleFontSize": 15,
-      "titleFontWeight": 500
+      "titleFontSize": 15
     },
       "axisX": {
       "domain": true,
@@ -164,17 +162,17 @@ const spec = {
      "scale": "x",
      "grid": true,
      "ticks": true,
-     "offset": 10,
+     "offset": 15,
      "title": "WEEK 2018",
-     "tickCount":20,
+     "tickCount":15,
      "titleFontSize": 13,
-      "titleFontWeight": 100
+     "titleFontWeight": 100
     },
     {"orient": "left",
      "scale": "y",
-      "offset": 20,
+      "offset": 35,
       "title": "TWEETS/WEEK",
-      "titlePadding": 10,
+      "titlePadding": 5,
       "titleFontSize": 13,
       "titleFontWeight": 100
     },
@@ -183,7 +181,7 @@ const spec = {
       "scale": "z",
       "title": "RETWEETS",
       "offset": 50,
-      "titlePadding": 10,
+      "titlePadding": 5,
       "titleFontSize": 13,
       "titleFontWeight": 100
     }
