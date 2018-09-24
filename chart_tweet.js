@@ -133,10 +133,8 @@ const spec = {
     },
     {
       "name": "z",
-      "type": "linear",
+      "type": "log",
       "range": "height",
-      "nice": true,
-      "zero": true,
       "domain": {"data": "rangeAxisZ", "field": "retweet_count"}
     }
   ],
