@@ -165,7 +165,7 @@ const spec = {
      "offset": 15,
      "title": "WEEK 2018",
      "tickCount":15,
-     "titleFontSize": 13,
+     "titleFontSize": 10,
      "titleFontWeight": 100
     },
     {"orient": "left",
@@ -173,7 +173,7 @@ const spec = {
       "offset": 35,
       "title": "TWEETS/WEEK",
       "titlePadding": 5,
-      "titleFontSize": 13,
+      "titleFontSize": 10,
       "titleFontWeight": 100
     },
     {
@@ -182,7 +182,7 @@ const spec = {
       "title": "RETWEETS",
       "offset": 50,
       "titlePadding": 5,
-      "titleFontSize": 13,
+      "titleFontSize": 10,
       "titleFontWeight": 100
     }
   ],
