@@ -166,7 +166,8 @@ const spec = {
      "scale": "x",
      "grid": true,
      "ticks": true,
-     "offset": 10
+     "offset": 10,
+     "tickCount":20
     },
     {"orient": "left",
      "scale": "y",
