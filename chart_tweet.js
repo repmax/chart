@@ -92,7 +92,7 @@ const spec = {
     },
     {
       "name": "topData",
-      "format": {"type": "tsv", "parse": {"week": "number", "favorite_count":"number", "retweet_count":"number"}},
+      "format": {"type": "tsv", "parse": {"week": "number", "retweet_count":"number", "retweet_count":"number"}},
       "url": "https://raw.githubusercontent.com/repmax/launchpad/master/tb_tweet_top.tsv",
        "transform": [
         {"type": "formula", "expr": "'https://twitter.com/statuses' + datum.tid", "as": "url"}
@@ -109,7 +109,7 @@ const spec = {
       "name": "filteredTop",
       "source": "topData",
       "transform": [
-        {"type": "filter", "expr": "(datum.label == selected) && (datum.favorite_count >= cutOff)"}
+        {"type": "filter", "expr": "(datum.label == selected) && (datum.retweet_count >= cutOff)"}
       ]
     }
   ],
@@ -137,7 +137,7 @@ const spec = {
       "range": "height",
       "nice": true,
       "zero": true,
-      "domain": {"data": "rangeAxisZ", "field": "favorite_count"}
+      "domain": {"data": "rangeAxisZ", "field": "retweet_count"}
     }
   ],
   "config": {
@@ -183,7 +183,7 @@ const spec = {
     {
       "orient": "right",
       "scale": "z",
-      "title": "FAVORITES",
+      "title": "RETWEETS",
       "offset": 50,
       "titlePadding": 10,
       "titleFontSize": 13,
@@ -216,7 +216,7 @@ const spec = {
       "encode": {
         "enter": {
           "x": {"scale": "x", "field": "week"},
-          "y": {"scale": "z", "field": "favorite_count"},
+          "y": {"scale": "z", "field": "retweet_count"},
           "shape": {"value": "circle"},
           "strokeWidth": {"value": 2},
           "opacity": {"value": 0.8},
@@ -225,7 +225,7 @@ const spec = {
         },
         "update": {
           "x": {"scale": "x", "field": "week"},
-          "y": {"scale": "z", "field": "favorite_count"}
+          "y": {"scale": "z", "field": "retweet_count"}
         }
       }
     },
@@ -244,8 +244,8 @@ const spec = {
         "update": {
           "opacity": {"value": 1},
           "x": {"scale": "x", "field": "week"},
-          "y": {"scale": "z", "field": "favorite_count"},
-          "tooltip": {"signal": "{title: datum.screen_name, 'Tweet': datum.text , 'Favorites': datum.favorite_count, 'Retweets': datum.retweet_count, 'Week': datum.week, 'TwitterID': datum.tid}"},
+          "y": {"scale": "z", "field": "retweet_count"},
+          "tooltip": {"signal": "{title: datum.screen_name, 'Tweet': datum.text ,'Retweets': datum.retweet_count, 'Favorites': datum.favorite_count,  'Week': datum.week, 'TwitterID': datum.tid}"},
           "dx":   {"value":10},
           "align": {"value": "left"},
           "baseline":  {"value":"middle"}
