@@ -165,7 +165,8 @@ const spec = {
      "offset": 15,
      "title": "WEEK 2018",
      "tickCount":15,
-     "titleFontSize": 10,
+     "titlePadding": 10,
+     "titleFontSize": 13,
      "titleFontWeight": 100
     },
     {"orient": "left",
@@ -173,7 +174,7 @@ const spec = {
       "offset": 35,
       "title": "TWEETS/WEEK",
       "titlePadding": 5,
-      "titleFontSize": 10,
+      "titleFontSize": 13,
       "titleFontWeight": 100
     },
     {
@@ -182,7 +183,7 @@ const spec = {
       "title": "RETWEETS",
       "offset": 50,
       "titlePadding": 5,
-      "titleFontSize": 10,
+      "titleFontSize": 13,
       "titleFontWeight": 100
     }
   ],
@@ -253,6 +254,7 @@ const spec = {
     }
   ]
 }
+
 
 draw = function () { 
   vegaEmbed('#vis', spec, {
