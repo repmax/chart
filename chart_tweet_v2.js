@@ -182,26 +182,6 @@ const spec = {
       "encode": {
         "enter": {
           "x": {"scale": "x", "field": "week"},
-          "y": {"scale": "y", "field": "total"},
-          "y2": {"scale": "y", "value": 0},
-          "stroke": {"value": "#a6dba0"},
-          "strokeWidth": {"value": 1},
-          "strokeOpacity": {"value": 0.8},
-          "fill": {"value": "#d9f0d3"},
-          "fillOpacity": {"value": 0.5},
-          "interpolate": {"signal": "interpolate"}
-        },
-        "update": {
-          "interpolate": {"signal": "interpolate"}
-        }
-      }
-    },
-    {
-      "type": "area",
-      "from": {"data": "filterSteam"},
-      "encode": {
-        "enter": {
-          "x": {"scale": "x", "field": "week"},
           "y": {"scale": "y", "field": "count"},
           "y2": {"scale": "y", "value": 0},
           "stroke": {"value": "#ffcc99"},
@@ -248,6 +228,26 @@ const spec = {
           "strokeWidth": {"value": 0},
           "strokeOpacity": {"value": 0.8},
           "fill": {"value": "#e7d4e8"},
+          "fillOpacity": {"value": 0.5},
+          "interpolate": {"signal": "interpolate"}
+        },
+        "update": {
+          "interpolate": {"signal": "interpolate"}
+        }
+      }
+    },
+    {
+      "type": "area",
+      "from": {"data": "filterSteam"},
+      "encode": {
+        "enter": {
+          "x": {"scale": "x", "field": "week"},
+          "y": {"scale": "y", "field": "total"},
+          "y2": {"scale": "y", "field": "count3" },
+          "stroke": {"value": "#a6dba0"},
+          "strokeWidth": {"value": 0},
+          "strokeOpacity": {"value": 0.8},
+          "fill": {"value": "#a6dbd9"},
           "fillOpacity": {"value": 0.5},
           "interpolate": {"signal": "interpolate"}
         },
@@ -304,7 +304,6 @@ const spec = {
     }
   ]
 }
-
 
 
 draw = function () { 
