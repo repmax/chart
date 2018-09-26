@@ -76,10 +76,10 @@ const spec = {
     },
     {
       "name": "topData",
-      "format": {"type": "tsv", "parse": {"week": "number", "retweet_count":"number", "favorite_count":"number"}},
+      "format": {"type": "tsv", "parse": {"week": "number", "retweet_count":"number", "quoA":"number", "quoB":"number","repA":"number", "repB":"number", "favorite_count":"number"}},
       "url": "https://raw.githubusercontent.com/repmax/launchpad/master/tb_tweet_top_v2.tsv",
        "transform": [
-        {"type": "formula", "expr": "datum.retweet_count+datum.favorite_count", "as": "interaction"},
+        {"type": "formula", "expr": "datum.retweet_count+datum.quoA+datum.quoB+datum.repA+datum.repB", "as": "interaction"},
         {"type": "formula", "expr": "'https://twitter.com/statuses' + datum.tid", "as": "url"}
     ]
     },
@@ -160,7 +160,7 @@ const spec = {
     {"orient": "left",
      "scale": "y",
       "offset": 35,
-      "title": "TWEETS/WEEK",
+      "title": "ACTIVITY",
       "titlePadding": 5,
       "titleFontSize": 13,
       "titleFontWeight": 100
@@ -168,7 +168,7 @@ const spec = {
     {
       "orient": "right",
       "scale": "z",
-      "title": "INTERACTIONS",
+      "title": "IMPACT",
       "offset": 50,
       "titlePadding": 5,
       "titleFontSize": 13,
@@ -295,7 +295,7 @@ const spec = {
         "update": {
           "y": {"scale": "z", "field": "interaction"},
           "opacity": {"value": 1},
-          "tooltip": {"signal": "{title: datum.screen_name, 'Tweet': datum.text ,'Total': datum.interaction, 'Retweets': datum.retweet_count, 'Favorites': datum.favorite_count, 'TwitterID': datum.tid}"}
+          "tooltip": {"signal": "{title: datum.screen_name, 'Tweet': datum.text ,'Impact': datum.interaction, 'Quotes': datum.quoA+datum.quoB, 'Replies': datum.repA+datum.repB,'Retweets': datum.retB, 'Off. retweets': datum.retweet_count, 'Off. favorites': datum.favorite_count, 'TwitterID': datum.tid}"}
         },
         "hover": {
           "opacity": {"value": 0.5}
@@ -304,6 +304,7 @@ const spec = {
     }
   ]
 }
+
 
 
 
