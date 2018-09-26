@@ -79,7 +79,7 @@ const spec = {
       "format": {"type": "tsv", "parse": {"week": "number", "retweet_count":"number", "quoA":"number", "quoB":"number","repA":"number", "repB":"number", "favorite_count":"number"}},
       "url": "https://raw.githubusercontent.com/repmax/launchpad/master/tb_tweet_top_v2.tsv",
        "transform": [
-        {"type": "formula", "expr": "datum.retweet_count+datum.quoA+datum.quoB+datum.repA+datum.repB", "as": "interaction"},
+        {"type": "formula", "expr": "datum.retweet_count", "as": "interaction"},
         {"type": "formula", "expr": "'https://twitter.com/statuses' + datum.tid", "as": "url"}
     ]
     },
@@ -168,7 +168,7 @@ const spec = {
     {
       "orient": "right",
       "scale": "z",
-      "title": "IMPACT",
+      "title": "RETWEETS",
       "offset": 50,
       "titlePadding": 5,
       "titleFontSize": 13,
@@ -304,7 +304,6 @@ const spec = {
     }
   ]
 }
-
 
 
 
